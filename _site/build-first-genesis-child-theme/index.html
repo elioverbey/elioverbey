@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>How to Build Your First Genesis Child Theme &#8211; Eli Overbey</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup">
+    <meta name="robots" content="all">
+    <meta name="author" content="Eli Overbey">
+    
+    <meta name="keywords" content="SEO, Web Design">
+    <link rel="canonical" href="http://localhost:4000/build-first-genesis-child-theme/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Eli Overbey" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201711012320" type="text/css">
+
+    <!-- Fonts -->
+    
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+    
+
+    <!-- MathJax -->
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="How to Build Your First Genesis Child Theme">
+    <meta property="og:description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup">
+    <meta property="og:url" content="http://localhost:4000/build-first-genesis-child-theme/">
+    <meta property="og:site_name" content="Eli Overbey">
+    
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+    <meta name="twitter:title" content="How to Build Your First Genesis Child Theme" />
+    <meta name="twitter:description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup" />
+    <meta name="twitter:url" content="http://localhost:4000/build-first-genesis-child-theme/" />
+    
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    
+</head>
+
+<body class="site">
+  
+	
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://localhost:4000" class="site-title">Eli Overbey</a>
+      <nav class="site-nav">
+        
+
+
+
+    
+    
+    
+    
+        <a href="/about/">About</a>
+    
+
+    
+
+    
+    
+    
+    
+        <a href="/contact/">Say Hello</a>
+    
+
+    
+
+
+      </nav>
+      <div class="clearfix"></div>
+      
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>How to Build Your First Genesis Child Theme</h1>
+  <span class="post-meta">Mar 15, 2014</span><br>
+  
+  <span class="post-meta small">
+  
+    10 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <p>I’ve been interested in Genesis for years, have built multiples sites on it, but have never really developed my own theme. I’ve tweaked other themes, even modified them to look completely different, but now I am going to build my own theme. I am not sure what I’ll call it yet, but it’ll be free, will be minimal, and won’t be heavy.</p>
+
+<h3 id="building-your-first-genesis-child-theme-what-are-the-necessary-files">Building Your First Genesis Child Theme: What are the Necessary Files?</h3>
+
+<p>Let’s just start here. I am assuming you have used Genesis before, but if you have not, go buy Genesis and install it. Once it is installed, we will be working with theses files and folders, so go ahead and create them all.</p>
+
+<p>First off, create a folder for the theme itself. For this project, Ill just name it: nominal. Then place all of these files and folders inside:</p>
+
+<p><strong>Nominal</strong></p>
+
+<ul>
+  <li>functions.php</li>
+  <li>page_landing.php</li>
+  <li>style.css</li>
+  <li>screenshot.png</li>
+  <li>README.txt (no one really ever reads these)</li>
+  <li>(Folder) images</li>
+  <li>(Folder) js</li>
+  <li>(Optional Folder) languages – *This theme won’t include a languages folder. Languages folder normally stores a file with a .pot extension for Internationalizing the theme (I18n).</li>
+  <li>(Optional Folder) xml – *This theme will provide dummy content for you to use as filler text. Or you can just grab some lorem ipsum.</li>
+</ul>
+
+<h3 id="what-are-those-files-exactly">What are those files exactly?</h3>
+
+<p>This is the beauty of the Genesis Framework. When you work with other themes, you don’t have a standard set of files, and you don’t have a normalized system. If you were to download a theme from themeforest, or use one the standard themes on WP, you’ll see 10+ files and folders…</p>
+
+<p>Let’s start with functions.php.</p>
+
+<blockquote>
+  <p>The functions file behaves like a <a href="https://codex.wordpress.org/Plugins" title="Plugins">WordPress Plugin</a>, adding features and functionality to a WordPress site. You can use it to call functions, both PHP and built-in WordPress, and to define your own functions. You can produce the same results by adding code to a WordPress Plugin or through the WordPress Theme functions file.</p>
+</blockquote>
+
+<p>Let’s get started on our functions.php file. Before the snippet, I’ll go through and <em>briefly</em> explain what each function does. If you are confused by the syntax of the function itself, I’d suggest reading <a href="http://designsbynickthegeek.com/tutorials/genesis-explained-the-framework" target="_blank">Genesis Explained by a great guy named Nick.</a></p>
+
+<h3 id="start-the-genesis-engine">Start the Genesis Engine</h3>
+
+<p>The first line we want to add to this new file (functions.php) is to ensure the entire Genesis Framework is loaded in our child theme. Add the below code to your new file.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Start the engine
+include_once( get_template_directory() . '/lib/init.php' );
+</pre>
+
+<p>We also want to set some definitions in Genesis for our Child Theme. This will help when you add widgets, etc. Ever wondered where Genesis gets some of the default information for the footer? This is it.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Child theme
+define( 'CHILD_THEME_NAME', 'Nominal Theme' );
+define( 'CHILD_THEME_URL', 'http://elioverbey.net' );
+define( 'CHILD_THEME_VERSION', '1.0' );
+</pre>
+
+<p>We are adding in our scripts and styles. Even though we have not created them yet, this is what we will be creating and calling. The created a function that queues the responsive menu, WP Dashicons, and finally, Google fonts.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Enqueue scripts and styles
+add_action( 'wp_enqueue_scripts', 'Nominal_enqueue_scripts_styles' );
+function Nominal_enqueue_scripts_styles() {
+
+wp_enqueue_script( 'Nominal-responsive-menu', get_bloginfo( 'stylesheet_directory' ) . '/js/responsive-menu.js', array( 'jquery' ), '1.0.0' );
+wp_enqueue_style( 'dashicons' );
+wp_enqueue_style( 'Nominal-google-fonts', '//fonts.googleapis.com/css?family=Montserrat|Sorts+Mill+Goudy', array(), CHILD_THEME_VERSION );
+
+}
+</pre>
+
+<h3 id="make-the-child-theme-html5-compliant">Make The Child Theme HTML5 Compliant</h3>
+
+<p>To use the Genesis HTML5 structure we need to add a small snippet of code that is a built in function within WordPress. This code allows the use of HTML5 ‘markup’ for the Genesis child theme. *Note – Previously the code to enable HTML5 markup was different. While the previously suggested code from Genesis will not break the site, there will be an error message displayed if Debug mode is enabled.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Add HTML5 markup structure
+add_theme_support( 'html5', array( 'search-form', 'comment-form', 'comment-list' ) );
+</pre>
+
+<h3 id="add-mobile-responsiveness-to-your-child-theme">Add Mobile Responsiveness To Your Child Theme</h3>
+
+<p>To add the ability to write CSS code so that your child theme that adapts to mobile devices, we need to add a second snippet of code to make the Genesis child theme mobile responsive. Once this is added, your theme will adapt to the size of the screen viewing the site. The meta tag makes your website ready to be viewed on mobile.</p>
+
+<p>This is a WordPress function like the above, but the ‘feature’ in-between the parenthesis is a Genesis specific feature contained in the framework. Copy and paste the snippet below into your code.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Add viewport meta tag for mobile browsers
+add_theme_support( 'genesis-responsive-viewport' );
+</pre>
+
+<h3 id="create-the-main-navigation">Create the Main Navigation</h3>
+
+<p>In the snippet below, we are simply moving the header from its default position after_header to above the header. We are also removing the secondary navigation. In this theme, we are going to keep it simple.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Unregister secondary navigation menu
+add_theme_support( 'genesis-menus', array( 'primary' =&gt; __( 'Primary Navigation Menu', 'genesis' ) ) );
+
+//* Reposition the primary navigation menu
+remove_action( 'genesis_after_header', 'genesis_do_nav' );
+add_action( 'genesis_header', 'genesis_do_nav', 12 );
+</pre>
+
+<p>Next up, we remove output of primary navigation right extras. What’s that? It removes Primary Navigation menu items, such as the RSS links, search form, twitter link, or today’s date (They are in the Genesis Panel). Because the nav itself will float right, we need to remove the optional extras.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Remove output of primary navigation right extras
+remove_filter( 'genesis_nav_items', 'genesis_nav_right', 10, 2 );
+remove_filter( 'wp_nav_menu_items', 'genesis_nav_right', 10, 2 );
+</pre>
+
+<p>Finally, we reduce the primary navigation menu to one level depth. The following example code will add an ID to the container and change the “depth” to 1 so that links at all levels are displayed in a single flat list. Basically, you can’t nest menu items – no dropdowns.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Reduce the primary navigation menu to one level depth
+add_filter( 'wp_nav_menu_args', 'Nominal_primary_menu_args' );
+function Nominal_primary_menu_args( $args ){
+
+if( 'primary' != $args['theme_location'] )
+return $args;
+
+$args['depth'] = 1;
+return $args;
+
+}
+</pre>
+
+<h3 id="removing-genesis-actions">Removing Genesis Actions</h3>
+
+<p>We are going to clean up our theme. When you start the Genesis engine, there are certain actions that get included. But with this “Car”, what if I don’t want all that is included? Say I just want a driver’s seat – no passengers? I’ll need to remove them. Let’s remove the parts we don’t need.</p>
+
+<p>We removed the 3-column footer widgets, the entry meta data in the footer (“Filed Under”), the right header widget (we will place a nav), and the sidebar. We are keeping it simple.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Remove support for 3-column footer widgets
+remove_theme_support( 'genesis-footer-widgets', 1 );
+
+//* Remove the entry meta in the entry footer (requires HTML5 theme support)
+remove_action( 'genesis_entry_footer', 'genesis_post_meta' );
+
+//* Remove the header right widget area
+unregister_sidebar( 'header-right' );
+
+/** Remove default sidebar */
+remove_action( 'genesis_sidebar', 'genesis_do_sidebar' );
+</pre>
+
+<p>Next up, we are unregistering certain layouts a) that the theme outputs, and b) that the users could pick on the backend. Now, they only have one default layout in Genesis Theme settings. The functions below remove the secondary sidebar, and the other Genesis layouts that we are not using. Technically, we are only using one layout.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Unregister secondary sidebar
+unregister_sidebar( 'sidebar-alt' );
+
+//* Unregister layout settings
+genesis_unregister_layout( 'content-sidebar' );
+genesis_unregister_layout( 'sidebar-content' );
+genesis_unregister_layout( 'content-sidebar-sidebar' );
+genesis_unregister_layout( 'sidebar-content-sidebar' );
+genesis_unregister_layout( 'sidebar-sidebar-content' );
+</pre>
+
+<h3 id="last-up-add-support-for-structural-wraps">Last up, Add Support for Structural Wraps</h3>
+
+<p>Since we are being so minimal, I need to add more navigation (besides the primary nav). Breadcrumbs are nice – and are already built to hook in – but I don’t want to use them on this theme. Without a sidebar, these previous and next post links after the post work well.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">/** Add post navigation (requires HTML5 support) */
+add_action( 'genesis_after_entry_content', 'genesis_prev_next_post_nav', 10 );
+</pre>
+
+<p>That’s all. You now have a completed functions.php file. It should look something like this:</p>
+
+<p>Don’t get too excited, it only looks like old html right now. But don’t worry, some CSS, a little javascript, and you’ll have a great looking theme.</p>
+
+<div id="attachment_2012" style="width: 1034px" class="wp-caption alignnone">
+  <img class="size-large wp-image-2012" src="/images/wp-uploads/2014/03/Screen-Shot-2014-03-16-at-12.00.08-AM-1024x570.png" alt="Nominal" width="1024" height="570" />
+  
+  <p class="wp-caption-text">
+    Nominal
+  </p>
+</div>
+
+<h3 id="next-up-lets-create-a-genesis-landing-page">Next Up: Let’s Create a Genesis Landing Page</h3>
+
+<p>Want to create a Genesis Landing Page? It is fairly simple. You pretty much just remove and unregister everything so that you end up with a blank canvas.</p>
+
+<p>Create a page called page-landing.php. Add the following code to it, to register it as a page template. Add the following code to it, to register it as a page template.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">&lt;?php
+/**
+* This file adds the Landing template to the Nominal Theme.
+*
+* @author Eli Overbey
+* @package Nominal
+* @subpackage Customizations
+*/
+
+/*
+Template Name: Landing
+*/
+</pre>
+
+<p>Now, we are going to create a custom body class to add CSS styles to it. This will allow you to target only the landing page by using the class nominal-landing.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Add custom body class to the head
+add_filter( 'body_class', 'nominal_add_body_class' );
+function nominal_add_body_class( $classes ) {
+
+$classes[] = 'nominal-landing';
+return $classes;
+
+}
+</pre>
+
+<p>Since the primary element of a landing page is providing a clean page, you should remove all the things from the page. This will remove the header,navigation, breadcrumbs, footer, sidebar and all other elements from the page, creating a full-width clean layout.</p>
+
+<pre class="brush: php; title: ; notranslate" title="">//* Force full width content layout
+add_filter( 'genesis_site_layout', '__genesis_return_full_width_content' );
+
+//* Remove site header elements
+remove_action( 'genesis_header', 'genesis_header_markup_open', 5 );
+remove_action( 'genesis_header', 'genesis_do_header' );
+remove_action( 'genesis_header', 'genesis_header_markup_close', 15 );
+
+//* Remove navigation
+remove_action( 'genesis_before_content_sidebar_wrap', 'genesis_do_nav' );
+remove_action( 'genesis_footer', 'genesis_do_subnav', 7 );
+
+//* Remove breadcrumbs
+remove_action( 'genesis_before_loop', 'genesis_do_breadcrumbs' );
+
+//* Remove site footer widgets
+remove_action( 'genesis_before_footer', 'genesis_footer_widget_areas' );
+
+//* Remove site footer elements
+remove_action( 'genesis_footer', 'genesis_footer_markup_open', 5 );
+remove_action( 'genesis_footer', 'genesis_do_footer' );
+remove_action( 'genesis_footer', 'genesis_footer_markup_close', 15 );
+
+//* Run the Genesis loop
+genesis();
+</pre>
+
+<h3 id="add-css-styling">Add CSS styling</h3>
+
+<p>Next up, we will finally style the theme. I am not going to go step by step and explain what each portion does. But, you can download it on Github.</p>
+
+<h3 id="add-some-javascript-and-necessary-files">Add Some Javascript and Necessary Files</h3>
+
+<p>We’ve completed the style.css, page-landing.php, and functions. These last few files are easy to finish.</p>
+
+<ul>
+  <li>screenshot.png – add this screenshot to show what the theme looks like</li>
+  <li>README.txt – give some necessary information on installation.</li>
+  <li>(Folder) images – all you need right now is to drop a favicon.ico in now</li>
+  <li>(Optional Folder) xml – *This theme will provide dummy content for you to use as filler text. Or you can just grab some lorem ipsum.</li>
+</ul>
+
+<p>Last but not least, let’s create our javascript folder (js) and add the javascript. Inside of the js folder, add a document titled “responsive-menu.js”. Make sure you title the file the same because that is how it was queued in the functions.</p>
+
+<p>This javascript adds a class, creates the toggle motion, and removes a class at 768 pixels. <a href="http://sridharkatakam.com/make-header-menu-mobile-responsive-outreach-pro/">Credit goes to Sridhar for the adaptation</a>.</p>
+
+<pre class="brush: java; title: ; notranslate" title="">jQuery(function( $ ){
+
+// Enable responsive menu icon for mobile
+$("header .genesis-nav-menu").addClass("responsive-menu").before('&lt;/pre&gt;
+&lt;div id="responsive-menu-icon"&gt;&lt;/div&gt;
+&lt;pre&gt;
+');
+
+$("#responsive-menu-icon").click(function(){
+$("header .genesis-nav-menu").slideToggle();
+});
+
+$(window).resize(function(){
+if(window.innerWidth &gt; 768) {
+$("header .genesis-nav-menu").removeAttr("style");
+}
+});
+
+});
+</pre>
+
+<p>You made it. I hope you learned as much as I did. All of the code above can be downloaded in my free theme: <a href="https://github.com/elioverbey/Nominal/releases" target="_blank">Nominal</a>. Grab it on Github.</p>
+
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      &copy; 2017 Eli Overbey
+    </small>
+  </div>
+</footer>
+
+
+</body>
+</html>
