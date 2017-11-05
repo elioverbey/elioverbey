@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Add Slider to the Home Page of Minimum Pro Theme v.3.0 &#8211; Updated! &#8211; Eli Overbey</title>
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup">
+    <meta name="robots" content="all">
+    <meta name="author" content="Eli Overbey">
+    
+    <meta name="keywords" content="Web Design">
+    <link rel="canonical" href="http://localhost:4000/add-slider-home-page-minimum-pro-theme-v-3-0/">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for Eli Overbey" href="/feed.xml" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/pixyll.css?201711012320" type="text/css">
+
+    <!-- Fonts -->
+    
+    <link href='//fonts.googleapis.com/css?family=Merriweather:900,900italic,300,300italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
+    
+    
+
+    <!-- MathJax -->
+    
+
+    <!-- Verifications -->
+    
+    
+
+    <!-- Open Graph -->
+    <!-- From: https://github.com/mmistakes/hpstr-jekyll-theme/blob/master/_includes/head.html -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Add Slider to the Home Page of Minimum Pro Theme v.3.0 &amp;#8211; Updated!">
+    <meta property="og:description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup">
+    <meta property="og:url" content="http://localhost:4000/add-slider-home-page-minimum-pro-theme-v-3-0/">
+    <meta property="og:site_name" content="Eli Overbey">
+    
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary" />
+    
+    <meta name="twitter:title" content="Add Slider to the Home Page of Minimum Pro Theme v.3.0 &#8211; Updated!" />
+    <meta name="twitter:description" content="Growth Team Lead @ Help Scout. Growth lessons learned at a Startup" />
+    <meta name="twitter:url" content="http://localhost:4000/add-slider-home-page-minimum-pro-theme-v-3-0/" />
+    
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/favicon-192x192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/favicon-160x160.png" sizes="160x160">
+    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+
+    
+</head>
+
+<body class="site">
+  
+	
+
+  <div class="site-wrap">
+    <header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="http://localhost:4000" class="site-title">Eli Overbey</a>
+      <nav class="site-nav">
+        
+
+
+
+    
+    
+    
+    
+        <a href="/about/">About</a>
+    
+
+    
+
+    
+    
+    
+    
+        <a href="/contact/">Say Hello</a>
+    
+
+    
+
+
+      </nav>
+      <div class="clearfix"></div>
+      
+    </div>
+  </div>
+</header>
+
+
+    <div class="post p2 p-responsive wrap" role="main">
+      <div class="measure">
+        
+
+
+<div class="post-header mb2">
+  <h1>Add Slider to the Home Page of Minimum Pro Theme v.3.0 &#8211; Updated!</h1>
+  <span class="post-meta">Oct 5, 2013</span><br>
+  
+  <span class="post-meta small">
+  
+    1 minute read
+  
+  </span>
+</div>
+
+<article class="post-content">
+  <p>StudioPress just released Minimum Pro Theme to Genesis Framework users.</p>
+
+<p>I recently wanted to substitute a slider on the homepage instead of a static featured image. I’ll post the solution here in case you’d like to try it yourself. (btw – just giving a thanks – <a href="http://www.studiopress.com/forums/users/tedvieira/">Ted</a> helped me out a ton!)</p>
+
+<p><img src="/images/wp-uploads/2013/08/Thrivewors-e1377803909306.jpg" alt="Thriveworks" /></p>
+
+<p><strong>CREATE A NEW WIDGET AREA</strong></p>
+
+<p>The featured image used in the Minimum Pro Theme demo is hard-coded into funtions.php. We’re going to change this by creating a new widget area for our home page slider.</p>
+
+<p>To register a new widget area, drop the following into your functions.php (between header and tagline widgets on homepage).</p>
+
+<p>After adding this code to your theme and saving it, you can go to Appearance &gt; Widgets and see your new widget area. You can drop widgets in there and add content all you like, but it won’t show up on your home page until we tell it to do so.</p>
+
+<p><strong>ADD THE NEW WIDGET AREA TO THE HOME PAGE</strong></p>
+
+<p>Add this to functions.php:</p>
+
+<p><strong>Then REMOVE (on functions.php):</strong></p>
+
+<p>Removed:</p>
+
+<p>And on front-page.php, remove or comment out:</p>
+
+<p>Done!</p>
+
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <footer class="center">
+  <div class="measure">
+    <small>
+      &copy; 2017 Eli Overbey
+    </small>
+  </div>
+</footer>
+
+
+</body>
+</html>
