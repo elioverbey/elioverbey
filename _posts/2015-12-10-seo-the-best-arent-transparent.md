@@ -13,7 +13,7 @@ In SEO, most are self-taught by reading the great blogs at Moz, Blind Five Year 
 
 That&#8217;s my story. I started on <a href="https://moz.com/beginners-guide-to-seo" target="_blank">Moz&#8217;s SEO guide</a> (doesn&#8217;t it bring back good memories):
 
-<img class="alignnone size-full wp-image-3446" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM.png" alt="Screen Shot 2016-01-27 at 3.49.12 PM" width="1167" height="625" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM.png 1167w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-300x161.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-768x411.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-1024x548.png 1024w" sizes="(max-width: 1167px) 100vw, 1167px" />
+<img class="alignnone size-full wp-image-3446" src="Screen-Shot-2016-01-27-at-3.49.12-PM-1024x548.png" width="1167" height="625" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM.png 1167w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-300x161.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-768x411.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.49.12-PM-1024x548.png 1024w" sizes="(max-width: 1167px) 100vw, 1167px" />
 
 I watched every Whiteboard Friday on Friday morning. I even tried to post it on Inbound before anyone else 🙂 I then graduated from only asking questions to giving answers in the forums.
 
@@ -21,7 +21,7 @@ Next, I started picking up content from others: Search Engine Land, SE Journal, 
 
 I thought I was an expert in SEO. I had read every article on Moz (no exxageration). I was giving expert &#8220;answers&#8221; on forums. I consulted with sites, and even completed several projects with different IT teams and Project Managers:
 
-<a href="http://anagilemind.net/2015/02/07/collection-of-agile-related-memes/" rel="attachment wp-att-3448"><img class="alignnone size-full wp-image-3448" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM.png" alt="Screen Shot 2016-01-27 at 3.52.33 PM" width="538" height="333" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM.png 538w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM-300x186.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+<a href="http://anagilemind.net/2015/02/07/collection-of-agile-related-memes/" rel="attachment wp-att-3448"><img class="alignnone size-full wp-image-3448" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM-300x186.png" alt="Screen Shot 2016-01-27 at 3.52.33 PM" width="538" height="333" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM.png 538w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.52.33-PM-300x186.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
 
 I &#8220;thought&#8221; I was an SEO expert. I had built the specs, run the sprints, and lived 100% organic (a little SEO / IT humor).
 
@@ -96,11 +96,11 @@ Personally, I will read a Growth / SEO job description over a blog article on &#
 
 Think you&#8217;re an expert? Nothing more humbling than reading a job you aren&#8217;t qualified for. Take a look at Trip Advisor&#8217;s JD for a SEO Strategist:
 
-<img class="alignnone size-full wp-image-3419" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM.png" alt="SEO Technical" width="1114" height="284" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM.png 1114w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-300x76.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-768x196.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-1024x261.png 1024w" sizes="(max-width: 1114px) 100vw, 1114px" />
+<img class="alignnone size-full wp-image-3419" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-1024x261.png" alt="SEO Technical" width="1114" height="284" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM.png 1114w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-300x76.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-768x196.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-11.54.24-AM-1024x261.png 1024w" sizes="(max-width: 1114px) 100vw, 1114px" />
 
 When was the last time you saw an in-depth post on SEO and SQL on any mainstream blogs? What about HIVE and SEO? How many SEOs know what HIVE is? (a few years ago &#8211; I didn&#8217;t). **Why? Because no one has covered it in the mainstream blogs:**
 
-<img class="alignnone size-full wp-image-3424" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM.png" alt="Screen Shot 2016-01-27 at 12.31.00 PM" width="739" height="457" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM.png 739w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM-300x186.png 300w" sizes="(max-width: 739px) 100vw, 739px" />
+<img class="alignnone size-full wp-image-3424" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM-634x360.png" alt="Screen Shot 2016-01-27 at 12.31.00 PM" width="739" height="457" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM.png 739w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.31.00-PM-300x186.png 300w" sizes="(max-width: 739px) 100vw, 739px" />
 
 How would you know that &#8220;The Best&#8221; SEOs need to know HIVE/SQL unless you read the job descriptions? Trip Advisor isn&#8217;t writing articles about &#8220;How they used HIVE in project X to grow their SEO traffic by Y%&#8221;.
 
@@ -110,7 +110,7 @@ Notice what is not mentioned in the JD?
 
 Let&#8217;s keep going: what about Amazon (SEO Manager):
 
-<img class="alignnone size-full wp-image-3420" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM.png" alt="Amazon JD" width="747" height="233" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM.png 747w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM-300x94.png 300w" sizes="(max-width: 747px) 100vw, 747px" />
+<img class="alignnone size-full wp-image-3420" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM-634x233.png" alt="Amazon JD" width="747" height="233" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM.png 747w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-12.15.34-PM-300x94.png 300w" sizes="(max-width: 747px) 100vw, 747px" />
 
 Geez. Still think &#8220;Good Content is the best SEO&#8221; is a good enough answer to call yourself an expert SEO? I can&#8217;t remember the last article I read on Artificial Intelligence and SEO.
 
@@ -131,7 +131,7 @@ So what did I do after I failed? I went back &#8211; re-read the job description
 
 It was asking those questions that led to a greater understanding of SEO. I quickly learned that large site / e-commerce SEO was less about reading the latest content or link-building piece, and more about solving problems with large data sets. It was about:
 
-<img class="alignnone size-full wp-image-3442" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM.png" alt="Screen Shot 2016-01-27 at 3.33.03 PM" width="1068" height="204" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM.png 1068w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-300x57.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-768x147.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-1024x196.png 1024w" sizes="(max-width: 1068px) 100vw, 1068px" />
+<img class="alignnone size-full wp-image-3442" src="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-1024x196.png" alt="Screen Shot 2016-01-27 at 3.33.03 PM" width="1068" height="204" srcset="http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM.png 1068w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-300x57.png 300w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-768x147.png 768w, http://elioverbey.com/wp-content/uploads/2016/01/Screen-Shot-2016-01-27-at-3.33.03-PM-1024x196.png 1024w" sizes="(max-width: 1068px) 100vw, 1068px" />
 
 After being declined for the job, I stopped consuming every piece of content marketing. I stayed up to date with the major publications and am grateful to those blogs for having a solid understanding of SEO, but I spent my time reading job descriptions that I was not qualified for and started:
 
