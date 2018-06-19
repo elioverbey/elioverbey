@@ -4,7 +4,7 @@ email:       elioverbey@gmail.com
 author:      Eli Overbey
 description: "Growth Team Lead @ Help Scout. Growth lessons learned at a Startup"
 baseurl:     ""
-url:         "http://elioverbey.com"
+url:         "https://elioverbey.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
