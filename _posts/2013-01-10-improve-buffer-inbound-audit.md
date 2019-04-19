@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I'd Help Buffer Improve Their SEO: An In-Depth Audit"
+title:  "Improving Buffer's SEO: An In-Depth Audit"
 date:   2013-01-10 10:18:00
 permalink: improve-buffer-inbound-audit/
 ---
@@ -8,6 +8,12 @@ permalink: improve-buffer-inbound-audit/
  <p>Buffer’s people have spent hours creating a quality product and interacting with their customers. If you’ve ever replied to a comment on one of their posts or reached out to them personally, you know that Buffer is built on transparency and intentionality.</p>
 
 <p>And if you’ve ever been as busy as Buffer – shipping great apps, creating quality content, and engaging with customers 24/7 – you know that monitoring your <em>own</em> website for optimization and conversion can get put on the bottom of the list. In Buffer’s case – their content marketer, Courtney, has done a great job of preventing that, but this audit will provide a third party look into Buffer’s inbound strategy.</p>
+
+ {% highlight html %}
+Hi friend! Please note the date on this post. I wrote this post years ago, so while some of it might be helpful, most of it is out of date. I've contemplated deleting the post, but I like to keep it around.
+
+If you are curious, I not only got a shirt, I got 3. And a great job -- just not at Wistia, but at Help Scout. 4+ years later, I'm still happily there. 
+{% endhighlight %}
 
 <p>In this post, I’ve put together a detailed, technical Inbound Marketing Audit for Buffer. This audit is widespread and comprehensive, covering a wide range of Inbound Marketing Tactics (e.g., optimization, calls-to-action, landing pages, forms, contacts, emails, etc…). Please feel free to use this as a template or example when conducting inbound / seo audits of  your own. But before the inbound marketing audit, let’s cover the basics…</p>
 

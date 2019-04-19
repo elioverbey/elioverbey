@@ -14,11 +14,17 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia certainly has thought about SEO from a product perspective; their video embeds for SEO are top notch (seriously, I could not be more of an advocate for Wistia Video Hosting after spending weeks auditing – I’d never host my videos anywhere else – and that’s saying a lot – so <a href="http://wistia.com/free/new" target="_blank">Get Started Here</a> [not an affiliate link] or <a href="https://www.distilled.net/blog/video/getting-video-results-in-google/" target="_blank">check out this great article via Phil Nottingham at Distilled</a>).</p>
 
+ {% highlight html %}
+Hi friend! Please note the date on this post. I wrote this post years ago, so while some of it might be helpful, most of it is out of date. I've contemplated deleting the post, but I like to keep it around.
+
+If you are curious, I not only got a shirt, I got 3. And a great job -- just not at Wistia, but at Help Scout. 4+ years later, I'm still happily there. 
+{% endhighlight %}
+
 <p>But what about using SEO to market their own website? They currently rank #1 for “video hosting,” but given the right tools, could they increase their organic traffic and CRO? As I looked through their employees, I didn’t see an SEO Analyst or Inbound Manager who is specifically devoted to this issue, so I thought I could offer some fresh perspective.</p>
 
 <p>The last major redesign for Wistia happened during the first week of April in 2013. Since a year old website is ancient in web standards, and a redesign may be in the future, I thought now would be a great time to chime in.</p>
 
-<p><img class="aligncenter size-large wp-image-2193" src="/images/wp-uploads/2014/05/Wistia-Team-1024x523.jpg" alt="Wistia Team" width="1024" height="523" /></p>
+<p><img class="aligncenter size-large wp-image-2193" src="/assets/images/wistia/Wistia-Team-1024x523.jpg" alt="Wistia Team" width="1024" height="523" /></p>
 
 <p>In this post, I’ve put together a detailed,<strong> technical SEO Audit</strong> for Wistia. My audit is widespread and comprehensive, covering a wide range of SEO topics (e.g., article listings, structured data, duplicate content, backlink analysis, etc.). But before the audit, let’s cover the basics…</p>
 
@@ -26,7 +32,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p><a href="http://wistia.com/">Wistia Inc</a>. is an internet video hosting and analytics company that was founded in April 2006 by Brown University graduates Chris Savage and Brendan Schwartz.</p>
 
-<p><a href="http://wistia.com"><img class="aligncenter size-large wp-image-2191" src="/images/wp-uploads/2014/05/Video-Hosting-for-Business-2014-05-04-14-27-33-1024x495.png" alt="Video Hosting for Business 2014-05-04 14-27-33" width="1024" height="495" /></a></p>
+<p><a href="http://wistia.com"><img class="aligncenter size-large wp-image-2191" src="/assets/images/wistia/Video-Hosting-for-Business-2014-05-04-14-27-33-1024x495.png" alt="Video Hosting for Business 2014-05-04 14-27-33" width="1024" height="495" /></a></p>
 
 <h4 id="disclaimer">Disclaimer</h4>
 
@@ -109,21 +115,21 @@ permalink: improve-wistia-inbound-audit/
   <li>What is the percentage of organic traffic?</li>
 </ol>
 
-<p>To determine Wistia’s SEO performance, I used two tools: <a href="http://suite.searchmetrics.com/en/research/domains/organic?url=wistia.com" target="_blank">Searchmetrics Suit</a>, and one of my new favorites, <a href="http://new.similarweb.com/website/wistia.com" target="_blank">Similar Web</a>. Again, finding accurate third party data is incredibly difficult, but after using Google Analytics on a network of sites, I’ve found that these two programs provide the most accuracy in capturing data.</p>
+<p>To determine Wistia’s SEO performance, I used two tools: <a href="http://suite.searchmetrics.com/en/research/domains/organic?url=wistia.com" target="_blank">Searchmetrics Suit</a>, and one of my new favorites, <a href="" target="_blank">Similar Web</a>. Again, finding accurate third party data is incredibly difficult, but after using Google Analytics on a network of sites, I’ve found that these two programs provide the most accuracy in capturing data.</p>
 
-<p><a href="http://new.similarweb.com/website/wistia.com" target="_blank"><img class="aligncenter size-large wp-image-2343" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-9.01.07-PM-1024x281.png" alt="Organic Search" width="1024" height="281" /></a>As this graph shows, Wisita’s traffic is growing. It is estimated that the monthly traffic to Wistia.com is 4.8 million, with a high time-on-site average and an extremely low bounce rate. Things are looking pretty good for Wistia, but let’s take a closer look.</p>
+<p><a href="" target="_blank"><img class="aligncenter size-large wp-image-2343" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-9.01.07-PM-1024x281.png" alt="Organic Search" width="1024" height="281" /></a>As this graph shows, Wisita’s traffic is growing. It is estimated that the monthly traffic to Wistia.com is 4.8 million, with a high time-on-site average and an extremely low bounce rate. Things are looking pretty good for Wistia, but let’s take a closer look.</p>
 
 <p>Based on the data above, we are looking at all traffic (referrals, organic, paid, etc…) but we are really interested in <em>organic</em> for this audit. To get a better picture, we need to run some numbers and exclusions.</p>
 
 <p><strong>First Exclusion:</strong> Wistia’s users accounts (user.wistia.com) are each included in total sessions (more on that in the analysis below). This explains why the bounce rate is extremely low and the time on site is extremely high. When you sign up for an account at Wistia.com, you receive an account on a subdomain of wistia (elioverbey.wistia.com). Thus, users are repeating visits to their subdomain to login (lowering bounce) and upload videos (increasing time on site). This first exclusion removes over 51% of all visits. (As you can tell by the graph below, I am being generous by not excluding fast.wistia and secure.wistia).</p>
 
-<p><a href="http://new.similarweb.com/website/wistia.com" target="_blank"><img class="aligncenter size-full wp-image-2344" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-9.04.30-PM.png" alt="Subdomains" width="694" height="534" /></a></p>
+<p><a href="" target="_blank"><img class="aligncenter size-full wp-image-2344" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-9.04.30-PM.png" alt="Subdomains" width="694" height="534" /></a></p>
 
 <p>This exclusion removes 2,457,600 visits, and we are left with only 48.98% of visitors actually visiting a Wistia front-facing site (http://wistia.com, secure.wistia.com, embed.wistia.com, etc…).</p>
 
 <p><strong>Second Exclusion: </strong>According to the third party data, only 10.56% of all visits are organic.</p>
 
-<p><a href="http://new.similarweb.com/website/wistia.com" target="_blank"><img class="aligncenter size-large wp-image-2345" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-9.02.17-PM-1024x513.png" alt="Organic Traffic" width="1024" height="513" /></a></p>
+<p><a href="" target="_blank"><img class="aligncenter size-large wp-image-2345" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-9.02.17-PM-1024x513.png" alt="Organic Traffic" width="1024" height="513" /></a></p>
 
 <p>If you do the math, we are left with roughly 248,269 organic visitors per month to Wistia.com.</p>
 
@@ -137,7 +143,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>One very positive thing to note: in the last 6 months, Wistia does not seem to have been hurt by any penalties from Google. Again, you cannot trust the graph above because it contains all traffic and not just organic, but other graphs from Search Metrics show a similar pattern:</p>
 
-<p><a href="http://suite.searchmetrics.com/en/research/domains/organic?url=wistia.com" target="_blank"><img class="aligncenter size-large wp-image-2348" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-9.56.10-PM-1024x327.png" alt="Screen Shot 2014-05-18 at 9.56.10 PM" width="1024" height="327" /></a>There does seem to be a drop in keyword rankings from January to end of March, but luckily, there were no major updates released in that time period (just anonymous soft Panda updates). The cause could be that one of their major keywords “video hosting” seems to fluctuate quite a bit.</p>
+<p><a href="http://suite.searchmetrics.com/en/research/domains/organic?url=wistia.com" target="_blank"><img class="aligncenter size-large wp-image-2348" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-9.56.10-PM-1024x327.png" alt="Screen Shot 2014-05-18 at 9.56.10 PM" width="1024" height="327" /></a>There does seem to be a drop in keyword rankings from January to end of March, but luckily, there were no major updates released in that time period (just anonymous soft Panda updates). The cause could be that one of their major keywords “video hosting” seems to fluctuate quite a bit.</p>
 
 <h2 id="index">Index-ability</h2>
 
@@ -147,15 +153,15 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Based on my two previous site crawls, I was able to successfully crawl 5,685 unique pages. But, according to the search operator “site:”, Google has indexed quite a bit more. 31,400 to be exact.</p>
 
-<p><a href="https://www.google.com/search?q=site%3Awistia.com&amp;oq=site%3A&amp;aqs=chrome.0.69i59l3j69i57j69i58.2278j0j1&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8" target="_blank"><img class="aligncenter size-large wp-image-2237" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-13-at-9.56.34-PM-1024x225.png" alt="Indexability" width="1024" height="225" /></a></p>
+<p><a href="https://www.google.com/search?q=site%3Awistia.com&amp;oq=site%3A&amp;aqs=chrome.0.69i59l3j69i57j69i58.2278j0j1&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8" target="_blank"><img class="aligncenter size-large wp-image-2237" src="/assets/images/wistia/Screen-Shot-2014-05-13-at-9.56.34-PM-1024x225.png" alt="Indexability" width="1024" height="225" /></a></p>
 
 <p>According to this, Google has been able to crawl 6 times more than what I was able to crawl. But we need to keep in mind that the high result number is known to be inaccurate. On the other hand, it shows that Wistia needs to start “no-indexing” some of their content because when you navigate to page 54 on Google, you are greeted with this warning:</p>
 
-<p><a href="https://www.google.com/search?q=site%3Awistia.com&amp;oq=site%3A&amp;aqs=chrome.0.69i59l3j69i57j69i58.2278j0j1&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8#q=site:wistia.com&amp;start=530" target="_blank"><img class="aligncenter size-large wp-image-2238" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-13-at-10.03.08-PM-1024x400.png" alt="Duplicate Content" width="1024" height="400" /></a></p>
+<p><a href="https://www.google.com/search?q=site%3Awistia.com&amp;oq=site%3A&amp;aqs=chrome.0.69i59l3j69i57j69i58.2278j0j1&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8#q=site:wistia.com&amp;start=530" target="_blank"><img class="aligncenter size-large wp-image-2238" src="/assets/images/wistia/Screen-Shot-2014-05-13-at-10.03.08-PM-1024x400.png" alt="Duplicate Content" width="1024" height="400" /></a></p>
 
 <p>This warning suggests duplicate content issues. If you repeat the search with omitted results, you will notice 4 things:</p>
 
-<p><img class="aligncenter size-large wp-image-2239" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-13-at-9.56.20-PM-1024x235.png" alt="Repeat Search" width="1024" height="235" /></p>
+<p><img class="aligncenter size-large wp-image-2239" src="/assets/images/wistia/Screen-Shot-2014-05-13-at-9.56.20-PM-1024x235.png" alt="Repeat Search" width="1024" height="235" /></p>
 
 <p><strong>First,</strong> If you navigate to the last page, there are only around 6,000 pages indexed – which is much closer to my crawl estimate.</p>
 
@@ -163,7 +169,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p><strong>Third, </strong>There are duplicates that should be de-indexed. Wistia has hundreds of pages that are indexed that are basically copies of each other. Take for example: <span style="color: #006621;">wistia.com/blog?page=38</span> (Below).</p>
 
-<p><a href="http://wistia.com/blog?page=38%20" target="_blank"><img class="aligncenter size-full wp-image-2240" src="/images/wp-uploads/2014/05/Wistia-at-Work-2014-05-13-22-19-20.png" alt="Wistia at Work 2014-05-13 22-19-20" width="979" height="677" /></a></p>
+<p><a href="http://wistia.com/blog?page=38%20" target="_blank"><img class="aligncenter size-full wp-image-2240" src="/assets/images/wistia/Wistia-at-Work-2014-05-13-22-19-20.png" alt="Wistia at Work 2014-05-13 22-19-20" width="979" height="677" /></a></p>
 
 <p>These blog roll pages should be noindex, follow. <a href="http://googlewebmastercentral.blogspot.com/2011/09/pagination-with-relnext-and-relprev.html" target="_blank">Wistia has done a great job of implementing rel=prev/next</a>, and according to the Official Google Webmaster Blog, they are meeting the standards:</p>
 
@@ -175,11 +181,11 @@ permalink: improve-wistia-inbound-audit/
 
 <p><strong>Fourth,</strong> Wistia’s product is built on a subdomain model. The reason for so many URLs is because each new user of Wistia gets a subdomain on the URL. I tried out the sign-up process:</p>
 
-<p><img class="aligncenter size-large wp-image-2241" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-13-at-10.15.22-PM-1024x628.png" alt="Wistia Subdomain" width="1024" height="628" /></p>
+<p><img class="aligncenter size-large wp-image-2241" src="/assets/images/wistia/Screen-Shot-2014-05-13-at-10.15.22-PM-1024x628.png" alt="Wistia Subdomain" width="1024" height="628" /></p>
 
 <p>They have correctly added a disallow in the robots.txt to each user’s profile (more on that in a moment), but to better enforce the issue, Wistia should consider adding a robots meta tag that noindexes all subdomains at the page level. They could keep the “follow” aspect, and could benefit from links back to the subdomains. Here is the current setup:</p>
 
-<p><img class="aligncenter size-full wp-image-2242" src="/images/wp-uploads/2014/05/sitewistia.com-Google-Search-2014-05-13-22-32-06.png" alt="site:wistia.com - Google Search 2014-05-13 22-32-06" width="979" height="677" /></p>
+<p><img class="aligncenter size-full wp-image-2242" src="/assets/images/wistia/sitewistia.com-Google-Search-2014-05-13-22-32-06.png" alt="site:wistia.com - Google Search 2014-05-13 22-32-06" width="979" height="677" /></p>
 
 <p>The subdomains are being indexed, but Wistia is not receiving any credit for them. Another concern is that the crawl budget is being affected. While it’s good that most of Wistia’s content is being crawled, the subdomains are taking away from the bots crawling Wistia’s main pages. They are giving a lot of room away to subdomainers who are disallowed anyways.</p>
 
@@ -199,7 +205,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia should update their robots file because the /oldblog/ contains links. The problem is, right now, the links towards that blog don’t count towards the credibility of Wistia because they’re blocked, but Google displays the page anyway in the search results; It looks something like this:</p>
 
-<p><img class="aligncenter size-large wp-image-2200" src="/images/wp-uploads/2014/05/Wistia-Old-URLs.jpg" alt="Wistia-Old-URLs" width="889" height="426" /></p>
+<p><img class="aligncenter size-large wp-image-2200" src="/assets/images/wistia/Wistia-Old-URLs.jpg" alt="Wistia-Old-URLs" width="889" height="426" /></p>
 
 <p>In order to avoid “A description for this result is not available because of this site’s robots.txt – learn more,” <strong>There are two possible solutions for this problem:</strong></p>
 
@@ -219,7 +225,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>This setup is technically correct, and I would need a deeper understanding of the Wistia platform before suggesting prudent changes. However, here is what I can tell with my limited access:</p>
 
-<p><img class="aligncenter size-full wp-image-2226" src="/images/wp-uploads/2014/05/sitewistia.com-Google-Search-2014-05-12-21-23-23.png" alt="site:wistia.com - Google Search 2014-05-12 21-23-23" width="989" height="991" /></p>
+<p><img class="aligncenter size-full wp-image-2226" src="/assets/images/wistia/sitewistia.com-Google-Search-2014-05-12-21-23-23.png" alt="site:wistia.com - Google Search 2014-05-12 21-23-23" width="989" height="991" /></p>
 
 <p>The subdomains are being indexed, which is not technically healthy for Wistia’s site. Again, blocking the robots.txt file doesn’t keep Google from indexing the content, it just keeps the search engines from showing what’s inside.</p>
 
@@ -235,7 +241,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Finally, Wistia’s SEO could benefit by adding a “noindex,follow” (perhaps nofollow) tag to their users’ profiles. The image below shows what Google does with users’ profiles.</p>
 
-<p><img class="aligncenter size-large wp-image-2227" src="/images/wp-uploads/2014/05/sitewistia.comcommunityusers-Google-Search-2014-05-12-21-36-53-721x1024.png" alt="site:wistia.com:community:users - Google Search 2014-05-12 21-36-53" width="721" height="1024" /></p>
+<p><img class="aligncenter size-large wp-image-2227" src="/assets/images/wistia/sitewistia.comcommunityusers-Google-Search-2014-05-12-21-36-53-721x1024.png" alt="site:wistia.com:community:users - Google Search 2014-05-12 21-36-53" width="721" height="1024" /></p>
 
 <p>The problem here is that because users’ profiles are displayed, they take up Wistia’s crawl budget. Wistia’s main content <em>should</em> be what consumes the crawl budget, <em>not</em> individual user profiles.  So, it would be beneficial to “noindex,follow” all user profiles.</p>
 
@@ -253,7 +259,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>The second listing points to the site’s Video Sitemap, which should include URLs for pages that include video listings. The video sitemap may also earn Wistia a click through boost by giving them a picture in the SERPs. Here are the <a href="http://app.wistia.com/sitemaps/4721.xml" target="_blank">contents to Wistia’s first sitemap:</a></p>
 
-<p><img class="aligncenter size-large wp-image-2211" src="/images/wp-uploads/2014/05/4721-1024x626.png" alt="4721" width="1024" height="626" /></p>
+<p><img class="aligncenter size-large wp-image-2211" src="/assets/images/wistia/4721-1024x626.png" alt="4721" width="1024" height="626" /></p>
 
 <p>The video sitemap is implemented correctly:</p>
 
@@ -264,7 +270,7 @@ permalink: improve-wistia-inbound-audit/
   <li>A picture thumbnail, which is a pretty great call to action in the SERPs.</li>
 </ul>
 
-<p><img class="aligncenter size-large wp-image-2212" src="/images/wp-uploads/2014/05/Announcing-the-Wistia-Community-1024x399.png" alt="Announcing the Wistia Community" width="1024" height="399" /></p>
+<p><img class="aligncenter size-large wp-image-2212" src="/assets/images/wistia/Announcing-the-Wistia-Community-1024x399.png" alt="Announcing the Wistia Community" width="1024" height="399" /></p>
 
 <p>It is interesting to note that Wistia does not include all posts with videos in their sitemap. However, since most of their videos earn a picture thumbnail, it may be beneficial for Wistia to add more videos to their sitemap.</p>
 
@@ -272,7 +278,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia’s other sitemap is a little more disappointing.</p>
 
-<p><img class="aligncenter size-large wp-image-2213" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-05-at-12.34.31-PM-1024x188.png" alt="Wistia Sitemap" width="1024" height="188" /></p>
+<p><img class="aligncenter size-large wp-image-2213" src="/assets/images/wistia/Screen-Shot-2014-05-05-at-12.34.31-PM-1024x188.png" alt="Wistia Sitemap" width="1024" height="188" /></p>
 
 <p>This sitemap is not populated – and it’s another video sitemap – <em>meaning Wistia does not have a sitemap for text posts</em>. I would recommend compiling a comprehensive list of the site’s indexable posts and pages and creating the sitemap using that list.</p>
 
@@ -294,7 +300,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia’s site speed is decent, but Wistia could make a few tweaks to make their site much more efficient:</p>
 
-<p><a href="http://gtmetrix.com/reports/wistia.com/9C9phTHA" target="_blank"><img class="aligncenter size-large wp-image-2309" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-16-at-10.31.46-AM-1024x584.png" alt="Screen Shot 2014-05-16 at 10.31.46 AM" width="1024" height="584" /></a></p>
+<p><a href="http://gtmetrix.com/reports/wistia.com/9C9phTHA" target="_blank"><img class="aligncenter size-large wp-image-2309" src="/assets/images/wistia/Screen-Shot-2014-05-16-at-10.31.46-AM-1024x584.png" alt="Screen Shot 2014-05-16 at 10.31.46 AM" width="1024" height="584" /></a></p>
 
 <p>One of the things you’ll notice is that the site is loading too many external files. Reducing the number of files needed to load the site, thereby reducing the number of HTTP requests, will make the site load more quickly. Currently, Wistia is making 94 HTTP requests – far too many requests.</p>
 
@@ -354,15 +360,15 @@ permalink: improve-wistia-inbound-audit/
 
 <p>First, noticeably missing from the Wistia website is a search form. The only way to find something on the Wistia website (outside of the navigation) is to head over to Google and search “Wistia + “. Adding this search functionality will help users, and it will also help Wistia know what the user is searching for in their site page analytics.</p>
 
-<p><img class="aligncenter size-large wp-image-2382" src="/images/wp-uploads/2014/05/Wistia-1024x94.png" alt="Wistia" width="1024" height="94" /></p>
+<p><img class="aligncenter size-large wp-image-2382" src="/assets/images/wistia/Wistia-1024x94.png" alt="Wistia" width="1024" height="94" /></p>
 
 <p>Next, Wistia’s site is not mobile responsive. Based on the analytics, Wistia has 50% of their users visiting the site on mobile. On iOS, sometimes Wistia’s entire site loads, but at other times, users will see this:</p>
 
-<p><img class="aligncenter size-full wp-image-2383" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-20-at-10.13.00-PM.png" alt="Wistia iPhone" width="492" height="824" /></p>
+<p><img class="aligncenter size-full wp-image-2383" src="/assets/images/wistia/Screen-Shot-2014-05-20-at-10.13.00-PM.png" alt="Wistia iPhone" width="492" height="824" /></p>
 
 <p>At some breakpoints, Wistia’s site seems to be in the middle of transition between “almost mobile ready” and fixed width:</p>
 
-<p><img class="aligncenter size-large wp-image-2384" src="/images/wp-uploads/2014/05/Video-Hosting-for-Business-2014-05-20-22-16-52-212x1024.png" alt="Video Hosting for Business 2014-05-20 22-16-52" width="212" height="1024" /></p>
+<p><img class="aligncenter size-large wp-image-2384" src="/assets/images/wistia/Video-Hosting-for-Business-2014-05-20-22-16-52-212x1024.png" alt="Video Hosting for Business 2014-05-20 22-16-52" width="212" height="1024" /></p>
 
 <p>Usability needs improvement on mobile, and according to Matt Cutts, “There is NO SEO disadvantage to using responsive design, only advantages.” I’m sure this usability problem will be fixed in the next iteration of Wistia’s website.</p>
 
@@ -374,7 +380,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>As the graph below shows, Wistia is doing a good job of keeping the required clicks minimal. What will decrease click depth even more, though, would be to remove silos.</p>
 
-<p><img class="aligncenter size-large wp-image-2233" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-13-at-10.43.54-AM-1024x607.png" alt="Crawl Depth" width="1024" height="607" /></p>
+<p><img class="aligncenter size-large wp-image-2233" src="/assets/images/wistia/Screen-Shot-2014-05-13-at-10.43.54-AM-1024x607.png" alt="Crawl Depth" width="1024" height="607" /></p>
 
 <p>####</p>
 
@@ -396,9 +402,9 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia fails to add authorship to most of its articles. Though a few of Wistia’s articles include authorship, such as the one below, including authorship in <em>all</em> articles would be greatly beneficial.</p>
 
-<p><img class="aligncenter size-full wp-image-2281" src="/images/wp-uploads/2014/05/Welcome-Jonathan-to-the-Engineering-Team-2014-05-15-13-41-02.png" alt="Welcome Jonathan to the Engineering Team 2014-05-15 13-41-02" width="938" height="363" /></p>
+<p><img class="aligncenter size-full wp-image-2281" src="/assets/images/wistia/Welcome-Jonathan-to-the-Engineering-Team-2014-05-15-13-41-02.png" alt="Welcome Jonathan to the Engineering Team 2014-05-15 13-41-02" width="938" height="363" /></p>
 
-<p><img class="aligncenter size-full wp-image-2282" src="/images/wp-uploads/2014/05/Google-Structured-Data-Testing-Tool-2014-05-15-13-41-52.png" alt="Google Structured Data Testing Tool 2014-05-15 13-41-52" width="813" height="560" /></p>
+<p><img class="aligncenter size-full wp-image-2282" src="/assets/images/wistia/Google-Structured-Data-Testing-Tool-2014-05-15-13-41-52.png" alt="Google Structured Data Testing Tool 2014-05-15 13-41-52" width="813" height="560" /></p>
 
 <p>In order to add authorship, here’s what you can do: create a Google+ profile for each of the site’s authors. Then, link from Google + profile back to the blog, and vice versa.</p>
 
@@ -406,7 +412,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>One caution: I do not recommend schema.org for all HTML elements. For example, consider the search term “OneRepublic”:</p>
 
-<p><img class="aligncenter size-large wp-image-2283" src="/images/wp-uploads/2014/05/one-republic-Google-Search-2014-05-15-13-47-35-1024x698.png" alt="one republic - Google Search 2014-05-15 13-47-35" width="1024" height="698" /></p>
+<p><img class="aligncenter size-large wp-image-2283" src="/assets/images/wistia/one-republic-Google-Search-2014-05-15-13-47-35-1024x698.png" alt="one republic - Google Search 2014-05-15 13-47-35" width="1024" height="698" /></p>
 
 <p>Here, you can see that Google is using micro markup (schema) to scrape the content and place it on Google – this could potentially hurt click through rates (CTR). The more information you tell Google – the more you risk Google scraping your content and your site losing sessions.</p>
 
@@ -416,7 +422,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Meta Descriptions do not influence the ranking factor of a site’s page, but they do influence the CTR (click-through-rate).</p>
 
-<p><img class="aligncenter size-full wp-image-2231" src="/images/wp-uploads/2014/05/meta-description.png" alt="meta-description" width="542" height="79" /></p>
+<p><img class="aligncenter size-full wp-image-2231" src="/assets/images/wistia/meta-description.png" alt="meta-description" width="542" height="79" /></p>
 
 <p>These short paragraphs (normally 155 words) are a website’s opportunity to advertise content to searchers and to let them know whether the given page contains the information they’re looking for.</p>
 
@@ -438,7 +444,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Social sharing sites will commonly pull the meta description when sharing.</p>
 
-<p><img class="aligncenter size-large wp-image-2219" src="/images/wp-uploads/2014/05/meta-description-share-1024x632.jpg" alt="meta-description-share" width="1024" height="632" /></p>
+<p><img class="aligncenter size-large wp-image-2219" src="/assets/images/wistia/meta-description-share-1024x632.jpg" alt="meta-description-share" width="1024" height="632" /></p>
 
 <p>Without the meta description, social sharing sites will just use the first text they can find. As you can see above, the social share pulled the title twice, the date, and then the first words from the opening paragraph. Not using a meta description may create a bad user experience for social sharing.</p>
 
@@ -450,9 +456,9 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Publisher connects your Google + page to your website, and that results in your Google + page being displayed in search results whenever anyone is searching for your brand name. For example:</p>
 
-<p><a href="https://www.google.com/search?q=moz&amp;oq=moz&amp;aqs=chrome..69i57j69i60l3j0j69i35.1071j1j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8" target="_blank"><img class="aligncenter size-large wp-image-2356" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-10.28.57-PM-1024x313.png" alt="Publisher URL" width="1024" height="313" /></a>See the rich snippet on the right? This is what Wistia is missing. Currently, a search for Wistia leaves room to be desired:</p>
+<p><a href="https://www.google.com/search?q=moz&amp;oq=moz&amp;aqs=chrome..69i57j69i60l3j0j69i35.1071j1j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8" target="_blank"><img class="aligncenter size-large wp-image-2356" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-10.28.57-PM-1024x313.png" alt="Publisher URL" width="1024" height="313" /></a>See the rich snippet on the right? This is what Wistia is missing. Currently, a search for Wistia leaves room to be desired:</p>
 
-<p><a href="https://www.google.com/search?q=moz&amp;oq=moz&amp;aqs=chrome..69i57j69i60l3j0j69i35.1071j1j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8#q=wistia" target="_blank"><img class="aligncenter size-large wp-image-2357" src="/images/wp-uploads/2014/05/wistia-Google-Search-2014-05-18-22-30-46-1024x652.png" alt="wistia - Google Search 2014-05-18 22-30-46" width="1024" height="652" /></a></p>
+<p><a href="https://www.google.com/search?q=moz&amp;oq=moz&amp;aqs=chrome..69i57j69i60l3j0j69i35.1071j1j4&amp;sourceid=chrome&amp;es_sm=91&amp;ie=UTF-8#q=wistia" target="_blank"><img class="aligncenter size-large wp-image-2357" src="/assets/images/wistia/wistia-Google-Search-2014-05-18-22-30-46-1024x652.png" alt="wistia - Google Search 2014-05-18 22-30-46" width="1024" height="652" /></a></p>
 
 <p>The red box here indicates where Wistia’s publisher mark-up could go. Wistia simply needs to link from their home page to their Google Plus page using rel=”publisher”.</p>
 
@@ -480,7 +486,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>The Open Graph protocol enables any web page on Wistia’s site – or all sites – to become a rich object. For instance, the Open Graph is used by Facebook to allow any web page to have the same functionality as any other object on Facebook. Currently, Wistia does not implement Open Graph protocol on their site.</p>
 
-<p><img class="aligncenter size-large wp-image-2365" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-19-at-10.01.37-PM-1024x442.png" alt="Facebook Open Graph" width="1024" height="442" /></p>
+<p><img class="aligncenter size-large wp-image-2365" src="/assets/images/wistia/Screen-Shot-2014-05-19-at-10.01.37-PM-1024x442.png" alt="Facebook Open Graph" width="1024" height="442" /></p>
 
 <p>If you look closely, you can easily notice that Wistia is not using the open graph – due to how the description is automatically generated by Facebook. At the very minimum, Wistia should include the following open graph tags:</p>
 
@@ -490,13 +496,13 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Currently, Wistia is not implementing Twitter cards on their site:</p>
 
-<p><img class="aligncenter size-large wp-image-2367" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-19-at-10.21.47-PM-1024x394.png" alt="Wistia Twitter Cards" width="1024" height="394" /></p>
+<p><img class="aligncenter size-large wp-image-2367" src="/assets/images/wistia/Screen-Shot-2014-05-19-at-10.21.47-PM-1024x394.png" alt="Wistia Twitter Cards" width="1024" height="394" /></p>
 
 <p>Twitter cards are another micro markup – essentially rich snippets for Tweets. Now, as mentioned above, Twitter will actually fall back on the Open Graph tags used for FB if Wistia would implement them, but the Open Graph tags aren’t comprehensive.</p>
 
 <p>There may be a reason that Wistia opted not to use Twitter cards, because they could easily implement them if they wanted to. Since they’ve seamlessly implemented video on Twitter, the other card formats would be easy to implement.</p>
 
-<p><img class="aligncenter size-large wp-image-2368" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-19-at-10.23.01-PM-1024x803.png" alt="Wistia Video " width="1024" height="803" /></p>
+<p><img class="aligncenter size-large wp-image-2368" src="/assets/images/wistia/Screen-Shot-2014-05-19-at-10.23.01-PM-1024x803.png" alt="Wistia Video " width="1024" height="803" /></p>
 
 <p>It is an easy fix. At the very minimum, Wistia could add:</p>
 
@@ -518,7 +524,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p><strong>Second</strong>, and probably most preferred, “noindex, follow” the pages that are not necessarily important (See the example below of titles and pages that are not necessary). This will remove them from the search engines but links will still pass equity.</p>
 
-<p><a href="/images/wp-uploads/2014/05/sitewistia.comcommunity-Google-Search-2014-05-18-11-58-51.png"><img class="aligncenter size-large wp-image-2316" src="/images/wp-uploads/2014/05/sitewistia.comcommunity-Google-Search-2014-05-18-11-58-51-633x1024.png" alt="site:wistia.com:community - Google Search 2014-05-18 11-58-51" width="633" height="1024" /></a></p>
+<p><img class="aligncenter size-large wp-image-2316" src="/assets/images/wistia/sitewistia.comcommunity-Google-Search-2014-05-18-11-58-51-633x1024.png" alt="site:wistia.com:community - Google Search 2014-05-18 11-58-51" width="633" height="1024" /></p>
 
 <p>Many of the site’s pages use titles that are not descriptive enough (Ie. “Sent from my iPhone,” “Lighting for a Webcam,” etc). These titles do not provide enough information about Wistia or their products , which results in a lower ranking and lower CTR for Wistia. Here is a sampling of the titles from Wistia:</p>
 
@@ -554,13 +560,13 @@ permalink: improve-wistia-inbound-audit/
 
 <p>For example, let’s look closely at this title: “<a href="http://wistia.com/blog/does-length-matter-it-does-for-video-2k12-edition">Does Length Matter?</a>“<span style="color: #000000;">. Of course, if you know Wistia, you know that they are referring to video length. But let’s say you don’t know Wistia. What would you think? Wistia isn’t trying to be explicit or inappropriate, but you can see how a more descriptive title, such as, “Does Length Matter in Online Videos: Video Analytics Say Yes” makes much more sense.  That title is a little long, 61 characters, but it would show up in Google as: </span></p>
 
-<p><a href="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-2.30.36-PM.png"><img class="aligncenter size-large wp-image-2321" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-2.30.36-PM-1024x195.png" alt="Screen Shot 2014-05-18 at 2.30.36 PM" width="1024" height="195" /></a></p>
+<p><img class="aligncenter size-large wp-image-2321" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-2.30.36-PM-1024x195.png" alt="Screen Shot 2014-05-18 at 2.30.36 PM" width="1024" height="195" /></p>
 
 <p>It cut the title off, but it does leave the viewer wondering what the analytics say. This title is much more descriptive and removes any click anxiety a user would face when coming upon the title “Does Length Matter.”</p>
 
 <p>As you noticed above, Google will show as many characters that a 512 pixel display can show – thus, around 50-60 characters. The reason the number varies is because some characters are bigger than others (ie, you could fit a lot more “i”s than you could “w”s). _Wistia is not taking advantage of this character count. _Most of Wistia’s titles are at an average of 22 characters long, and very few of them reach 50 characters in the title. If Google gives you the opportunity to create a longer, more descriptive title, do it.</p>
 
-<p><img class="aligncenter size-large wp-image-2319" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-2.15.44-PM-1024x607.png" alt="Title Length" width="1024" height="607" /></p>
+<p><img class="aligncenter size-large wp-image-2319" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-2.15.44-PM-1024x607.png" alt="Title Length" width="1024" height="607" /></p>
 
 <p>I’d suggest that Wistia go back and rewrite many of their titles. A longer, more specific title could result in higher click through rates, and ultimately, better rankings. Even if Wistia does not want to rewrite many of their titles, adding the branding would increase character count and would, at the very least, take back the length real estate they have lost up until this point.</p>
 
@@ -577,7 +583,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Wistia has done a great job crafting their URLs. Their URLs are at an average length of 50 characters (including http://wistia).</p>
 
-<p><img class="aligncenter size-large wp-image-2326" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-2.46.38-PM-1024x792.png" alt="Wistia URL Analysis" width="1024" height="792" /></p>
+<p><img class="aligncenter size-large wp-image-2326" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-2.46.38-PM-1024x792.png" alt="Wistia URL Analysis" width="1024" height="792" /></p>
 
 <p>The site’s URL structure is organized and clean. The blog section is under /blog/. The Documentation lives under /doc/, and community lives under /community/. Each URL also contains at least one keyword.</p>
 
@@ -617,11 +623,11 @@ permalink: improve-wistia-inbound-audit/
 
 <p>For example, Wistia does need to do something about their users’ profiles, ie.  http://wistia.com/community/users/. Their users’ profiles should be deindexed. They risk spammy content and content duplication, as seen below:</p>
 
-<p><img class="aligncenter size-large wp-image-2393" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-20-at-10.49.37-PM-1024x477.png" alt="Users" width="1024" height="477" /></p>
+<p><img class="aligncenter size-large wp-image-2393" src="/assets/images/wistia/Screen-Shot-2014-05-20-at-10.49.37-PM-1024x477.png" alt="Users" width="1024" height="477" /></p>
 
 <p>Wistia also doesn’t have a major issue yet, but they might want to remove the old WordPress /oldblog (or bring it in house since it might be a test sight):</p>
 
-<p><img class="aligncenter size-large wp-image-2388" src="/images/wp-uploads/2014/05/Wistia-at-Work-2014-05-20-22-35-28-1024x509.png" alt="Wistia at Work 2014-05-20 22-35-28" width="1024" height="509" /></p>
+<p><img class="aligncenter size-large wp-image-2388" src="/assets/images/wistia/Wistia-at-Work-2014-05-20-22-35-28-1024x509.png" alt="Wistia at Work 2014-05-20 22-35-28" width="1024" height="509" /></p>
 
 <h2 id="offsite">Off-Site Ranking Factors</h2>
 
@@ -635,19 +641,19 @@ permalink: improve-wistia-inbound-audit/
 
 <p>To start, I first recorded how many backlinks Wistia had received over the past few months (this is not including 500 unique domains that point to www.wistia.com). The charts below show the growth of Wistia’s backlink profile over the course of one year.</p>
 
-<p><img class="alignnone size-full wp-image-2275" src="/images/wp-uploads/2014/05/Overview-wistia.com-on-Ahrefs-2014-05-14-22-32-32.png" alt="Overview wistia.com on Ahrefs 2014-05-14 22-32-32" width="863" height="725" /></p>
+<p><img class="alignnone size-full wp-image-2275" src="/assets/images/wistia/Overview-wistia.com-on-Ahrefs-2014-05-14-22-32-32.png" alt="Overview wistia.com on Ahrefs 2014-05-14 22-32-32" width="863" height="725" /></p>
 
 <p>After comparing the backlink analysis above to Majestic SEO and Moz, there was not much of a difference. Wistia was consistently growing their unique domain backlinks until April, and has started a recent growth.</p>
 
 <p>To see how Wistia’s backlink growth matches up with their competition, I compared Wistia’s growth with 4 of their competitors over the past 5 years: Vzaar, Viddler, Viewbix, and Sproutvideo (notable, Vimeo was not included. Vimeo is on a much larger scale than Wistia at this point). *Wistia is a startup, but they’ve been around the past years.</p>
 
-<p><img class="alignnone size-large wp-image-2273" src="/images/wp-uploads/2014/05/Backlink-History-Majestic-SEO-2014-05-14-22-24-24-1024x443.png" alt="Backlink History - Majestic SEO 2014-05-14 22-24-24" width="1024" height="443" /></p>
+<p><img class="alignnone size-large wp-image-2273" src="/assets/images/wistia/Backlink-History-Majestic-SEO-2014-05-14-22-24-24-1024x443.png" alt="Backlink History - Majestic SEO 2014-05-14 22-24-24" width="1024" height="443" /></p>
 
 <p>One would hope that Wistia would be the yellow line, but they are not. Currently, Wistia is being outpaced by Viddler (Viddler provides online video hosting and custom solutions for businesses along with industry leading support and professional services). Viddler is only one year older than Wistia – Viddler was founded in 2005 and Wistia was founded in 2006 – which means that there should not be such a significant difference in the two companies’ backlink growth.</p>
 
 <p>So that you can actually see Wistia’s cumulative backlink growth, I removed Viddler and focused on only the last 2 years (cumulative):</p>
 
-<p><img class="alignnone size-large wp-image-2274" src="/images/wp-uploads/2014/05/Backlink-History-Majestic-SEO-2014-05-14-22-28-54-1024x496.png" alt="Backlink History - Majestic SEO 2014-05-14 22-28-54" width="1024" height="496" /></p>
+<p><img class="alignnone size-large wp-image-2274" src="/assets/images/wistia/Backlink-History-Majestic-SEO-2014-05-14-22-28-54-1024x496.png" alt="Backlink History - Majestic SEO 2014-05-14 22-28-54" width="1024" height="496" /></p>
 
 <p>These charts shows 2 things:</p>
 
@@ -658,13 +664,13 @@ permalink: improve-wistia-inbound-audit/
 
 <p>If Wistia is not careful, they could potentially lose their #1 ranking for “video hosting” to Viddler. Almost every month, the competitors are acquiring more links from more unique referring domains. The backlink analysis shows the competitiveness of  backlinks:</p>
 
-<p><img class="alignnone size-full wp-image-2271" src="/images/wp-uploads/2014/05/Open-Site-Explorer-2014-05-14-22-19-52.png" alt="Open Site Explorer 2014-05-14 22-19-52" width="957" height="626" /></p>
+<p><img class="alignnone size-full wp-image-2271" src="/assets/images/wistia/Open-Site-Explorer-2014-05-14-22-19-52.png" alt="Open Site Explorer 2014-05-14 22-19-52" width="957" height="626" /></p>
 
 <h3 id="subdomains">Subdomain Backlinks</h3>
 
 <p>As previously mentioned, Wistia sets their users up with a subdomain on their on site to host videos.</p>
 
-<p><img class="aligncenter size-full wp-image-2329" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-18-at-2.57.41-PM.png" alt="Wistia Subdomains" width="948" height="362" /></p>
+<p><img class="aligncenter size-full wp-image-2329" src="/assets/images/wistia/Screen-Shot-2014-05-18-at-2.57.41-PM.png" alt="Wistia Subdomains" width="948" height="362" /></p>
 
 <p>Thus, when anyone signs up, they can host their videos on their own subdomain hosted at Wistia.</p>
 
@@ -684,13 +690,13 @@ permalink: improve-wistia-inbound-audit/
 
 <p>To monitor Wistia’s backlink distribution – the links dispersed among all of their pages – I used Moz’s Pro Tools to analyze the backlinks for each page on Wistia’s site.</p>
 
-<p><img class="alignnone size-large wp-image-2407" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-21-at-4.34.27-PM-1024x564.png" alt="Wistia Backlink Distribution" width="1024" height="564" /></p>
+<p><img class="alignnone size-large wp-image-2407" src="/assets/images/wistia/Screen-Shot-2014-05-21-at-4.34.27-PM-1024x564.png" alt="Wistia Backlink Distribution" width="1024" height="564" /></p>
 
 <p>Wistia has – according to Moz, Majestic and Ahrefs – around 17,000 referring domains. But, upon closer inspection – many of those links are pointing to subdomains of Wisita. There are only around 1,250 domains pointing to the root folder (http://wistia.com).</p>
 
 <p>According to the data, 72% of all Wistia’s pages have no backlinks. Of the 28% (359 pages) that do have links, the homepage accounts for almost 55% of those links. If you remove the homepage, here is what happens:</p>
 
-<p><img class="alignnone size-large wp-image-2408" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-21-at-4.46.55-PM-1024x564.png" alt="backlinks" width="1024" height="564" /></p>
+<p><img class="alignnone size-large wp-image-2408" src="/assets/images/wistia/Screen-Shot-2014-05-21-at-4.46.55-PM-1024x564.png" alt="backlinks" width="1024" height="564" /></p>
 
 <p>The articles with the most links (excluding the homepage) are:</p>
 
@@ -700,7 +706,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>To analyze Wistia’s backlinks, I used Majestic SEO. Here is a plotting of their backlinks:</p>
 
-<p><a href="https://www.majesticseo.com/reports/site-explorer/link-profile?folder=&amp;q=wistia.com&amp;oq=wistia.com&amp;IndexDataSource=F" target="_blank"><img class="aligncenter size-full wp-image-2402" src="/images/wp-uploads/2014/05/Wistia-Backlinks.png" alt="Wistia Backlinks" width="964" height="912" /></a>The site has quite a few quality backlinks. When analyzing Majestic, you are hoping to see the links fall to the top right. Citation Flow is link juice and the Trust Flow is how close those links are to trustworthy, authoritative sources.</p>
+<p><a href="https://www.majesticseo.com/reports/site-explorer/link-profile?folder=&amp;q=wistia.com&amp;oq=wistia.com&amp;IndexDataSource=F" target="_blank"><img class="aligncenter size-full wp-image-2402" src="/assets/images/wistia/Wistia-Backlinks.png" alt="Wistia Backlinks" width="964" height="912" /></a>The site has quite a few quality backlinks. When analyzing Majestic, you are hoping to see the links fall to the top right. Citation Flow is link juice and the Trust Flow is how close those links are to trustworthy, authoritative sources.</p>
 
 <p>Correlating with the data above, only a handful of Wistia’s links that I checked out appeared spammy, and very few of the links over-optimized anchor text. With a trust ratio of .918, Wistia has links from mostly trustworthy sources. It would be nice, however, to see the ratio greater than 1.</p>
 
@@ -746,7 +752,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Below is the Anchor Text chart for Wistia…</p>
 
-<p><a href="http://www.majesticseo.com/reports/site-explorer?folder=&amp;q=wistia.com&amp;oq=wistia.com&amp;IndexDataSource=F" target="_blank"><img class="aligncenter size-full wp-image-2262" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-14-at-8.49.58-PM.png" alt="Wistia's Anchor Text" width="447" height="366" /></a></p>
+<p><a href="http://www.majesticseo.com/reports/site-explorer?folder=&amp;q=wistia.com&amp;oq=wistia.com&amp;IndexDataSource=F" target="_blank"><img class="aligncenter size-full wp-image-2262" src="/assets/images/wistia/Screen-Shot-2014-05-14-at-8.49.58-PM.png" alt="Wistia's Anchor Text" width="447" height="366" /></a></p>
 
 <p>Wistia does very well. If you examine the chart closely:</p>
 
@@ -768,13 +774,13 @@ permalink: improve-wistia-inbound-audit/
 
 <p>The chart below gives you a great visual of how Wistia’s shares are split concerning a search engine’s point of view. The center represents the first page, and each segment beyond it are pages linked from that page. Segments beyond that are linked to their parent. Pages with no shares are not included or shown.</p>
 
-<p><a href="/images/wp-uploads/2014/05/Starburst-Sharing-Graph.png"><img class="aligncenter size-large wp-image-2373" src="/images/wp-uploads/2014/05/Starburst-Sharing-Graph-1022x1024.jpg" alt="Starburst-Sharing-Graph" width="1022" height="1024" /></a>As you can see from the graph above, the center represents the homepage, and all directories off of the homepage (/blog, /docs, /learning, etc). It’s great to see that the /blog (large orange portion) takes up a large portion of the shares. The graph below breaks down that same content by social network:</p>
+<p><img class="aligncenter size-large wp-image-2373" src="/assets/images/wistia/Starburst-Sharing-Graph-1022x1024.jpg" alt="Starburst-Sharing-Graph" width="1022" height="1024" />As you can see from the graph above, the center represents the homepage, and all directories off of the homepage (/blog, /docs, /learning, etc). It’s great to see that the /blog (large orange portion) takes up a large portion of the shares. The graph below breaks down that same content by social network:</p>
 
-<p><a href="https://socialcrawlytics.com" target="_blank"><img class="aligncenter size-large wp-image-2395" src="/images/wp-uploads/2014/05/Screen-Shot-2014-05-21-at-1.08.04-PM-1024x888.png" alt="Wistia Shares by Social" width="1024" height="888" /></a>As you can tell, Wistia is putting their best foot forward on Twitter, but Facebook still needs some help. On Twitter, they’ve got hashtags (#wisitafest), embed videos, pictures, and links – and the best part – most of their links are to endorse content that is not always their own. In fact, most of the time, the links go to varying sources.</p>
+<p><a href="https://socialcrawlytics.com" target="_blank"><img class="aligncenter size-large wp-image-2395" src="/assets/images/wistia/Screen-Shot-2014-05-21-at-1.08.04-PM-1024x888.png" alt="Wistia Shares by Social" width="1024" height="888" /></a>As you can tell, Wistia is putting their best foot forward on Twitter, but Facebook still needs some help. On Twitter, they’ve got hashtags (#wisitafest), embed videos, pictures, and links – and the best part – most of their links are to endorse content that is not always their own. In fact, most of the time, the links go to varying sources.</p>
 
 <p>On Facebook, though, Wistia needs a little work:</p>
 
-<p><a href="http://likealyzer.com/wistia" target="_blank"><img class="aligncenter size-large wp-image-2398" src="/images/wp-uploads/2014/05/Wistia-Facebook-1024x980.jpg" alt="Wistia-Facebook" width="1024" height="980" /></a></p>
+<p><a href="http://likealyzer.com/wistia" target="_blank"><img class="aligncenter size-large wp-image-2398" src="/assets/images/wistia/Wistia-Facebook-1024x980.jpg" alt="Wistia-Facebook" width="1024" height="980" /></a></p>
 
 <p>The Wistia Facebook page is updated on a daily basis, but those updates have various characteristics that need improvement:</p>
 
@@ -785,7 +791,7 @@ permalink: improve-wistia-inbound-audit/
 
 <p>Most disconcerting of all: 76% of all content has no FB engagement, and the lack of engagement is true for 51% of Tweets. Even worse, Google+ is non-existent. Here’s why: Wistia only promotes Facebook and Twitter sharing on their blogs – AND they are not very visible. (The red box below highlights this.)</p>
 
-<p><img class="aligncenter size-large wp-image-2399" src="/images/wp-uploads/2014/05/Video-Cheat-Codes-Creating-an-Office-Documentary-in-Under-24-Hours-2014-05-21-13-37-13-1024x509.png" alt="Video Cheat Codes: Creating an Office Documentary in Under 24 Hours 2014-05-21 13-37-13" width="1024" height="509" /></p>
+<p><img class="aligncenter size-large wp-image-2399" src="/assets/images/wistia/Video-Cheat-Codes-Creating-an-Office-Documentary-in-Under-24-Hours-2014-05-21-13-37-13-1024x509.png" alt="Video Cheat Codes: Creating an Office Documentary in Under 24 Hours 2014-05-21 13-37-13" width="1024" height="509" /></p>
 
 <p>To improve Wistia’s engagement on Facebook, Twitter, and Google+, I would :</p>
 
