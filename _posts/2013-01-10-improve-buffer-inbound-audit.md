@@ -2,7 +2,7 @@
 layout: post
 title:  "How I'd Help Buffer Improve Their SEO: An In-Depth Audit"
 date:   2013-01-10 10:18:00
-permalink: improve-buffer-inbound-audit
+permalink: improve-buffer-inbound-audit/
 ---
 
  <p>Buffer’s people have spent hours creating a quality product and interacting with their customers. If you’ve ever replied to a comment on one of their posts or reached out to them personally, you know that Buffer is built on transparency and intentionality.</p>
@@ -23,7 +23,7 @@ permalink: improve-buffer-inbound-audit
 
 <h2 id="who-is-buffer">Who is Buffer?</h2>
 
-<p><a href="https://bufferapp.com" target="_blank"><img class="alignnone size-large wp-image-2460" src="/images/wp-uploads/2014/06/Buffer-A-better-way-to-share-on-social-media-2014-05-31-19-23-07-1024x589.png" alt="Buffer - A better way to share on social media 2014-05-31 19-23-07" width="1024" height="589" /></a></p>
+<p><a href="https://bufferapp.com" target="_blank"><img src="/assets/images/buffer/Buffer-A-better-way-to-share-on-social-media-2014-05-31-19-23-07-1024x589.png" alt="Buffer - A better way to share on social media 2014-05-31 19-23-07"/></a></p>
 
 <p>Founded by <a href="http://joel.is" target="_blank">Joel Gascoigne </a>and <a href="http://leostartsup.com/" target="_blank">Leo Widrich</a>, Buffer’s goal is to make it easy for individuals and companies to manage multiple social media accounts at once. Buffer allows you to post and maintain content – articles, photos, links, etc. – on different profiles and platforms; you can even set up a specific time and date for them to release your content.</p>
 
@@ -137,7 +137,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>As the graph below depicts (<a href="http://www.hubspot.com/inbound-marketing" target="_blank">via HubSpot</a>), inbound marketing exist in stages (or a funnel). As this audit continues on, you’ll notice how the funnel naturally works.</p>
 
-<p><a href="http://www.hubspot.com/inbound-marketing" target="_blank"><img class="alignnone size-large wp-image-2447" src="/images/wp-uploads/2014/06/HubSpot-What-is-Inbound-Marketing-2014-05-29-21-51-37-1024x419.png" alt="HubSpot | What is Inbound Marketing? 2014-05-29 21-51-37" width="1024" height="419" /></a></p>
+<p><a href="http://www.hubspot.com/inbound-marketing" target="_blank"><img class="alignnone size-large wp-image-2447" src="/assets/images/buffer/HubSpot-What-is-Inbound-Marketing-2014-05-29-21-51-37-1024x419.png" alt="HubSpot | What is Inbound Marketing? 2014-05-29 21-51-37" width="1024" height="419" /></a></p>
 
 <h2 id="attract">Optimization / Attract</h2>
 
@@ -155,7 +155,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Finding accurate third party data is incredibly difficult, but <a href="http://open.bufferapp.com" target="_blank">Buffer posts Google Analytics traffic data monthly</a>. They do not post traffic to bufferapp.com (just the subdomain blogs). Technically, that is all we will need for this audit – as you can see below, Buffer’s traffic declined this past month:</p>
 
-<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2680" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-02-at-5.19.27-PM.png" alt="Buffer Traffic" width="907" height="237" /></a>This is not too alarming, as Memorial Day is known to lower traffic. Overall, blog.bufferapp experienced:</p>
+<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2680" src="/assets/images/buffer/Screen-Shot-2014-06-02-at-5.19.27-PM.png" alt="Buffer Traffic" width="907" height="237" /></a>This is not too alarming, as Memorial Day is known to lower traffic. Overall, blog.bufferapp experienced:</p>
 
 <ul>
   <li>679,021 unique visitors (-6.9% from last month)</li>
@@ -165,11 +165,11 @@ permalink: improve-buffer-inbound-audit
 
 <p>Additionally, the organic referral traffic was down as well (down from 33.9% to 33.25%):</p>
 
-<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2682" src="/images/wp-uploads/2014/06/Referrals-for-May1.png" alt="Referrals-for-May1" width="799" height="417" /></a></p>
+<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2682" src="/assets/images/buffer/Referrals-for-May1.png" alt="Referrals-for-May1" width="799" height="417" /></a></p>
 
 <p>The open blog experienced a growth, but as you can see from the graph below, the articles were not growing traffic at the end of the month (perhaps due to the engineering content).</p>
 
-<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2685" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-05-at-6.11.09-PM.png" alt="Open Blog Traffic" width="740" height="217" /></a></p>
+<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2685" src="/assets/images/buffer/Screen-Shot-2014-06-05-at-6.11.09-PM.png" alt="Open Blog Traffic" width="740" height="217" /></a></p>
 
 <p>In any regard, Buffer’s organic traffic looks excellent. One very positive thing to note: in the last 6 months, Buffer does not seem to have been hurt by any penalties from Google. Again, you cannot trust the graph above because it contains all traffic and not just organic, but other graphs from <a href="http://suite.searchmetrics.com/en/research/domains/organic/?url=bufferapp.com&amp;cc=US" target="_blank">Search Metrics show a similar pattern.</a></p>
 
@@ -246,7 +246,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>As you glance at the site structure of Buffer, you begin to notice that their content is heavily separated and the only way to navigate from subdomain to subdomain (with the exception of a few in-text links) is the footer [Buffer does not have a top navigation].</p>
 
-<p><a href="http://blog.bufferapp.com/" target="_blank"><img class="alignnone size-large wp-image-2477" src="/images/wp-uploads/2014/06/Screen-Shot-2014-05-31-at-10.13.38-PM-1024x239.png" alt="Buffer Footer" width="1024" height="239" /></a></p>
+<p><a href="http://blog.bufferapp.com/" target="_blank"><img class="alignnone size-large wp-image-2477" src="/assets/images/buffer/Screen-Shot-2014-05-31-at-10.13.38-PM-1024x239.png" alt="Buffer Footer" width="1024" height="239" /></a></p>
 
 <h4 id="the-case-for-subdirectories-versus-subdomains">The Case for Subdirectories (versus Subdomains)</h4>
 
@@ -300,9 +300,9 @@ permalink: improve-buffer-inbound-audit
 
 <p>Even more, as this audit was being conducted, Buffer created another subdomain: overflow.bufferapp.com. This new subdomain gives a perfect case study of what happens when you create a subdomain. When Buffer created overflow.bufferapp.com – the blog for everything development related – they took the posts and moved them from open.bufferapp to overflow.bufferapp. As you can see below, the traction for the new subdomain is slow (the search query is from their most recent article on overflow.bufferapp):</p>
 
-<p><img class="alignnone size-large wp-image-2606" src="/images/wp-uploads/2014/06/overflow-bufferapp-1024x723.png" alt="overflow-bufferapp" width="1024" height="723" />As you can see from the chart above, the previous subdomain is ranking higher than the new subdomain (in fact, the new subdomain isn’t even ranking). This will eventually cause duplicate content issues as well. Buffer is essentially starting from scratch with this new subdomain. As evidenced in the chart below, the new domain has only 2 links.</p>
+<p><img class="alignnone size-large wp-image-2606" src="/assets/images/buffer/overflow-bufferapp-1024x723.png" alt="overflow-bufferapp" width="1024" height="723" />As you can see from the chart above, the previous subdomain is ranking higher than the new subdomain (in fact, the new subdomain isn’t even ranking). This will eventually cause duplicate content issues as well. Buffer is essentially starting from scratch with this new subdomain. As evidenced in the chart below, the new domain has only 2 links.</p>
 
-<p><a href="https://ahrefs.com/site-explorer/overview/subdomains/?target=overflow.bufferapp.com%2F" target="_blank"><img class="alignnone size-large wp-image-2607" src="/images/wp-uploads/2014/06/ahrefs-buffer-1024x138.png" alt="ahrefs buffer" width="1024" height="138" /></a>In creating this new subdomain, Buffer left over 1,1o0 unique domains on open.bufferapp.com. Once again, Buffer is potentially starting from scratch with 2 unique referring domains. In this case, it would be prudent for Buffer to weigh the cost of creating a subdomain before they segment their articles.</p>
+<p><a href="https://ahrefs.com/" target="_blank"><img class="alignnone size-large wp-image-2607" src="/assets/images/buffer/ahrefs-buffer-1024x138.png" alt="ahrefs buffer" width="1024" height="138" /></a>In creating this new subdomain, Buffer left over 1,1o0 unique domains on open.bufferapp.com. Once again, Buffer is potentially starting from scratch with 2 unique referring domains. In this case, it would be prudent for Buffer to weigh the cost of creating a subdomain before they segment their articles.</p>
 
 <h4 id="the-case-for-subdomainsversus-subdirectories">The Case for Subdomains (versus Subdirectories)</h4>
 
@@ -310,7 +310,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Buffer has always built their blogs on subdomains – and why mess with a good thing? In March – April of 2014, Buffer moved their transparency documents (open salaries, analytics, revenue, etc…) from blog.bufferapp to open.bufferapp. <a href="http://open.bufferapp.com/april-content-marketing-report/" target="_blank">According to analytics</a>:</p>
 
-<p><a href="http://open.bufferapp.com/april-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2549" src="/images/wp-uploads/2014/06/Screen-Shot-2014-05-01-at-2.16.17-PM.png" alt="Open Blog Analytics" width="908" height="484" /></a></p>
+<p><a href="http://open.bufferapp.com/april-content-marketing-report/" target="_blank"><img class="alignnone size-full wp-image-2549" src="/assets/images/buffer/Screen-Shot-2014-05-01-at-2.16.17-PM.png" alt="Open Blog Analytics" width="908" height="484" /></a></p>
 
 <ul>
   <li><strong>March: </strong>14,694 unique visitors – <strong>April: </strong>43,209 unique visitors (+203%)</li>
@@ -326,7 +326,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>It’s https://bufferapp.com/add. This means that every website that has a Buffer icon is technically hosting a Buffer link (making their root domain backlink profile massive). Check out the image below (this website “openid.net” was picked because it was listed as a backlink from an analysis on <a href="http://majesticseo.com" target="_blank">Majestic</a>):</p>
 
-<p><a href="http://openid.net/2014/03/19/last-call-on-the-launch-and-the-move-to-mobile/" target="_blank"><img class="alignnone size-large wp-image-2547" src="/images/wp-uploads/2014/06/Buffer-Button-Link-1024x516.png" alt="Buffer Button Link" width="1024" height="516" /></a>I highlighted two things of note on this chart. First, you’ll notice the Buffer button on the left side of the screen. On the right side of the screen is the code behind that button. As you can see:</p>
+<p><a href="http://openid.net/2014/03/19/last-call-on-the-launch-and-the-move-to-mobile/" target="_blank"><img class="alignnone size-large wp-image-2547" src="/assets/images/buffer/Buffer-Button-Link-1024x516.png" alt="Buffer Button Link" width="1024" height="516" /></a>I highlighted two things of note on this chart. First, you’ll notice the Buffer button on the left side of the screen. On the right side of the screen is the code behind that button. As you can see:</p>
 
 <ul>
   <li>The Buffer Social Button is hyperlinked to http://bufferapp.com/add</li>
@@ -361,7 +361,7 @@ permalink: improve-buffer-inbound-audit
 
 <h4 id="robotsmeta">Robots Meta Tag</h4>
 
-<p>Each page on a site can use a robots meta tag to tell search engine crawlers if they are allowed to index that page and follow its links. Very few of Buffer’s pages have a meta robots tag – which is fine – they are unnecessary unless they are trying to specify a hidden page. In the case mentioned above (wp-includes), it would benefit Buffer to include a “noindex” robots meta tag on a per page basis, rather than blocking an entire directory. WordPress is a great open source platform – one that Buffer blogs are built on – but duplicate content is one thing you have to be very mindful of. Using the robots meta tag will help prevent duplicate content. Content duplication issues include /tag, /category, and /author. <a style="color: #185bac;" target="_blank"><img src="/images/wp-uploads/2014/06/siteblog.bufferapp.comtagtwitter-chat-Google-Search-2014-06-01-13-57-04.png" alt="" /></a> As you can see above, the tags are indexed. Since these tags take up crawl bandwidth, but don’t have unique content, and historically have a low CTR, Buffer should “NOINDEX, FOLLOW” these archive based pages. Buffer has successfully implemented this change on subpages and should consider adding the same meta robots to the other archive based structure. The “NOINDEX, FOLLOW” will remove the tags, categories, and authors from the index, but will still allow links to pass.</p>
+<p>Each page on a site can use a robots meta tag to tell search engine crawlers if they are allowed to index that page and follow its links. Very few of Buffer’s pages have a meta robots tag – which is fine – they are unnecessary unless they are trying to specify a hidden page. In the case mentioned above (wp-includes), it would benefit Buffer to include a “noindex” robots meta tag on a per page basis, rather than blocking an entire directory. WordPress is a great open source platform – one that Buffer blogs are built on – but duplicate content is one thing you have to be very mindful of. Using the robots meta tag will help prevent duplicate content. Content duplication issues include /tag, /category, and /author. <a style="color: #185bac;" target="_blank"><img src="/assets/images/buffer/siteblog.bufferapp.comtagtwitter-chat-Google-Search-2014-06-01-13-57-04.png" alt="" /></a> As you can see above, the tags are indexed. Since these tags take up crawl bandwidth, but don’t have unique content, and historically have a low CTR, Buffer should “NOINDEX, FOLLOW” these archive based pages. Buffer has successfully implemented this change on subpages and should consider adding the same meta robots to the other archive based structure. The “NOINDEX, FOLLOW” will remove the tags, categories, and authors from the index, but will still allow links to pass.</p>
 
 <h4 id="sitemap">XML Sitemaps</h4>
 
@@ -375,7 +375,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>The first listing points to blog.bufferapp Web Sitemap, which should include URLs for every page the site wants search engines to crawl and index. The second listing points to the open.bufferapp Sitemap. You can see one of Buffer’s sitemaps below (they are identical):</p>
 
-<p><a href="http://blog.bufferapp.com/sitemap_index.xml" target="_blank"><img class="alignnone size-large wp-image-2693" src="/images/wp-uploads/2014/06/sitemaps-1024x581.png" alt="sitemaps" width="1024" height="581" /></a></p>
+<p><a href="http://blog.bufferapp.com/sitemap_index.xml" target="_blank"><img class="alignnone size-large wp-image-2693" src="/assets/images/buffer/sitemaps-1024x581.png" alt="sitemaps" width="1024" height="581" /></a></p>
 
 <p>In both sitemaps, I’d remove the page section – <a href="http://blog.bufferapp.com/sample-page" target="_blank">as it links to a blank “sample page”</a>. If Buffer does choose to NOINDEX tags and categories, they should remove them from the sitemap.</p>
 
@@ -397,7 +397,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Buffer’s site speed is decent, but Buffer could make a few tweaks to make their site much more efficient:</p>
 
-<p><a href="http://gtmetrix.com/reports/bufferapp.com/jPBQCu4c" target="_blank"><img class="alignnone size-large wp-image-2673" src="/images/wp-uploads/2014/06/performance-1024x707.png" alt="performance" width="1024" height="707" /></a></p>
+<p><a href="http://gtmetrix.com/reports/bufferapp.com/jPBQCu4c" target="_blank"><img class="alignnone size-large wp-image-2673" src="/assets/images/buffer/performance-1024x707.png" alt="performance" width="1024" height="707" /></a></p>
 
 <p>Reducing the number of files needed to load the site, and thereby reducing the number of HTTP requests, will make Buffer’s site load more quickly.</p>
 
@@ -445,17 +445,17 @@ permalink: improve-buffer-inbound-audit
 
 <p>First, noticeably missing from the Buffer’s website is a navigation menu.</p>
 
-<p><img class="alignnone size-large wp-image-2675" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-10.49.25-AM-1024x128.png" alt="Navigation" width="1024" height="128" /></p>
+<p><img class="alignnone size-large wp-image-2675" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-10.49.25-AM-1024x128.png" alt="Navigation" width="1024" height="128" /></p>
 
 <p>The only way to find something on Buffer’s website is to go down to the footer. While Buffer should consider adding a NAV, they may also want to add a search functionality to help users, and to figure out what exactly the user is searching for in their site page analytics.</p>
 
 <p>Next, Buffer’s site is mobile responsive. But, on mobile, all of Buffer’s call-to-actions on the homepage (hello bar, pop up, etc…) fall off:</p>
 
-<p><img class="alignnone size-large wp-image-2676" src="/images/wp-uploads/2014/06/photo-576x1024.png" alt="photo" width="576" height="1024" /></p>
+<p><img class="alignnone size-large wp-image-2676" src="/assets/images/buffer/photo-576x1024.png" alt="photo" width="576" height="1024" /></p>
 
 <p>It would be beneficial for Buffer to add a relevant call to action on the homepage for mobile devices. Finally, at some breakpoints, Buffer’s site could use a little adjusting:</p>
 
-<p><img class="alignnone size-full wp-image-2677" src="/images/wp-uploads/2014/06/Buffer-Open-Insights-into-Buffers-culture-numbers-experiments-and-improvements-2014-06-11-10-54-56.png" alt="Buffer Open Insights into Buffer's culture, numbers, experiments, and improvements 2014-06-11 10-54-56" width="1012" height="677" />Overall, Buffer’s site is usable on both mobile and desktop. Apart from a few minor tweaks, Buffer is doing well for usability (as it relates to inbound).</p>
+<p><img class="alignnone size-full wp-image-2677" src="/assets/images/buffer/Buffer-Open-Insights-into-Buffers-culture-numbers-experiments-and-improvements-2014-06-11-10-54-56.png" alt="Buffer Open Insights into Buffer's culture, numbers, experiments, and improvements 2014-06-11 10-54-56" width="1012" height="677" />Overall, Buffer’s site is usable on both mobile and desktop. Apart from a few minor tweaks, Buffer is doing well for usability (as it relates to inbound).</p>
 
 <h5 id="clickdepth">Click Depth</h5>
 
@@ -465,7 +465,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>As the graph below shows, Buffer is doing a good job of keeping the required clicks minimal – the subdomains help keep the URL paths minimal.</p>
 
-<p><img class="alignnone size-large wp-image-2553" src="/images/wp-uploads/2014/06/Click-Depth-1024x655.png" alt="Click Depth" width="1024" height="655" /></p>
+<p><img class="alignnone size-large wp-image-2553" src="/assets/images/buffer/Click-Depth-1024x655.png" alt="Click Depth" width="1024" height="655" /></p>
 
 <h3 id="onpage">On Page Factors</h3>
 
@@ -479,7 +479,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>When examining Buffer’s pages, I found multiple pages with 20-40 errors per page. Many of the issues are easy fixes: open tags, stray elements, attribute errors, etc… Although these aren’t extremely critical issues, it’s best to clean up as many errors as possible (empty headings, duplicate IDs, attributes, etc).</p>
 
-<p><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fblog.bufferapp.com%2Fthe-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0&amp;user-agent=W3C_Validator%2F1.3+http%3A%2F%2Fvalidator.w3.org%2Fservices" target="_blank"><img class="alignnone size-large wp-image-2515" src="/images/wp-uploads/2014/05/Markup-Validation-of-httpblog.bufferapp.comthe-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo-W3C-Markup-Validator-2014-06-01-21-17-29-1024x177.png" alt="Markup Validation of http:::blog.bufferapp.com:the-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo - W3C Markup Validator 2014-06-01 21-17-29" width="1024" height="177" /></a></p>
+<p><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fblog.bufferapp.com%2Fthe-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo&amp;charset=%28detect+automatically%29&amp;doctype=Inline&amp;group=0&amp;user-agent=W3C_Validator%2F1.3+http%3A%2F%2Fvalidator.w3.org%2Fservices" target="_blank"><img class="alignnone size-large wp-image-2515" src="/assets/images/buffer/Markup-Validation-of-httpblog.bufferapp.comthe-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo-W3C-Markup-Validator-2014-06-01-21-17-29-1024x177.png" alt="Markup Validation of http:::blog.bufferapp.com:the-10-most-important-marketing-lessons-i-learned-working-at-facebook-mint-and-appsumo - W3C Markup Validator 2014-06-01 21-17-29" width="1024" height="177" /></a></p>
 
 <h5 id="schema">Structured Data</h5>
 
@@ -487,7 +487,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Fortunately, Buffer does define structured data, but fails to add authorship to most of its writers. Though a few of Buffer’s articles include authorship, such as the one below, including authorship in <em>all</em> articles would be greatly beneficial:</p>
 
-<p><img class="aligncenter size-full wp-image-2281" src="/images/wp-uploads/2014/06/Authorship.png" alt="Authorship" /></p>
+<p><img class="aligncenter size-full wp-image-2281" src="/assets/images/buffer/Authorship.png" alt="Authorship" /></p>
 
 <p>Sadly, many others do not have authorship enabled, and even Kevan – by far one of their best writers- does not have authorship enabled for the open blog (pictured above is Main blog).</p>
 
@@ -509,7 +509,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Out of 1,449 unique HTML/Text URLs, 893 do not include a meta description, and 92 of those descriptions are duplicates. What this means is that in almost all of the searches, the meta descriptions are automatically generated by the search engine. Many of the duplicated meta descriptions are on the root domain (bufferapp.com). As you can see below, the home page has the same meta description as the about page, and as the “awesome” page:</p>
 
-<p><img class="alignnone size-large wp-image-2524" src="/images/wp-uploads/2014/06/Buffer-Duplicate-Meta-Description-1024x263.jpg" alt="Buffer Duplicate Meta Description" width="1024" height="263" /></p>
+<p><img class="alignnone size-large wp-image-2524" src="/assets/images/buffer/Buffer-Duplicate-Meta-Description-1024x263.jpg" alt="Buffer Duplicate Meta Description" width="1024" height="263" /></p>
 
 <p><strong>2 Options to Fix</strong></p>
 
@@ -525,7 +525,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Social sharing sites will commonly pull the meta description when sharing – unless open graph is enabled (more on that in a moment). Without the meta description, social sharing sites will just use the first text they can find (sometimes Google will as well – see below).</p>
 
-<p><img src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-01-at-5.25.29-PM.png" alt="meta description" /></p>
+<p><img src="/assets/images/buffer/Screen-Shot-2014-06-01-at-5.25.29-PM.png" alt="meta description" /></p>
 
 <p>Not using a meta description may create a bad user experience for social sharing. In Buffer’s case, they are using open graph tags with “descriptions”, thus I’d encourage them to add meta descriptions as well.</p>
 
@@ -539,7 +539,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Buffer has no rel=publisher markup code on their home page. In fact, if you analyze the page with the structured data tool, you will notice there is no publisher schema on the page at all. However, if you look at Buffer’s Google+ profile page, you will notice they have a verified website listing – which is why they are currently receiving the rich markup:</p>
 
-<p><img src="/images/wp-uploads/2014/06/bufferapp-Google-Search-2014-06-01-22-25-20.png" alt="publisher" /></p>
+<p><img src="/assets/images/buffer/bufferapp-Google-Search-2014-06-01-22-25-20.png" alt="publisher" /></p>
 
 <p>Rel=publisher markup is not required for the logo to show up. All that is required is for the company to have a Google+ page that has their website verified in their Google+ profile. But, it wouldn’t hurt for Buffer to add the publisher markup, just to make sure their rich snippet stays in place.</p>
 
@@ -566,7 +566,7 @@ permalink: improve-buffer-inbound-audit
 
 <p><em>Which translates into:</em></p>
 
-<p><img src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-01-at-5.21.30-PM.png" alt="" /></p>
+<p><img src="/assets/images/buffer/Screen-Shot-2014-06-01-at-5.21.30-PM.png" alt="" /></p>
 
 <p>It may be best, however, that on bufferapp.com, Buffer include these basic og: tags at the very minimal:</p>
 
@@ -588,7 +588,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Most of the pages that do not have a unique title derive from happiness.bufferapp.com. As you can see below, in the way that the happiness site is set up, the “title” tag is left empty.</p>
 
-<p><a href="view-source:https://happiness.bufferapp.com/reports/tags/helpscout/today" target="_blank"><img src="/images/wp-uploads/2014/06/httpshappiness.bufferapp.comreportstagshelpscouttoday-2014-06-01-16-04-38.png" alt="" /></a></p>
+<p><a href="view-source:https://happiness.bufferapp.com/reports/tags/helpscout/today" target="_blank"><img src="/assets/images/buffer/httpshappiness.bufferapp.comreportstagshelpscouttoday-2014-06-01-16-04-38.png" alt="" /></a></p>
 
 <p>On these pages, Buffer should add a unique title that describes the pages.</p>
 
@@ -598,7 +598,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Google will show as many characters that a 512 pixel display can show – thus, around 50-60 characters. As you can see below, most of Buffers titles are at an average of 69 characters long, and very few of them reach 80-90 characters in the title.</p>
 
-<p><img src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-01-at-4.51.40-PM.png" alt="Buffer Title Length" /></p>
+<p><img src="/assets/images/buffer/Screen-Shot-2014-06-01-at-4.51.40-PM.png" alt="Buffer Title Length" /></p>
 
 <p>Shortening some of these titles would help Buffer to avoid truncation. For example, Buffer’s most recent title on the blog:</p>
 
@@ -606,7 +606,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>is 105 characters long and looks like this in the SERPs:</p>
 
-<p><img src="/images/wp-uploads/2014/06/New-Title-Tag-Guidelines-Preview-Tool-Moz-2014-06-01-16-58-39.png" alt="SERPs" /></p>
+<p><img src="/assets/images/buffer/New-Title-Tag-Guidelines-Preview-Tool-Moz-2014-06-01-16-58-39.png" alt="SERPs" /></p>
 
 <p>In some cases, when Buffer’s title tag is too long, Google no longer truncates the title and adds an ellipsis to the end; instead, Google tries to algorithmically determine a better title for the post.</p>
 
@@ -634,7 +634,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Buffer has done a great job crafting their URLs. Their URLs are at an average length of 50 characters (including bufferapp.com/ or subdomain.bufferapp.com).</p>
 
-<p><img src="/images/wp-uploads/2014/06/Buffer-URL-Analysis.png" alt="" /></p>
+<p><img src="/assets/images/buffer/Buffer-URL-Analysis.png" alt="" /></p>
 
 <p>Ignoring the subdomain structure (as opposed to subdirectory), the site’s URL structure is organized and clean. Each URL also contains at least one keyword.</p>
 
@@ -660,7 +660,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>One last point: Buffer’s new blog overflow.bufferapp.com should remove the date from the link structure:</p>
 
-<p><img class="alignnone size-large wp-image-2652" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-8.57.30-AM-1024x185.png" alt="Screen Shot 2014-06-11 at 8.57.30 AM" width="1024" height="185" /></p>
+<p><img class="alignnone size-large wp-image-2652" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-8.57.30-AM-1024x185.png" alt="Screen Shot 2014-06-11 at 8.57.30 AM" width="1024" height="185" /></p>
 
 <h4 id="keywords">Keywords</h4>
 
@@ -670,7 +670,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Another reason for Buffer to remove the Meta Keywords tag is that it provides an easy way for their competition to see the words they are trying to rank for.</p>
 
-<p><img src="/images/wp-uploads/2014/06/Keywords.jpg" alt="keywords" /></p>
+<p><img src="/assets/images/buffer/Keywords.jpg" alt="keywords" /></p>
 
 <p>What’s most disconcerting of all is that if these keywords are truly the words Buffer is trying to rank for, then they need to conduct more keyword research. Some of the keywords make sense, but even attempting to rank for “Twitter”, “Linked In”, etc… would be difficult and would probably garner a low CTR. Buffer should consider doing more research around “Social Media Management Dashboard,” “Hootsuite alternative”, etc… These types of phrases would be more beneficial to their audience.</p>
 
@@ -695,7 +695,7 @@ permalink: improve-buffer-inbound-audit
 
 <h4 id="duplicate">Content Duplication</h4>
 
-<p>Buffer is doing a excellent job keeping their content unique and fresh (much thanks to Belle and Courtney). Buffer does, however, need to be careful with duplicate content and canonicalization. <strong>Duplicate Content issues with the Development Site</strong> Buffer uses a development site – dev.bufferapp.com – to test before pushing to production. As you can tell from the screenshot below, the dev site is a mirror of the production site: <a href="https://dev.bufferapp.com/about/team" target="_blank"><img src="/images/wp-uploads/2014/06/Team-Buffer-2014-06-01-13-20-16.png" alt="" /></a> This is normal practice to test changes on a UA, Dev, and staging server before pushing changes to production, but in this case, I’d suggest that Buffer do one of the following:</p>
+<p>Buffer is doing a excellent job keeping their content unique and fresh (much thanks to Belle and Courtney). Buffer does, however, need to be careful with duplicate content and canonicalization. <strong>Duplicate Content issues with the Development Site</strong> Buffer uses a development site – dev.bufferapp.com – to test before pushing to production. As you can tell from the screenshot below, the dev site is a mirror of the production site: <a href="https://dev.bufferapp.com/about/team" target="_blank"><img src="/assets/images/buffer/Team-Buffer-2014-06-01-13-20-16.png" alt="" /></a> This is normal practice to test changes on a UA, Dev, and staging server before pushing changes to production, but in this case, I’d suggest that Buffer do one of the following:</p>
 
 <ol>
   <li>Bring dev.bufferapp.com internally (which may not be easy due to a distributed work force).</li>
@@ -703,7 +703,7 @@ permalink: improve-buffer-inbound-audit
   <li>Add a meta robots tag that “NOINDEX, NOFOLLOW” every page on the site.</li>
 </ol>
 
-<p>      This is not a major issue right now because there are only 40 pages on the development site, but the last thing Buffer would want is duplicate content – or even worse – people linking to the development site. <strong>Duplicate Content Issues with Overflow</strong> Overflow is a new blog that Buffer just created. They took content from the open blog and moved it to overflow. During this process, they did not redirect the old content to the new location, leaving duplicate content. As you can see below, Buffer has content living in two blogs:  <img class="alignnone size-large wp-image-2609" src="/images/wp-uploads/2014/06/How-to-Stop-Procrastinating-on-Your-Goals_-The-Story-of-Fighting-Alligators-and-Building-Bikesheds-Google-Search-2014-06-10-10-14-19-1024x727.jpg" alt="How-to-Stop-Procrastinating-on-Your-Goals_-The-Story-of-Fighting-Alligators-and-Building-Bikesheds---Google-Search-2014-06-10-10-14-19" width="1024" height="727" />Right now, there isn’t a huge urgency to fix this matter because the overflow blog is being Disallowed by robots.txt. However, Buffer should 301 redirect the content from open to overflow fairly quickly to avoid duplicate content issues. I didn’t want to wait until the audit was published to contact Buffer, so I went ahead and sent this information over. The robots disallow could harm organic. Buffer replied with:</p>
+<p>      This is not a major issue right now because there are only 40 pages on the development site, but the last thing Buffer would want is duplicate content – or even worse – people linking to the development site. <strong>Duplicate Content Issues with Overflow</strong> Overflow is a new blog that Buffer just created. They took content from the open blog and moved it to overflow. During this process, they did not redirect the old content to the new location, leaving duplicate content. As you can see below, Buffer has content living in two blogs:  <img class="alignnone size-large wp-image-2609" src="/assets/images/buffer/How-to-Stop-Procrastinating-on-Your-Goals_-The-Story-of-Fighting-Alligators-and-Building-Bikesheds-Google-Search-2014-06-10-10-14-19-1024x727.jpg" alt="How-to-Stop-Procrastinating-on-Your-Goals_-The-Story-of-Fighting-Alligators-and-Building-Bikesheds---Google-Search-2014-06-10-10-14-19" width="1024" height="727" />Right now, there isn’t a huge urgency to fix this matter because the overflow blog is being Disallowed by robots.txt. However, Buffer should 301 redirect the content from open to overflow fairly quickly to avoid duplicate content issues. I didn’t want to wait until the audit was published to contact Buffer, so I went ahead and sent this information over. The robots disallow could harm organic. Buffer replied with:</p>
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
@@ -719,26 +719,26 @@ permalink: improve-buffer-inbound-audit
 
 <h4 id="backlinks">Backlinks</h4>
 
-<p>Links are not everything when it comes to SEO, but search professionals and companies attribute a large portion of the search engines’ algorithms to backlinks (Larry Page based Google off of the Educational Citation Method – ie. A professor who was cited by other authors was considered more credible – Read his dissertation for more information). When analyzing backlinks, you should consider: Total number of links, link quality, number of unique domains, fresh/incoming links, and anchor text usage. To start, I first recorded how many backlinks Buffer had received over the past few months. The charts below show the growth of Buffer’s backlink profile over the course of one year. <a href="https://ahrefs.com/site-explorer/overview/subdomains/?target=bufferapp.com" target="_blank"><img class="alignnone size-large wp-image-2645" src="/images/wp-uploads/2014/06/Overview-bufferapp.com-on-Ahrefs-2014-06-11-08-32-59-1024x722.png" alt="Overview bufferapp.com on Ahrefs 2014-06-11 08-32-59" width="1024" height="722" /></a> After comparing the backlink analysis above to both Majestic SEO and Moz, there was not much of a difference. Buffer was consistently growing their unique domain backlinks until April, and has started a recent growth. The reason Buffer’s backlink profile is massive is due to the Buffer social links pointing back to their root domain. To get a clearer view of what a natural link profile (and by natural, I mean not placed), here is a look at Buffer’s blogs (open and blog – at the time of writing the audit, overflow did not have any links…). [The first graph is blog.bufferapp – the second is open.bufferapp]: <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=F&amp;d0=blog.bufferapp.com&amp;d1=&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2646" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-8.42.52-AM-1024x277.png" alt="Majestic SEO" width="1024" height="277" /></a> <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=F&amp;d0=open.bufferapp.com&amp;d1=&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2647" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-8.43.05-AM-1024x269.png" alt="Screen Shot 2014-06-11 at 8.43.05 AM" width="1024" height="269" /></a>As you can see from the data above, their backlinks are growing, but the Bufferapp root domain is outpacing the blog, which is outpacing open. If Buffer continues to open subdomains (which is great for segregating content, bad for links) they need to keep a close eye on their links. This past month, the open blog traffic dropped: <a href="http://open.bufferapp.com/may-buffer-content-marketing-report/"><img class="alignnone size-full wp-image-2648" src="/images/wp-uploads/2014/06/Open-Traffic.png" alt="Open Traffic" width="740" height="217" /></a> This graph includes all traffic (not just organic), but since the subdomain had been moved a month before, it could be a drop due to the lack of backlinks. The articles went from a subdomain with 10,000 backlinks to a subdomain with 1,100. Even though it was a month later, sometimes the changes are delayed in Google. To see how Buffer’s backlink growth matches up with their competition, I compared Buffer’s growth with one of their competitors over the past 5 years: Hootsuite. <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=H&amp;d0=bufferapp.com&amp;d1=hootsuite.com&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2649" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-8.49.45-AM-1024x286.png" alt="Hootsuite and Buffer" width="1024" height="286" /></a> This charts shows 2 things:</p>
+<p>Links are not everything when it comes to SEO, but search professionals and companies attribute a large portion of the search engines’ algorithms to backlinks (Larry Page based Google off of the Educational Citation Method – ie. A professor who was cited by other authors was considered more credible – Read his dissertation for more information). When analyzing backlinks, you should consider: Total number of links, link quality, number of unique domains, fresh/incoming links, and anchor text usage. To start, I first recorded how many backlinks Buffer had received over the past few months. The charts below show the growth of Buffer’s backlink profile over the course of one year. <a href="https://ahrefs.com/" target="_blank"><img class="alignnone size-large wp-image-2645" src="/assets/images/buffer/Overview-bufferapp.com-on-Ahrefs-2014-06-11-08-32-59-1024x722.png" alt="Overview bufferapp.com on Ahrefs 2014-06-11 08-32-59" width="1024" height="722" /></a> After comparing the backlink analysis above to both Majestic SEO and Moz, there was not much of a difference. Buffer was consistently growing their unique domain backlinks until April, and has started a recent growth. The reason Buffer’s backlink profile is massive is due to the Buffer social links pointing back to their root domain. To get a clearer view of what a natural link profile (and by natural, I mean not placed), here is a look at Buffer’s blogs (open and blog – at the time of writing the audit, overflow did not have any links…). [The first graph is blog.bufferapp – the second is open.bufferapp]: <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=F&amp;d0=blog.bufferapp.com&amp;d1=&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2646" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-8.42.52-AM-1024x277.png" alt="Majestic SEO" width="1024" height="277" /></a> <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=F&amp;d0=open.bufferapp.com&amp;d1=&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2647" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-8.43.05-AM-1024x269.png" alt="Screen Shot 2014-06-11 at 8.43.05 AM" width="1024" height="269" /></a>As you can see from the data above, their backlinks are growing, but the Bufferapp root domain is outpacing the blog, which is outpacing open. If Buffer continues to open subdomains (which is great for segregating content, bad for links) they need to keep a close eye on their links. This past month, the open blog traffic dropped: <a href="http://open.bufferapp.com/may-buffer-content-marketing-report/"><img class="alignnone size-full wp-image-2648" src="/assets/images/buffer/Open-Traffic.png" alt="Open Traffic" width="740" height="217" /></a> This graph includes all traffic (not just organic), but since the subdomain had been moved a month before, it could be a drop due to the lack of backlinks. The articles went from a subdomain with 10,000 backlinks to a subdomain with 1,100. Even though it was a month later, sometimes the changes are delayed in Google. To see how Buffer’s backlink growth matches up with their competition, I compared Buffer’s growth with one of their competitors over the past 5 years: Hootsuite. <a href="https://www.majesticseo.com/reports/compare-domain-backlink-history?IndexDataSource=H&amp;d0=bufferapp.com&amp;d1=hootsuite.com&amp;d2=&amp;d3=&amp;d4=&amp;type=1&amp;ctype=1" target="_blank"><img class="alignnone size-large wp-image-2649" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-8.49.45-AM-1024x286.png" alt="Hootsuite and Buffer" width="1024" height="286" /></a> This charts shows 2 things:</p>
 
 <ol>
   <li>Buffer’s backlinks <em>are</em> growing.</li>
   <li> They have fierce competition.</li>
 </ol>
 
-<p>      The reason Buffer has been able to make up so much ground against Hootsuite is due to the quick adaption of the Buffer button. Without the Buffer button, their links do not come close to Hootsuite’s. Almost every month, Hootsuite is acquiring more links from more unique referring domains. The backlink analysis shows the competitiveness of  backlinks: <a href="https://ahrefs.com/labs/domain-comparison/bufferapp.com/hootsuite.com" target="_blank"><img class="alignnone size-large wp-image-2653" src="/images/wp-uploads/2014/06/Domain-Comparison-Ahrefs-2014-06-11-08-55-19-563x1024.png" alt="Domain Comparison - Ahrefs 2014-06-11 08-55-19" width="563" height="1024" /></a></p>
+<p>      The reason Buffer has been able to make up so much ground against Hootsuite is due to the quick adaption of the Buffer button. Without the Buffer button, their links do not come close to Hootsuite’s. Almost every month, Hootsuite is acquiring more links from more unique referring domains. The backlink analysis shows the competitiveness of  backlinks: <a href="https://ahrefs.com/" target="_blank"><img class="alignnone size-large wp-image-2653" src="/assets/images/buffer/Domain-Comparison-Ahrefs-2014-06-11-08-55-19-563x1024.png" alt="Domain Comparison - Ahrefs 2014-06-11 08-55-19" width="563" height="1024" /></a></p>
 
 <h5 id="302-redirects-302">302 Redirects {#302}</h5>
 
-<p>Buffer implements redirects correctly throughout, but there is cause for some concern on the homepage. There are technical reasons for implementing a 302 redirect to https, but since this redirect will stay around, I’d suggest Buffer change the redirect to a 301. As you can see below, http://bufferapp 302 redirects to https://bufferapp:  <img class="alignnone size-large wp-image-2657" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-11-at-9.02.33-AM-1024x262.png" alt="Buffer Redirect" width="1024" height="262" />Unless there is a technical reason for this, I’d suggest Buffer consider adding a 301.</p>
+<p>Buffer implements redirects correctly throughout, but there is cause for some concern on the homepage. There are technical reasons for implementing a 302 redirect to https, but since this redirect will stay around, I’d suggest Buffer change the redirect to a 301. As you can see below, http://bufferapp 302 redirects to https://bufferapp:  <img class="alignnone size-large wp-image-2657" src="/assets/images/buffer/Screen-Shot-2014-06-11-at-9.02.33-AM-1024x262.png" alt="Buffer Redirect" width="1024" height="262" />Unless there is a technical reason for this, I’d suggest Buffer consider adding a 301.</p>
 
 <h5 id="backlinkd">Backlink Distribution</h5>
 
-<p>To monitor Buffer’s backlink distribution – the links dispersed among all of their pages – I used Moz’s Pro Tools to analyze the backlinks for each page on Buffer’s site. <img class="alignnone size-large wp-image-2663" src="/images/wp-uploads/2014/06/distribution-of-links-1024x673.png" alt="distribution of links" width="1024" height="673" />Buffer has – according to Moz, Majestic and Ahrefs – around 42,000 referring domains. But, upon closer inspection, many of those links are pointing to root (via social links). According to the data, 76% of all Buffer’s pages have no backlinks. Of the 24% that do have links, the homepage accounts for almost 23% of those links (the data is skewed here because of the massive amount of backlinks to the root domain via the Buffer social sharing icon).</p>
+<p>To monitor Buffer’s backlink distribution – the links dispersed among all of their pages – I used Moz’s Pro Tools to analyze the backlinks for each page on Buffer’s site. <img class="alignnone size-large wp-image-2663" src="/assets/images/buffer/distribution-of-links-1024x673.png" alt="distribution of links" width="1024" height="673" />Buffer has – according to Moz, Majestic and Ahrefs – around 42,000 referring domains. But, upon closer inspection, many of those links are pointing to root (via social links). According to the data, 76% of all Buffer’s pages have no backlinks. Of the 24% that do have links, the homepage accounts for almost 23% of those links (the data is skewed here because of the massive amount of backlinks to the root domain via the Buffer social sharing icon).</p>
 
 <h5 id="backlinksource">Backlink Source</h5>
 
-<p>To analyze Buffer’s backlinks, I used Majestic SEO. Here is a plotting of their backlinks: <a href="https://www.majesticseo.com/reports/site-explorer/link-profile?folder=&amp;q=bufferapp.com&amp;oq=bufferapp.com&amp;IndexDataSource=F" target="_blank"><img class="alignnone size-large wp-image-2668" src="/images/wp-uploads/2014/06/Buffer-Backlink-Source-1024x542.jpg" alt="Buffer-Backlink-Source" width="1024" height="542" /></a> The site has quite a few quality backlinks. When analyzing Majestic, you are hoping to see the links fall to the top right. Citation Flow is link juice and the Trust Flow is how close those links are to trustworthy, authoritative sources. Correlating with the data above, a handful of Buffer’s links that I checked appeared spammy, and a few of the links over-optimized anchor text. With a trust ratio of .842 on bufferapp and .660 on blog.bufferapp, Buffer really needs to examine their backlink profile. (It would be nice to see the ratio greater than 1.) <span style="font-weight: bold;">One last caution:</span> Buffer should be careful of websites using links in headers and footers that repeat across the site. These sitewide links are heavily scrutinized by Google’s Penguin update… Buffer’s entire sharing model is based on multiple pages having the same backlink. Buffer should monitor webmaster tools closely to make sure they stay in line with Google’s regulations.</p>
+<p>To analyze Buffer’s backlinks, I used Majestic SEO. Here is a plotting of their backlinks: <a href="https://www.majesticseo.com/reports/site-explorer/link-profile?folder=&amp;q=bufferapp.com&amp;oq=bufferapp.com&amp;IndexDataSource=F" target="_blank"><img class="alignnone size-large wp-image-2668" src="/assets/images/buffer/Buffer-Backlink-Source-1024x542.jpg" alt="Buffer-Backlink-Source" width="1024" height="542" /></a> The site has quite a few quality backlinks. When analyzing Majestic, you are hoping to see the links fall to the top right. Citation Flow is link juice and the Trust Flow is how close those links are to trustworthy, authoritative sources. Correlating with the data above, a handful of Buffer’s links that I checked appeared spammy, and a few of the links over-optimized anchor text. With a trust ratio of .842 on bufferapp and .660 on blog.bufferapp, Buffer really needs to examine their backlink profile. (It would be nice to see the ratio greater than 1.) <span style="font-weight: bold;">One last caution:</span> Buffer should be careful of websites using links in headers and footers that repeat across the site. These sitewide links are heavily scrutinized by Google’s Penguin update… Buffer’s entire sharing model is based on multiple pages having the same backlink. Buffer should monitor webmaster tools closely to make sure they stay in line with Google’s regulations.</p>
 
 <h5 id="anchortext">Anchor Text Distribution</h5>
 
@@ -750,7 +750,7 @@ permalink: improve-buffer-inbound-audit
   <li>5% exact match anchor texts (Exact Match)</li>
 </ul>
 
-<p>      Below is the Anchor Text chart for Buffer…  <img class="alignnone size-full wp-image-2557" src="/images/wp-uploads/2014/06/blog.bufferapp-anchor-text.png" alt="blog.bufferapp anchor text" width="938" height="778" />Buffer does very well. If you examine the chart closely:</p>
+<p>      Below is the Anchor Text chart for Buffer…  <img class="alignnone size-full wp-image-2557" src="/assets/images/buffer/blog.bufferapp-anchor-text.png" alt="blog.bufferapp anchor text" width="938" height="778" />Buffer does very well. If you examine the chart closely:</p>
 
 <ul>
   <li>2% of Buffer links come from “Buffer,” which is a branded identity.</li>
@@ -758,7 +758,7 @@ permalink: improve-buffer-inbound-audit
   <li>94% include the other types of links: Naked, URL, etc..</li>
 </ul>
 
-<p>      Buffer has done a great job of keeping their links diverse. The other blog – open.bufferapp – appears natural as well. As the company grows, the branded terms should grow as well, but again, that would be a natural progression. The only cause for concern is bufferapp.com – as you can see below, the Anchor text distribution is unnatural:  <img class="alignnone size-full wp-image-2558" src="/images/wp-uploads/2014/06/bufferapp-anchor-text.png" alt="bufferapp anchor text" width="970" height="780" />The  main reason for this is because Buffer uses bufferapp.com as the link location for all sharing functionality produced by Buffer. If you’ve ever created a Buffer share button, you would have seen:</p>
+<p>      Buffer has done a great job of keeping their links diverse. The other blog – open.bufferapp – appears natural as well. As the company grows, the branded terms should grow as well, but again, that would be a natural progression. The only cause for concern is bufferapp.com – as you can see below, the Anchor text distribution is unnatural:  <img class="alignnone size-full wp-image-2558" src="/assets/images/buffer/bufferapp-anchor-text.png" alt="bufferapp anchor text" width="970" height="780" />The  main reason for this is because Buffer uses bufferapp.com as the link location for all sharing functionality produced by Buffer. If you’ve ever created a Buffer share button, you would have seen:</p>
 
 <p>If you look closely in the code above, you can see the anchor text is “Buffer” – which is why 34% of their anchor text on bufferapp.com is “Buffer”. In this case, since those links are technically placed links, Buffer should keep a close eye on it’s backlink profile, webmaster updates, and potential penalties. A future penalty on the root domain could hurt all domains.</p>
 
@@ -766,7 +766,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>With any link that you place on your site, NoFollow or not, know that these links act as a gateway into other sites that introduce your audience to others’ content. So before you place a well-positioned link, think of what that link could to your site traffic and your content reach. As you can see below, the Hello Bar that Buffer uses places a follow link on every page (over 1,000).</p>
 
-<p><img class="alignnone size-large wp-image-2583" src="/images/wp-uploads/2014/06/Hello-Bar-No-Follow-Links-1024x551.jpg" alt="Hello Bar No Follow Links" width="1024" height="551" /></p>
+<p><img class="alignnone size-large wp-image-2583" src="/assets/images/buffer/Hello-Bar-No-Follow-Links-1024x551.jpg" alt="Hello Bar No Follow Links" width="1024" height="551" /></p>
 
 <p>If I were Buffer, I’d reconsider the implementation of the HelloBar for 2 reasons:</p>
 
@@ -786,7 +786,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>(or just click the image below to see the action I am talking about):</p>
 
-<p><a href="/images/wp-uploads/2014/06/Email-List-Building-From-the-Experts_-How-to-Grow-a-Massive-Email-List-2014-06-09-22-40-14.jpg"><img class="alignnone size-large wp-image-2603" src="/images/wp-uploads/2014/06/Email-List-Building-From-the-Experts_-How-to-Grow-a-Massive-Email-List-2014-06-09-22-40-14-1024x525.jpg" alt="Email-List-Building-From-the-Experts_-How-to-Grow-a-Massive-Email-List-2014-06-09-22-40-14" width="1024" height="525" /></a></p>
+<p><img class="alignnone size-large wp-image-2603" src="/assets/images/buffer/Email-List-Building-From-the-Experts_-How-to-Grow-a-Massive-Email-List-2014-06-09-22-40-14-1024x525.jpg" alt="Email-List-Building-From-the-Experts_-How-to-Grow-a-Massive-Email-List-2014-06-09-22-40-14" width="1024" height="525" /></a></p>
 
 <p>Buffer should consider removing that extra link. These extra links are an innate WP function that can easily be changed in functions.php:</p>
 
@@ -802,19 +802,19 @@ permalink: improve-buffer-inbound-audit
 
 <p>Let’s start at the very beginning. Buffer should have calls to action on the homepage. It’s probably the most frequently visited page on Buffer and presents an opportunity to drive traffic for lead generation. In fact, some say the homepage should have at least three calls-to-action.</p>
 
-<p><img class="alignnone size-large wp-image-2590" src="/images/wp-uploads/2014/06/Buffer-A-better-way-to-share-on-social-media-2014-06-09-21-46-03-1024x525.png" alt="Buffer - A better way to share on social media 2014-06-09 21-46-03" width="1024" height="525" /></p>
+<p><img class="alignnone size-large wp-image-2590" src="/assets/images/buffer/Buffer-A-better-way-to-share-on-social-media-2014-06-09-21-46-03-1024x525.png" alt="Buffer - A better way to share on social media 2014-06-09 21-46-03" width="1024" height="525" /></p>
 
 <p>Buffer has an offer and at least three calls to action – asking people to log in with Twitter, Facebook, and Linkedin. The only shortcoming on this page is the CTA’s don’t lead to a landing page. This leaves two potential gaps.</p>
 
 <p><strong>First,</strong> a user could complete the login process and never come back. If a user logs in with Twitter or Linkedin – via the CTA – and there is no landing page to collect more information, the user could be one and done. As you can see below, if a user logins with Twitter or Linkedin, Buffer does not get their email information:</p>
 
-<p><img class="alignnone size-full wp-image-2591" src="/images/wp-uploads/2014/06/Authorize-LinkedIn-2014-06-09-21-57-40.jpg" alt="Authorize | LinkedIn 2014-06-09 21-57-40" width="800" height="528" /></p>
+<p><img class="alignnone size-full wp-image-2591" src="/assets/images/buffer/Authorize-LinkedIn-2014-06-09-21-57-40.jpg" alt="Authorize | LinkedIn 2014-06-09 21-57-40" width="800" height="528" /></p>
 
 <p>The other forms of login (Facebook and Email) do allow for the collection of email, but perhaps Buffer could improve gathering more information.</p>
 
 <p><strong>Secondly,</strong> without email capture, lower funnel lead generation will become extremely difficult for Buffer. In a January post, Buffer detailed how they redesigned the CTAs on the homepage. In the article, they recount that the new homepage led to a 16% increase in overall new user conversions. This is great, but conversion in this case is top of the funnel – not paying users. Thus, 16% of those “new users” may have been one and done. If Buffer can create a landing page that collects email addresses on every signup for marketing automation and lead nurturing, they may increase their paying customers.</p>
 
-<p>On the blog pages, Buffer also includes CTA’s, but the offers do not change and can be a little overwhelming: <img class="alignnone size-large wp-image-2594" src="/images/wp-uploads/2014/06/6-Research-Backed-Ways-to-Get-More-Followers-on-Twitter-and-Facebook-2014-06-09-22-11-56-1024x525.jpg" alt="6-Research-Backed-Ways-to-Get-More-Followers-on-Twitter-and-Facebook-2014-06-09-22-11-56" width="1024" height="525" />At the bottom of every blog page (open blog included), Buffer clusters its CTA’s, so much so that the sidebar CTA is hidden by the pop up footer CTA. In this case, it would be beneficial for Buffer to remove some of their CTA’s at certain scroll depths. It’s great that their CTA’s are above the fold, but when they all merge, the user is overwhelmed with 4 places to click.</p>
+<p>On the blog pages, Buffer also includes CTA’s, but the offers do not change and can be a little overwhelming: <img class="alignnone size-large wp-image-2594" src="/assets/images/buffer/6-Research-Backed-Ways-to-Get-More-Followers-on-Twitter-and-Facebook-2014-06-09-22-11-56-1024x525.jpg" alt="6-Research-Backed-Ways-to-Get-More-Followers-on-Twitter-and-Facebook-2014-06-09-22-11-56" width="1024" height="525" />At the bottom of every blog page (open blog included), Buffer clusters its CTA’s, so much so that the sidebar CTA is hidden by the pop up footer CTA. In this case, it would be beneficial for Buffer to remove some of their CTA’s at certain scroll depths. It’s great that their CTA’s are above the fold, but when they all merge, the user is overwhelmed with 4 places to click.</p>
 
 <h4 id="2-quick-suggestions">2 Quick Suggestions:</h4>
 
@@ -825,7 +825,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Finally, Buffer needs to make sure their CTA’s are honest. Although this is accidental, notice the discretion between the number of email sign-ups at the top of the page and the sidebar:</p>
 
-<p><img class="alignnone size-large wp-image-2596" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-08-at-8.15.26-PM-1024x593.png" alt="Buffer Numbers" width="1024" height="593" />Again, this was a complete accident – or perhaps – even a lack of updating information (20,000+ users vs. 19,638), but I’d highly encourage that Buffer verify their numbers.</p>
+<p><img class="alignnone size-large wp-image-2596" src="/assets/images/buffer/Screen-Shot-2014-06-08-at-8.15.26-PM-1024x593.png" alt="Buffer Numbers" width="1024" height="593" />Again, this was a complete accident – or perhaps – even a lack of updating information (20,000+ users vs. 19,638), but I’d highly encourage that Buffer verify their numbers.</p>
 
 <h3 id="landingpages">Landing Pages</h3>
 
@@ -833,7 +833,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>On Buffer’s site, however, the only landing page (either through CTA, Social Media, etc…) is the home page. Mainly, Buffer’s referral traffic lands on a blog page – which contains a CTA – which directs them back to the homepage:</p>
 
-<p><img class="alignnone size-large wp-image-2590" src="/images/wp-uploads/2014/06/Buffer-A-better-way-to-share-on-social-media-2014-06-09-21-46-03-1024x525.png" alt="Buffer - A better way to share on social media 2014-06-09 21-46-03" width="1024" height="525" /></p>
+<p><img class="alignnone size-large wp-image-2590" src="/assets/images/buffer/Buffer-A-better-way-to-share-on-social-media-2014-06-09-21-46-03-1024x525.png" alt="Buffer - A better way to share on social media 2014-06-09 21-46-03" width="1024" height="525" /></p>
 
 <p>In this case, Buffer is directing all of their traffic back to the home page, thinking that their visitors will “figure out” where they want to go. But with so many opportunities and the limited attention of the user, the home page is almost too broad and generic, rather than being narrowly focused to one particular topic to one particular persona.</p>
 
@@ -845,7 +845,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>Buffer does not use many forms – and perhaps, it’s because they don’t want the forms to come across as a hard sell. Nevertheless, it would be advantageous for Buffer to use a few more detailed forms to collect information. No matter how you spin it, Buffer does have name squeeze forms (an internet marketing tactic that presents users with a choice: enter your name and email to get a freebie, or go elsewhere). So, Buffer might as well see if they can at least ascertain more of the users’ information.</p>
 
-<p><img class="alignnone size-full wp-image-2613" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-6.46.28-PM.png" alt="Forms" width="640" height="636" /></p>
+<p><img class="alignnone size-full wp-image-2613" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-6.46.28-PM.png" alt="Forms" width="640" height="636" /></p>
 
 <p>Buffer could create a few CTA’s that lead to unique landing pages with forms that collect name and email. Perhaps these forms could increase conversion. As it stands, a user could complete the form process and never come back. If a user logs in with Twitter or Linkedin – via the CTA – Buffer does not collect emails, and the user could be one and done. Or even worse, the user could log in, love the software, then get distracted – go to another site – and then, Buffer has no way of contacting them.</p>
 
@@ -865,7 +865,7 @@ permalink: improve-buffer-inbound-audit
 
 <p><strong>But as emails grow, so should Buffer’s outreach.</strong> When a user signs up for Buffer’s email (through Hellobar or the popup), the visitor then must complete the double opt in (which is great in the prevention of SPAM). I signed up and you can see the <strong>first</strong> email I received:</p>
 
-<p><img class="alignnone size-full wp-image-2627" src="/images/wp-uploads/2014/06/Buffer-Email.png" alt="Buffer Email" width="834" height="518" /></p>
+<p><img class="alignnone size-full wp-image-2627" src="/assets/images/buffer/Buffer-Email.png" alt="Buffer Email" width="834" height="518" /></p>
 
 <p>Immediately, three problems arise that are compounded by other issues:</p>
 
@@ -893,13 +893,13 @@ permalink: improve-buffer-inbound-audit
 
 <p>Bar none, Buffer is one of the best companies on social media. The responded to most tweets within 20 minutes, and during the week of monitoring, out of 1,798 inquiries, they responded to 90% in less than 6 hours.</p>
 
-<p><a href="https://happiness.bufferapp.com/reports/response-times/helpscout/last-week" target="_blank"><img class="alignnone size-large wp-image-2632" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-10.15.15-PM-1024x604.png" alt="Response Times" width="1024" height="604" /></a></p>
+<p><a href="https://happiness.bufferapp.com/reports/response-times/helpscout/last-week" target="_blank"><img class="alignnone size-large wp-image-2632" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-10.15.15-PM-1024x604.png" alt="Response Times" width="1024" height="604" /></a></p>
 
 <p>Besides using social media as a customer service tool, we cannot ignore the fact that social media is a search engine of sorts. People on social media are researching, searching, interacting, and engaging – and at very high engagement rates. According to Statisticbrain, the number of Twitter search engine queries every day is over 2.1 billion. In any regard, a site’s success is largely dependent on social success and social engagement.</p>
 
 <p>The chart below provides a visual of how Buffer’s shares are split concerning a search engine’s point of view. The center represents the first page, and each segment beyond it are pages linked from that page (in this case – the blog roll page). Segments beyond that are linked to their parent. Pages with no shares are not included or shown (click on the image to zoom in and to read the text).</p>
 
-<p><a href="https://socialcrawlytics.com/account/report/SC5397d9c7c6f281504/large_tree/4000/4000"><img class="alignnone size-large wp-image-2635" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-10.34.20-PM-1024x944.png" alt="Buffer Starburst" width="1024" height="944" /></a></p>
+<p><a href="https://socialcrawlytics.com/account/report/SC5397d9c7c6f281504/large_tree/4000/4000"><img class="alignnone size-large wp-image-2635" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-10.34.20-PM-1024x944.png" alt="Buffer Starburst" width="1024" height="944" /></a></p>
 
 <p>As you can tell from the starburst, Buffer’s top 10 posts in organic traffic are highly represented in social media engagement:</p>
 
@@ -920,15 +920,15 @@ permalink: improve-buffer-inbound-audit
 
 <p>As you can see from the graph above, the center represents the blog homepage, and all articles off of the homepage. The graph below breaks down that same content by social network:</p>
 
-<p><a href="https://socialcrawlytics.com/account/report/SC5397d9c7c6f281504" target="_blank"><img class="alignnone size-large wp-image-2636" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-10.27.44-PM-952x1024.png" alt="Social Shares" width="952" height="1024" /></a>This data strongly correlates with the data that Buffer produces each month on the open blog. <a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank">According to Buffer</a><span style="text-decoration: underline;">:</span></p>
+<p><a href="https://socialcrawlytics.com/account/report/SC5397d9c7c6f281504" target="_blank"><img class="alignnone size-large wp-image-2636" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-10.27.44-PM-952x1024.png" alt="Social Shares" width="952" height="1024" /></a>This data strongly correlates with the data that Buffer produces each month on the open blog. <a href="http://open.bufferapp.com/may-buffer-content-marketing-report/" target="_blank">According to Buffer</a><span style="text-decoration: underline;">:</span></p>
 
-<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/"><img class="alignnone size-large wp-image-2638" src="/images/wp-uploads/2014/06/Social-Media-Interaction-1024x217.png" alt="Social Media Interaction" width="1024" height="217" /></a></p>
+<p><a href="http://open.bufferapp.com/may-buffer-content-marketing-report/"><img class="alignnone size-large wp-image-2638" src="/assets/images/buffer/Social-Media-Interaction-1024x217.png" alt="Social Media Interaction" width="1024" height="217" /></a></p>
 
 <p>As the data shows, followers grew on all social networks this month, but their interactions were down for every network except Facebook. Even though Facebook grew this month, Buffer’s Facebook engagement still needs some help – their engagement rate is hovering around 2%.</p>
 
 <p>The articles on Buffer that are most widely read are ones that ask for engagement:</p>
 
-<p><img class="alignnone size-full wp-image-2641" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-10.49.48-PM.png" alt="Facebook gone" width="850" height="372" /></p>
+<p><img class="alignnone size-full wp-image-2641" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-10.49.48-PM.png" alt="Facebook gone" width="850" height="372" /></p>
 
 <p>In this case, I’d encourage Buffer to examine their posts, and they are likely to find that the posts with larger images / posts asking for involvement did better than others.</p>
 
@@ -940,7 +940,7 @@ permalink: improve-buffer-inbound-audit
 
 <p>As you can see from the graph below, Buffer receives quite a few comments for each post (40 in sample):</p>
 
-<p><img class="alignnone size-large wp-image-2643" src="/images/wp-uploads/2014/06/Screen-Shot-2014-06-10-at-11.07.19-PM-1024x597.png" alt="Buffer Comments" width="1024" height="597" /></p>
+<p><img class="alignnone size-large wp-image-2643" src="/assets/images/buffer/Screen-Shot-2014-06-10-at-11.07.19-PM-1024x597.png" alt="Buffer Comments" width="1024" height="597" /></p>
 
 <p>The only recommendation I’d have for Buffer is to add a comment counter to the blog page. With such high interaction levels, a user may just click the comment count to join the discussion.</p>
 

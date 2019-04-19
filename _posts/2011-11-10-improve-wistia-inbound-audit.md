@@ -2,7 +2,7 @@
 layout: post
 title:  "How I'd Help Wistia Improve Their SEO: An In-Depth Audit"
 date:   2011-11-10 10:18:00
-permalink: improve-wistia-inbound-audit
+permalink: improve-wistia-inbound-audit/
 ---
 
 
