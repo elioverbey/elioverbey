@@ -11,5 +11,5 @@ google_analytics: 'UA-42487931-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'https://www.elioverbey.com'
+url:            'https://www.elioverbey.com/'
 author:         'Eli Overbey'
