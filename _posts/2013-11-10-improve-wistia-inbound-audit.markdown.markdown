@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How'd Help Wistia Improve Their SEO: An In-Depth Audit"
+title:  "How I'd Help Wistia Improve Their SEO: An In-Depth Audit"
 date:   2013-11-10 10:18:00
 ---
 
