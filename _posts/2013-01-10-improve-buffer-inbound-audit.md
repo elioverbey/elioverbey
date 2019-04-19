@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I'd Help Buffer Improve Their SEO: An In-Depth Audit"
-date:   2014-01-10 10:18:00
+date:   2013-01-10 10:18:00
 permalink: improve-buffer-inbound-audit
 ---
 
