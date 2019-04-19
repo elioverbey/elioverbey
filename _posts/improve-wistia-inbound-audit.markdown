@@ -821,33 +821,4 @@ date:   2013-11-10 10:18:00
 
 <p>Best of luck, Wistia.</p>
 
-</article>
-
-
-
-
-
-
-
-
-
-
-
-
-
-      </div>
-    </div>
-  </div>
-
-  <footer class="center">
-  <div class="measure">
-    <small>
-      &copy; 2017 Eli Overbey
-    </small>
-  </div>
-</footer>
-
-
-</body>
-</html>
 

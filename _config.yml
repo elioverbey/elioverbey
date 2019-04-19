@@ -1,6 +1,5 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Eli Overbey
+description: Things I've written over the years
 
 markdown: kramdown
 highlighter: pygments
