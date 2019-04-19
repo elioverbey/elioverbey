@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I'd Help Buffer Improve Their SEO: An In-Depth Audit"
-date:   2013-11-10 10:18:00
+date:   2014-01-10 10:18:00
 ---
 
  <p>Buffer’s people have spent hours creating a quality product and interacting with their customers. If you’ve ever replied to a comment on one of their posts or reached out to them personally, you know that Buffer is built on transparency and intentionality.</p>
