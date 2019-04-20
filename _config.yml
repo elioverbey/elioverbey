@@ -2,7 +2,7 @@ name: Eli Overbey
 description: Things I've written over the years
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: 
