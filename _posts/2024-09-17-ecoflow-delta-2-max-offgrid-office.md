@@ -5,8 +5,6 @@ permalink: ecoflow-delta-2-max-offgrid-office/
 layout: post
 ---
 
-## My Experience Reviewing the EcoFlow Delta Max 2 for My Off-Grid Office Shed
-
 When I first began setting up my off-grid office shed, finding a reliable power solution was one of my top priorities. After researching various options, I decided to test out the **EcoFlow Delta Max 2**, a portable power station known for its impressive capacity and ability to support various devices.
 
 Here’s a detailed review of my experience using this powerhouse for my off-grid workspace.
