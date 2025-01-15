@@ -26,9 +26,10 @@ With rumors of a [**Switch 2**](https://thegamepost.com/nintendo-mad-switch-2-le
 While the gaming industry buzzes with anticipation, the Switch’s legacy is already cemented as one of Nintendo’s greatest achievements. Its ability to bridge the gap between home consoles and portable devices has made it a cultural phenomenon.  
 
 ### The Best Games on Nintendo Switch  
-If you’re wondering what to play next—or searching for the perfect gift—this list highlights the best Nintendo Switch games available right now. Whether you’re into high-octane races, epic adventures, or cozy life sims, there’s a title waiting for you to discover.  
-
+If you’re wondering what to play next—or searching for the perfect gift—this list highlights the best Nintendo Switch games available right now. Whether you’re into high-octane races, epic adventures, or cozy life sims, there’s a title waiting for you to discover.
+  
 From timeless classics to groundbreaking new releases, the Nintendo Switch continues to be a console that defines the best of gaming.
+
 ---
 
 ### Mario Kart 8 Deluxe
