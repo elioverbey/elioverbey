@@ -7,6 +7,8 @@ layout: post
 
 *As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special. I ended up buying Super Mario Party Jamboree, but research below on the top games.*  
 
+*I’d be remiss not to mention that some of the links to Amazon are affiliate links. This means I may earn a small commission if you make a purchase through them, at no extra cost to you.*
+
 ![image](../assets/images/nintendo/christmas.jpg)
 
 
@@ -53,3 +55,9 @@ Breath of the Wild, as a Switch launch title, remains a masterpiece and one of t
 *Tears of the Kingdom* builds on everything that made Breath of the Wild special and takes it to the next level. One of its standout features is the *Ultrahand* ability, which had the internet buzzing when the game launched—and for good reason. It’s not every day you can build a functioning bomber jet in an unmodded fantasy RPG!  
 
 While it uses much of the same map as Breath of the Wild, Tears of the Kingdom shakes things up in a big way. Floating islands now dominate the skyline, and a mysterious underworld called the Depths adds a whole new layer to explore. Navigating these vertical levels can be tricky, and the new abilities take some getting used to, but once you do, the sense of freedom and discovery is incredible. This game gives players the tools to do pretty much anything, and the results are as satisfying as they are mind-blowing.
+
+
+
+[button url="http://www.google.com"]
+<button name="button" onclick="http://www.google.com">Click me</button>
+[Click me](http://www.google.com){: .btn}
