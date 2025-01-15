@@ -7,7 +7,6 @@ logo: false
 paginate: 15
 baseurl: 
 domain_name: 'https://www.elioverbey.com'
-google_analytics: 'UA-42487931-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
