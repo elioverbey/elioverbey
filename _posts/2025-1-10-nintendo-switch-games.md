@@ -5,7 +5,7 @@ permalink: nintendo-switch/
 layout: post
 ---
 
-*As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special.*  
+*As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special. I ended up buying Super Mario Party Jamboree, but research below on the top games.*  
 
 ![image](../assets/images/nintendo/christmas.jpg)
 
