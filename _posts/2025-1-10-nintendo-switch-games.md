@@ -7,7 +7,7 @@ layout: post
 
 *As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special.*  
 
-![image](assets/images/nintendo/christmas.jpg)
+![image](../assets/images/nintendo/christmas.jpg)
 
 
 ---
