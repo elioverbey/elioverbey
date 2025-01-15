@@ -21,7 +21,7 @@ Following the disappointing launch of the Wii U in 2012, Nintendo turned things 
 Nintendo’s commitment to its legendary franchises like *Super Mario*, *The Legend of Zelda*, and *Pokémon* has been a key driver of its success. These titles not only brought fresh experiences to longtime fans but also welcomed a new generation of players into the fold. With standout exclusives like *Mario Kart 8 Deluxe*, *Animal Crossing: New Horizons*, and *The Legend of Zelda: Tears of the Kingdom*, the Switch offers something for everyone, from casual gamers to hardcore enthusiasts.  
 
 ### Looking Ahead: The Future of Nintendo  
-With rumors of a **Switch 2** on the horizon, the current library of games feels more essential than ever. If Nintendo delivers on backward compatibility, as speculated, many of your favorite Switch games will likely carry over seamlessly to the next-gen system, ensuring that your investment in the Switch’s iconic titles will continue to pay off.  
+With rumors of a [**Switch 2**](https://thegamepost.com/nintendo-mad-switch-2-leaks-former-employees-say/) on the horizon, the current library of games feels more essential than ever. If Nintendo delivers on backward compatibility, as speculated, many of your favorite Switch games will likely carry over seamlessly to the next-gen system, ensuring that your investment in the Switch’s iconic titles will continue to pay off.  
 
 While the gaming industry buzzes with anticipation, the Switch’s legacy is already cemented as one of Nintendo’s greatest achievements. Its ability to bridge the gap between home consoles and portable devices has made it a cultural phenomenon.  
 
