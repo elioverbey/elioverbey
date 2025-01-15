@@ -14,7 +14,7 @@ layout: post
 
 ### Nintendo Switch: A Gaming Powerhouse  
 
-Nintendo has been a dominant force in gaming for decades, and over the past eight years, the Nintendo Switch has solidified itself as one of the most beloved consoles of all time. Whether you have the original Switch, the portable Switch Lite, or the visually stunning Switch OLED, this generation of Nintendo systems has sold over **146 million units globally**. Its success lies in its ability to blend a massive library of iconic games with the portability and convenience of a hybrid design.  
+Nintendo has been a dominant force in gaming for decades, and over the past eight years, the Nintendo Switch has solidified itself as one of the most beloved consoles of all time. Whether you have the original Switch, the portable Switch Lite, or the visually stunning Switch OLED, this generation of Nintendo systems has sold over [**146 million units globally**](https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html). Its success lies in its ability to blend a massive library of iconic games with the portability and convenience of a hybrid design.  
 
 Following the disappointing launch of the Wii U in 2012, Nintendo turned things around with the Switch. The console’s innovative approach to gaming—combining traditional console play with the versatility of motion-controlled Joy-Cons—completely redefined how players interact with games. From the couch to on-the-go, the Switch has proven to be the ultimate gaming companion.  
 
