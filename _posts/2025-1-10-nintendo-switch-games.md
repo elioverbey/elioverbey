@@ -47,7 +47,6 @@ Mario Kart 8 Deluxe is hands down one of my favorite entries in the series, main
 
 What really stands out for me, though, is how accessible the game is. There’s this **smart-steering feature** that you can toggle on or off, which basically prevents your kart from flying off the edge of the track. It’s a lifesaver, especially when I’m racing with family. My parents can actually enjoy the game without constantly falling off the course, so we get to have some real family racing fun.
 
-<button name="button" onclick="https://amzn.to/3C7WEXY">Buy on Amazon</button>
 
 ---
 
@@ -68,5 +67,3 @@ Breath of the Wild, as a Switch launch title, remains a masterpiece and one of t
 
 While it uses much of the same map as Breath of the Wild, Tears of the Kingdom shakes things up in a big way. Floating islands now dominate the skyline, and a mysterious underworld called the Depths adds a whole new layer to explore. Navigating these vertical levels can be tricky, and the new abilities take some getting used to, but once you do, the sense of freedom and discovery is incredible. This game gives players the tools to do pretty much anything, and the results are as satisfying as they are mind-blowing.
 
-
-<button name="button" onclick="https://amzn.to/4gPuW18">Buy on Amazon</button>
