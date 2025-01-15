@@ -5,9 +5,9 @@ permalink: nintendo-switch/
 layout: post
 ---
 
-*As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special. I ended up buying Super Mario Party Jamboree, but research below on the top games.*  
+As a parent of three kids, I spent a lot of time researching the best Nintendo games to make this Christmas extra special. I ended up buying Super Mario Party Jamboree, but research below on the top games.
 
-*I’d be remiss not to mention that the links to Amazon are affiliate links. This means I may earn a small commission if you make a purchase through them, at no extra cost to you. But who doesn't want to support a dad!*
+The links to Amazon are affiliate links. This means I may earn a small commission if you make a purchase through them, at no extra cost to you. But who doesn't want to support a dad!*
 
 ![image](../assets/images/nintendo/christmas.jpg)
 
@@ -36,6 +36,9 @@ From timeless classics to groundbreaking new releases, the Nintendo Switch conti
 
 ### Mario Kart 8 Deluxe
 
+![image](../assets/images/nintendo/mario-kart.png)
+*image credit: Nintendo*
+
 **Release Date:** April 28, 2017  
 
 If you’ve ever been near a Nintendo console, chances are you’ve played Mario Kart at least once—it’s basically the ultimate party game. Anyone can grab a controller and join in, no matter their skill level. Mario Kart 8 originally dropped during the Wii U days, but Nintendo gave it new life on the Switch in April 2017 with the "Deluxe" version, which also includes a ton of expanded content.
@@ -49,7 +52,12 @@ What really stands out for me, though, is how accessible the game is. There’s 
 ---
 
 ### The Legend of Zelda: Tears of the Kingdom
+
+![image](../assets/images/nintendo/zelda.png)
+*image credit: Nintendo*
+
 **Release Date:** May 12, 2023  
+
 In early 2017, *The Legend of Zelda: Breath of the Wild* completely reinvented what a Zelda game could be. I’d played bits of past entries, but Breath of the Wild’s massive open world pulled me in like no other. It let me solve puzzles however I wanted and experiment with combat in ways that felt fresh and exciting. Then, in May 2023, *Tears of the Kingdom* arrived and made Breath of the Wild feel almost outdated overnight.
 
 Breath of the Wild, as a Switch launch title, remains a masterpiece and one of the best games on the platform. Plenty of fans consider it the pinnacle of the franchise—though *Tears of the Kingdom* gives it some serious competition. Breath of the Wild was Nintendo’s first real step into open-world games, and it nailed it. The sprawling world of Hyrule felt alive, like it was built for players to truly explore. Climbing nearly everything created this amazing sense of freedom and scale. The game swapped traditional dungeons for smaller Shrines, giving players tons of flexibility in how they approached the adventure. It also kept things simple, avoiding cluttered systems and objectives, focusing instead on slower, scenic exploration—whether that meant walking, riding a horse, or scaling a cliff in search of something new. It’s a stunning, brilliant game.
