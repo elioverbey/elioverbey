@@ -1,5 +1,5 @@
 ---
-title: "The Top Nintendo Switch Games to Play Right Now"
+title: "The Top Nintendo Switch Games to Play Right Now (Updated for 2025)"
 meta_description: The Nintendo Switch boasts an incredible lineup of games, featuring iconic titles from Pokémon, Zelda, and Mario franchises, alongside standout indie gems and must-play multiplayer party hits.
 permalink: nintendo-switch/
 layout: post
@@ -27,7 +27,7 @@ While the gaming industry buzzes with anticipation, the Switch’s legacy is alr
 
 ### The Best Games on Nintendo Switch  
 If you’re wondering what to play next—or searching for the perfect gift—this list highlights the best Nintendo Switch games available right now. Whether you’re into high-octane races, epic adventures, or cozy life sims, there’s a title waiting for you to discover.
-  
+
 From timeless classics to groundbreaking new releases, the Nintendo Switch continues to be a console that defines the best of gaming.
 
 ---
