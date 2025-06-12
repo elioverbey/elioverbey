@@ -1,201 +1,57 @@
 ---
 layout: default
-title: Eli Overbey - Senior Director, Expansion at Circle
-about: Experienced expansion leader with a proven track record of driving growth in SaaS companies. Passionate about building high-performing teams and scaling revenue operations. Currently leading expansion efforts at Circle, helping communities grow and thrive.
+title: Eli Overbey
+cover: false
+about: 'about.html'
+meta_description: A site of things I've written over the years. Currently, Revenue Operations at Circle (Previously at Help Scout).
 ---
 
-<div class="feed-content">
-    <!-- Experience Section -->
-    <div class="card experience-card">
-        <div class="card-header">
-            <h2><i class="fas fa-briefcase"></i> Experience</h2>
-        </div>
-        <div class="card-body">
-            <div class="experience-item">
-                <div class="company-logo">
-                    <div class="logo-placeholder">C</div>
-                </div>
-                <div class="experience-details">
-                    <h3>Senior Director, Expansion</h3>
-                    <p class="company-name">Circle</p>
-                    <p class="duration">2022 - Present · 2+ years</p>
-                    <p class="location">Remote</p>
-                    <ul class="achievements">
-                        <li>Leading expansion team responsible for $10M+ ARR growth</li>
-                        <li>Built and scaled customer success operations across 500+ enterprise accounts</li>
-                        <li>Implemented data-driven expansion strategies resulting in 40% increase in upsell revenue</li>
-                        <li>Developed and mentored high-performing team of expansion managers</li>
-                    </ul>
-                </div>
-            </div>
+<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
+    <nav class="main-nav overlay clearfix">
+            {% if page.logo %}
+                <a class="blog-logo" href="{{ site.baseurl }}">
+                    <img src="{{ page.logo }}" alt="Blog Logo" />
+                </a>
+            {% endif %}
+    </nav>
+    <div class="vertical">
+        <div class="main-header-content inner">
+            <h1 class="page-title">{{ site.name }}</h1>
+            <h2 class="page-description">
+                {% if site.description %} {{ site.description }}. {% endif %}
             
-            <div class="experience-item">
-                <div class="company-logo">
-                    <div class="logo-placeholder">S</div>
-                </div>
-                <div class="experience-details">
-                    <h3>Director, Customer Success</h3>
-                    <p class="company-name">SaaS Company</p>
-                    <p class="duration">2020 - 2022 · 2 years</p>
-                    <p class="location">Raleigh, NC</p>
-                    <ul class="achievements">
-                        <li>Reduced customer churn by 25% through proactive engagement strategies</li>
-                        <li>Launched customer health scoring system improving retention forecasting</li>
-                        <li>Led cross-functional initiatives to improve product adoption rates</li>
-                    </ul>
-                </div>
-            </div>
-            
-            <div class="experience-item">
-                <div class="company-logo">
-                    <div class="logo-placeholder">T</div>
-                </div>
-                <div class="experience-details">
-                    <h3>Senior Customer Success Manager</h3>
-                    <p class="company-name">Tech Startup</p>
-                    <p class="duration">2018 - 2020 · 2 years</p>
-                    <p class="location">Durham, NC</p>
-                    <ul class="achievements">
-                        <li>Managed portfolio of 100+ enterprise customers worth $5M ARR</li>
-                        <li>Achieved 95% customer satisfaction rating and 110% net revenue retention</li>
-                        <li>Developed customer onboarding processes that reduced time-to-value by 50%</li>
-                    </ul>
-                </div>
-            </div>
+            </h2>
         </div>
+    </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
+</header>
+
+
+<main id="content" class="content" role="main">
+
+
+    <div class="extra-pagination inner">
+        {% include pagination.html %}
     </div>
 
-    <!-- Education Section -->
-    <div class="card education-card">
-        <div class="card-header">
-            <h2><i class="fas fa-graduation-cap"></i> Education</h2>
-        </div>
-        <div class="card-body">
-            <div class="education-item">
-                <div class="school-logo">
-                    <div class="logo-placeholder">UNC</div>
-                </div>
-                <div class="education-details">
-                    <h3>Bachelor of Science in Business Administration</h3>
-                    <p class="school-name">University of North Carolina at Chapel Hill</p>
-                    <p class="duration">2014 - 2018</p>
-                    <p class="description">Concentration in Marketing and Operations Management</p>
-                </div>
-            </div>
-        </div>
-    </div>
+    {% for post in paginator.posts %}
 
-    <!-- Skills Section -->
-    <div class="card skills-card">
-        <div class="card-header">
-            <h2><i class="fas fa-tools"></i> Skills</h2>
-        </div>
-        <div class="card-body">
-            <div class="skills-grid">
-                <div class="skill-category">
-                    <h4>Leadership & Strategy</h4>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Team Leadership</span>
-                        <span class="skill-tag">Strategic Planning</span>
-                        <span class="skill-tag">Revenue Operations</span>
-                        <span class="skill-tag">Cross-functional Collaboration</span>
-                    </div>
-                </div>
-                
-                <div class="skill-category">
-                    <h4>Customer Success</h4>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Customer Retention</span>
-                        <span class="skill-tag">Account Expansion</span>
-                        <span class="skill-tag">Customer Health Scoring</span>
-                        <span class="skill-tag">Onboarding & Training</span>
-                    </div>
-                </div>
-                
-                <div class="skill-category">
-                    <h4>Technical</h4>
-                    <div class="skill-tags">
-                        <span class="skill-tag">Salesforce</span>
-                        <span class="skill-tag">HubSpot</span>
-                        <span class="skill-tag">Gainsight</span>
-                        <span class="skill-tag">SQL</span>
-                        <span class="skill-tag">Data Analysis</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <article class="post">
+        <header class="post-header">
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        </header>
+        <section class="post-excerpt">
+            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
+        </section>
+        <footer class="post-meta">
+            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
+                {{ post.date | date_to_string }}
+            </time> 
+        </footer>
+    </article>
 
-    <!-- Recommendations Section -->
-    <div class="card recommendations-card">
-        <div class="card-header">
-            <h2><i class="fas fa-quote-left"></i> Recommendations</h2>
-        </div>
-        <div class="card-body">
-            <div class="recommendation-item">
-                <div class="recommender-info">
-                    <div class="recommender-avatar">JD</div>
-                    <div class="recommender-details">
-                        <h4>John Doe</h4>
-                        <p>VP of Sales at Circle</p>
-                    </div>
-                </div>
-                <p class="recommendation-text">
-                    "Eli is an exceptional leader who consistently delivers results. His strategic approach to expansion 
-                    and ability to build strong customer relationships has been instrumental in our growth. He's the kind 
-                    of leader every organization needs."
-                </p>
-            </div>
-            
-            <div class="recommendation-item">
-                <div class="recommender-info">
-                    <div class="recommender-avatar">JS</div>
-                    <div class="recommender-details">
-                        <h4>Jane Smith</h4>
-                        <p>Director of Customer Success</p>
-                    </div>
-                </div>
-                <p class="recommendation-text">
-                    "Working with Eli has been a pleasure. His expertise in customer success and expansion strategies 
-                    helped our team achieve record-breaking results. He's a mentor, strategist, and results-driven leader."
-                </p>
-            </div>
-        </div>
-    </div>
+    {% endfor %}
 
-    <!-- Activity Section -->
-    <div class="card activity-card">
-        <div class="card-header">
-            <h2><i class="fas fa-rss"></i> Recent Activity</h2>
-        </div>
-        <div class="card-body">
-            <div class="activity-item">
-                <div class="activity-content">
-                    <p>Excited to share that our expansion team achieved 125% of our Q4 targets! Grateful for an amazing team and the trust our customers place in us. 🚀</p>
-                    <div class="activity-meta">
-                        <span class="activity-time">2 days ago</span>
-                        <div class="activity-actions">
-                            <button class="activity-btn"><i class="fas fa-thumbs-up"></i> 47</button>
-                            <button class="activity-btn"><i class="fas fa-comment"></i> 12</button>
-                            <button class="activity-btn"><i class="fas fa-share"></i> 3</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="activity-item">
-                <div class="activity-content">
-                    <p>Just wrapped up an incredible quarter with the team. Key learnings from scaling expansion operations at Circle: 1) Data-driven decisions win 2) Customer feedback is gold 3) Team culture drives results</p>
-                    <div class="activity-meta">
-                        <span class="activity-time">1 week ago</span>
-                        <div class="activity-actions">
-                            <button class="activity-btn"><i class="fas fa-thumbs-up"></i> 83</button>
-                            <button class="activity-btn"><i class="fas fa-comment"></i> 28</button>
-                            <button class="activity-btn"><i class="fas fa-share"></i> 15</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+    {% include pagination.html %}
+
+</main>

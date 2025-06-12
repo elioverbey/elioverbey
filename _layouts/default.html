@@ -1,90 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | default: site.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    {% seo %}
-</head>
-<body>
-    <div class="container">
-        <header class="profile-header">
-            <div class="profile-banner">
-                <div class="banner-gradient"></div>
-            </div>
-            
-            <div class="profile-info">
-                <div class="profile-avatar">
-                    <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="{{ site.name }}" class="avatar-img">
-                    <div class="status-indicator"></div>
-                </div>
-                
-                <div class="profile-details">
-                    <h1 class="profile-name">{{ site.name }}</h1>
-                    <p class="profile-tagline">{{ site.tagline }}</p>
-                    <p class="profile-location">
-                        <i class="fas fa-map-marker-alt"></i>
-                        {{ site.location }}
-                    </p>
-                    
-                    <div class="profile-stats">
-                        <span class="stat-item">500+ connections</span>
-                    </div>
-                    
-                    <div class="profile-actions">
-                        <button class="btn btn-primary">
-                            <i class="fas fa-plus"></i>
-                            Connect
-                        </button>
-                        <button class="btn btn-secondary">
-                            <i class="fas fa-envelope"></i>
-                            Message
-                        </button>
-                        <button class="btn btn-icon">
-                            <i class="fas fa-ellipsis-h"></i>
-                        </button>
-                    </div>
-                </div>
-            </div>
-        </header>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-        <main class="main-content">
-            <div class="content-grid">
-                <aside class="sidebar">
-                    <div class="card profile-card">
-                        <div class="card-body">
-                            <h3>About</h3>
-                            <p>{{ page.about | default: site.description }}</p>
-                        </div>
-                    </div>
-                    
-                    <div class="card">
-                        <div class="card-body">
-                            <h3>Contact Info</h3>
-                            <div class="contact-item">
-                                <i class="fas fa-envelope"></i>
-                                <span>{{ site.email }}</span>
-                            </div>
-                            <div class="contact-item">
-                                <i class="fas fa-phone"></i>
-                                <span>{{ site.phone }}</span>
-                            </div>
-                            <div class="contact-item">
-                                <i class="fab fa-linkedin"></i>
-                                <a href="{{ site.linkedin }}" target="_blank">LinkedIn Profile</a>
-                            </div>
-                        </div>
-                    </div>
-                </aside>
-                
-                <div class="main-feed">
-                    {{ content }}
-                </div>
-            </div>
-        </main>
-    </div>
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.meta_description}}" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/waving.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="/assets/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+    <!-- Customisation  -->
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+
+</head>
+<body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
+
+    {{ content }}
+    <footer class="site-footer clearfix">
+      <section class="copyright">
+        <a href="{{ site.baseurl }}">{{ site.name }}</a> &copy; 
+              {{"now" | date: "%Y"}} &bull; All rights reserved.
+      </section>
+    </footer>
+    
+    <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/assets/js/index.js"></script>
 </body>
 </html>
