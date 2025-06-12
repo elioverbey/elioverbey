@@ -1,6 +1,6 @@
 ---
 title: "Building Our Backyard Office Shed"
-date: 2025-06-12
+permalink: outdoor-office/
 layout: post
 ---
 
