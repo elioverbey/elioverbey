@@ -1,6 +1,6 @@
 ---
 title: "Why I Switched to Mint Mobile (And Why My Parents Did Too)"
-meta_description: After a few years on AT&T, I switched my family to Mint Mobile and cut our phone bill. Here's an honest look at the savings, the service, and the one time I noticed a difference.
+meta_description: I switched from AT&T to Mint Mobile and cut our phone bill from $135/mo to ~$48/mo. Real numbers, break-even analysis, and a savings calculator to run your own.
 permalink: why-i-switched-to-mint-mobile/
 layout: post
 ---
