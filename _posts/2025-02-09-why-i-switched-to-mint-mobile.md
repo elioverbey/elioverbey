@@ -9,7 +9,7 @@ layout: post
 
 <!--more-->
 
-A friend recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made. I wanted to write this up because word of mouth is how I found out about it, and if this helps you cut their phone bill, it's worth it.
+A friend recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made. I wanted to write this up because word of mouth is how I found out about it, and if this helps you cut your phone bill, it's worth it.
 
 ## The AT&T Situation
 
