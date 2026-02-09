@@ -32,7 +32,7 @@ Here's where I'll let the numbers do the talking. Below are two screenshots from
 
 This isn't to say AT&T is a bad carrier; they're not at all. They are great. But on their unlimited plan, we were about to be consistently paying **$135/month** for two lines (after our discounts dropped). You'll notice the $172.66 charge in there. That was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. 
 
-NWe didn't actually lose the full $645 per phone. That was the total remaining balance. I went back and looked at our last AT&T bill. We were on payment 8 of 36 at $9.73/credit/month per line. So the real loss was the 28 months of credits we forfeited: about $272 per phone, or roughly **$545 total** for both lines. Still not nothing, but a lot less painful than it looks at first glance.
+We didn't actually lose the full $645 per phone. That was the total remaining balance. I went back and looked at our last AT&T bill. We were on payment 8 of 36 at $9.73/credit/month per line. So the real loss was the 28 months of credits we forfeited: about $272 per phone, or roughly **$545 total** for both lines. Still not nothing, but a lot less painful than it looks at first glance.
 
 
 Now here's what Mint Mobile looks like:
