@@ -16,7 +16,7 @@
 
   <!-- Title -->
   <text x="400" y="38" text-anchor="middle" font-size="18" font-weight="600" fill="#1a1a1a">Cumulative Phone Costs: AT&amp;T vs. Switching to Mint Mobile</text>
-  <text x="400" y="58" text-anchor="middle" font-size="12" fill="#888">Two lines, tracked over 24 months from Oct 2024</text>
+  <text x="400" y="58" text-anchor="middle" font-size="12" fill="#888">Two lines, tracked over 24 months from Oct 2024 (using real cost of forfeited credits)</text>
 
   <!-- Chart area: x=80 to x=760, y=80 to y=420 -->
   <!-- Y-axis: $0 to $4,500 -->
@@ -38,7 +38,6 @@
   <text x="72" y="120" text-anchor="end" font-size="11" fill="#888">$4,000</text>
 
   <!-- X-axis labels (every 3 months) -->
-  <!-- Month 0=Oct24, 3=Jan25, 6=Apr25, 9=Jul25, 12=Oct25, 15=Jan26, 18=Apr26, 21=Jul26, 24=Oct26 -->
   <!-- x-scale: 680px / 24 months = 28.33px per month -->
   <text x="80" y="440" text-anchor="middle" font-size="10" fill="#888">Oct 24</text>
   <text x="165" y="440" text-anchor="middle" font-size="10" fill="#888">Jan 25</text>
@@ -69,31 +68,25 @@
     Month 3: $405    -> (165, 389)
     Month 6: $810    -> (250, 359)
     Month 9: $1215   -> (335, 328)
-    Month 10: $1350  -> (363, 318)  <- break-even area
     Month 12: $1620  -> (420, 298)
     Month 15: $2025  -> (505, 267)
     Month 18: $2430  -> (590, 236)
     Month 21: $2835  -> (675, 206)
     Month 24: $3240  -> (760, 175)
 
-    MINT LINE (actual switch costs):
-    Month 0: $1354   -> (80, 318)   [device payoff $1291.02 + trial $62.98]
-    Month 3: $1883   -> (165, 278)  [+ $529.02 annual plan]
-    Month 15: $2075  -> (505, 263)  [+ $65.94 + $126.51 renewals]
-    Month 24: $2075  -> (760, 263)  [flat - paid through year]
+    MINT LINE (real cost = forfeited credits, not full payoff):
+    Month 0: $608    -> (80, 374)   [forfeited credits ~$545 + trial $62.98]
+    Month 3: $1137   -> (165, 334)  [+ $529.02 annual plan]
+    Month 15: $1329  -> (505, 320)  [+ $65.94 + $126.51 renewals]
+    Month 24: $1329  -> (760, 320)  [flat - paid through year]
 
     Break-even: AT&T cumulative = Mint cumulative
-    $135 * month = $1,354 (at month 0 cost)
-    Mint is flat from 0 to 3 at $1,354, AT&T at month 10: $1,350
-    More precisely:
-    - After month 0: Mint=$1,354, AT&T=$0
-    - Month 3: Mint=$1,883, AT&T=$405
-    - Mint is $1,883 from month 3-15, AT&T catches up: 1883/135 = 13.9 months
-    - At month 14: AT&T=$1,890 vs Mint=$1,883. Break-even ~month 14!
+    Mint is $1,137 from month 3-15, AT&T at $135/mo hits $1,137 at month 8.4
+    Break-even ~month 9!
   -->
 
-  <!-- Savings shading area (between lines after break-even, month 14 to 24) -->
-  <polygon points="477,280 505,267 505,263 590,236 590,263 675,206 675,263 760,175 760,263 477,263"
+  <!-- Savings shading area (between lines after break-even, month 9 to 24) -->
+  <polygon points="318,334 335,328 335,334 420,298 420,334 505,267 505,320 590,236 590,320 675,206 675,320 760,175 760,320 318,334"
            fill="url(#savingsGrad)" />
 
   <!-- AT&T line (steady $135/month) -->
@@ -101,19 +94,18 @@
     points="80,420 165,389 250,359 335,328 420,298 505,267 590,236 675,206 760,175"
     fill="none" stroke="#e63946" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
 
-  <!-- Mint line (big upfront, then steps) -->
+  <!-- Mint line (forfeited credits upfront, then annual plan step, then renewals) -->
   <polyline
-    points="80,318 165,318 165,278 505,278 505,263 760,263"
+    points="80,374 165,374 165,334 505,334 505,320 760,320"
     fill="none" stroke="#0aad6e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
 
-  <!-- Break-even vertical dashed line at ~month 14 = 80 + 14*28.33 = 477 -->
-  <!-- At month 14: AT&T = $1,890 -> y = 420 - (1890*0.0756) = 420 - 142.9 = 277 -->
-  <line x1="477" y1="80" x2="477" y2="420" stroke="#666" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
+  <!-- Break-even vertical dashed line at ~month 9 = 80 + 9*28.33 = 335 -->
+  <line x1="335" y1="80" x2="335" y2="420" stroke="#666" stroke-width="1.5" stroke-dasharray="6,4" opacity="0.6"/>
 
   <!-- Break-even label -->
-  <rect x="430" y="84" width="96" height="22" rx="4" fill="#fff" stroke="#ccc" stroke-width="0.5"/>
-  <text x="478" y="99" text-anchor="middle" font-size="11" font-weight="600" fill="#444">Break-even</text>
-  <text x="478" y="113" text-anchor="middle" font-size="10" fill="#888">~14 months</text>
+  <rect x="287" y="84" width="96" height="22" rx="4" fill="#fff" stroke="#ccc" stroke-width="0.5"/>
+  <text x="335" y="99" text-anchor="middle" font-size="11" font-weight="600" fill="#444">Break-even</text>
+  <text x="335" y="113" text-anchor="middle" font-size="10" fill="#888">~9 months</text>
 
   <!-- Savings callout arrow/label at month 21 -->
   <rect x="610" y="218" width="120" height="36" rx="6" fill="#0aad6e" opacity="0.9"/>
@@ -121,25 +113,26 @@
   <text x="670" y="248" text-anchor="middle" font-size="10" fill="#fff" opacity="0.9">after break-even</text>
 
   <!-- Upfront cost callout -->
-  <rect x="84" y="294" width="128" height="22" rx="4" fill="#fff" stroke="#0aad6e" stroke-width="1"/>
-  <text x="148" y="309" text-anchor="middle" font-size="10" fill="#0aad6e" font-weight="500">Device payoff + trial</text>
+  <rect x="84" y="350" width="130" height="22" rx="4" fill="#fff" stroke="#0aad6e" stroke-width="1"/>
+  <text x="149" y="365" text-anchor="middle" font-size="10" fill="#0aad6e" font-weight="500">Forfeited credits + trial</text>
 
   <!-- Data point dots - AT&T -->
   <circle cx="80" cy="420" r="4" fill="#e63946"/>
+  <circle cx="335" cy="328" r="4" fill="#e63946"/>
   <circle cx="420" cy="298" r="4" fill="#e63946"/>
   <circle cx="760" cy="175" r="4" fill="#e63946"/>
 
   <!-- Data point dots - Mint -->
-  <circle cx="80" cy="318" r="4" fill="#0aad6e"/>
-  <circle cx="165" cy="278" r="4" fill="#0aad6e"/>
-  <circle cx="505" cy="263" r="4" fill="#0aad6e"/>
-  <circle cx="760" cy="263" r="4" fill="#0aad6e"/>
+  <circle cx="80" cy="374" r="4" fill="#0aad6e"/>
+  <circle cx="165" cy="334" r="4" fill="#0aad6e"/>
+  <circle cx="505" cy="320" r="4" fill="#0aad6e"/>
+  <circle cx="760" cy="320" r="4" fill="#0aad6e"/>
 
   <!-- Legend -->
   <line x1="260" y1="468" x2="285" y2="468" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
   <text x="290" y="472" font-size="12" fill="#555">AT&amp;T (if we stayed at $135/mo)</text>
 
   <line x1="510" y1="468" x2="535" y2="468" stroke="#0aad6e" stroke-width="3" stroke-linecap="round"/>
-  <text x="540" y="472" font-size="12" fill="#555">Mint Mobile (actual costs)</text>
+  <text x="540" y="472" font-size="12" fill="#555">Mint Mobile (real switching cost)</text>
 
 </svg>

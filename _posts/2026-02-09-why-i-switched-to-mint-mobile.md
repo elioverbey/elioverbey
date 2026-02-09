@@ -26,7 +26,7 @@ Here's where I'll let the numbers do the talking. Below are two screenshots from
   <figcaption>Our AT&T charges from YNAB — $135/month was the norm, plus that $172.66 Dublin trip.</figcaption>
 </figure>
 
-This isn't to say AT&T is a bad carrier - they're not. But on their unlimited plan, we were consistently paying **$135/month** for two lines. You'll notice the $172.66 charge in there - that was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. Now, to be fair - we didn't actually lose the full $645 per phone. That was the total payoff amount, but we'd already received most of the device value. What we really lost was about $300 each in future credits that AT&T would have applied to our bill - something like $13.45/month with about 14-16 months left on each agreement. So the real cost to leave was roughly $600 total, not $1,291. It still stung, but it was worth it to move on.
+This isn't to say AT&T is a bad carrier - they're not. But on their unlimited plan, we were consistently paying **$135/month** for two lines. You'll notice the $172.66 charge in there - that was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. Now, to be fair - we didn't actually lose the full $645 per phone. That was the total remaining balance, but we'd already received most of the device value through credits. I went back and looked at our last AT&T bill - we were on payment 8 of 36 at $9.73/month per line. So the real loss was the 28 months of credits we forfeited: about $272 per phone, or roughly **$545 total** for both lines. Still not nothing, but a lot less painful than it looks at first glance.
 
 
 Now here's what Mint Mobile looks like:
@@ -49,12 +49,12 @@ Here's a chart that shows the full picture - including the upfront device payoff
 
 <figure>
   <img src="/assets/images/mint-mobile/break-even-chart.svg" alt="Break-even chart: AT&T vs Mint Mobile cumulative costs">
-  <figcaption>Cumulative costs over 24 months — the break-even hit around month 14.</figcaption>
+  <figcaption>Cumulative costs over 24 months — the break-even hit around month 9.</figcaption>
 </figure>
 
-Even with paying off both phones upfront (~$1,291), we hit break-even at around 14 months. Everything after that is savings - roughly $97/month compared to what we would've been paying AT&T.
+Even factoring in the credits we forfeited (~$545), we hit break-even at around 9 months. Everything after that is savings - roughly $97/month compared to what we would've been paying AT&T.
 
-**Here's how I got there:** The total cost to switch was $1,354 upfront (two device payoffs at $645.51 each + the $62.98 trial). Then in January we paid $529.02 for two lines for the full year - bringing our total Mint spend to $1,883. If we'd stayed on AT&T at $135/month, we would've hit that same $1,883 by month 14. After that point, AT&T keeps going at $135/month while our Mint bill stays flat until renewal. That's where the savings really start to compound.
+**Here's how I got there:** The real cost to switch was $608 upfront (~$545 in forfeited credits + the $62.98 trial). Then in January we paid $529.02 for two lines for the full year - bringing our total Mint spend to $1,137. If we'd stayed on AT&T at $135/month, we would've hit that same $1,137 by about month 9. After that point, AT&T keeps going at $135/month while our Mint bill stays flat until renewal. That's where the savings really start to compound.
 
 ## The Experience
 
