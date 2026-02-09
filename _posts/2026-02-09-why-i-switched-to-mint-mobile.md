@@ -5,7 +5,7 @@ permalink: why-i-switched-to-mint-mobile/
 layout: post
 ---
 
-**Full transparency:** this post contains a [referral link](http://fbuy.me/u2x-3) — if you sign up through it, I earn a small credit on my account. If you'd rather skip that, you can head straight to [mintmobile.com](https://www.mintmobile.com). Either way, I just want to share what's been working for us.
+*Full transparency: this post contains a [referral link](http://fbuy.me/u2x-3) — if you sign up through it, I earn a small credit on my account. If you'd rather skip that, you can head straight to [mintmobile.com](https://www.mintmobile.com). Either way, I just want to share what's been working for us.*
 
 <!--more-->
 
