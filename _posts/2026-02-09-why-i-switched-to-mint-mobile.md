@@ -9,28 +9,30 @@ layout: post
 
 <!--more-->
 
-A friend recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made. I wanted to write this up because word of mouth is how I found out about it, and if this helps you cut your phone bill, it's worth it.
+A friend (thanks Matt) recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made. I wanted to write this up because word of mouth is why I finally switched.
 
 ## The AT&T Situation
 
 My wife and I had always gotten our phones through AT&T. It was fine for a while, but then they started doing the thing where they lock in your device credit and you can only apply so much per billing cycle. On top of that, the prices just kept creeping up (at the time).
 
-Part of the reason we were on AT&T's unlimited plan was the bundle. We had our internet and cellular through them, and the bundling discount made the unlimited plan feel worth it. But our internet had crept up to around $90/month for 1 gig, so we switched to Google Fiber for $70. Once we did that, we lost the bundling discount on cellular, and suddenly our phone bill got even harder to justify.
+Part of the reason we were on AT&T's unlimited plan was the bundle. We had our internet and cellular through them, and the bundling discount made the unlimited plan feel worth it. But our internet had crept up to around $90/month for 1 gig, so we switched to Google Fiber for $70. Once we did that, we lost the bundling discount on cellular, and suddenly our phone bill got too high.
 
-Now, to be fair - AT&T does have cheaper plans. But to get those lower prices, you typically need more lines. For two lines on unlimited without a bundle discount, we were stuck at $135/month. I won't list their current pricing here because it'll change, but at the time, the math just didn't work for us anymore.
+Now, to be fair, AT&T does have cheaper plans. But to get those lower prices, you typically need more lines. For two lines on unlimited without a bundle discount, we were stuck. I won't list their current pricing here because it'll change, but at the time, the math just didn't work for us anymore.
 
-When I switched jobs and we needed to tighten up our budget, the phone bill was one of the first things we looked at. A friend had been on Mint and recommended it, so we decided to give it a shot.
+When I switched jobs (and took an intentional pay cut to do something I loved and work with people I love (Hey Tim)) and we needed to tighten up our budget, the phone bill was one of the first things we looked at. 
 
 ## The Savings Are Real
 
-Here's where I'll let the numbers do the talking. Below are two screenshots from my YNAB account - one showing what we were paying AT&T, and one showing our Mint Mobile charges.
+Here's where I'll let the numbers do the talking. Below are two screenshots from my YNAB account: one showing what we were paying AT&T, and one showing our Mint Mobile charges.
 
 <figure>
   <img src="/assets/images/mint-mobile/att-ynab.png" alt="AT&T spending in YNAB">
   <figcaption>Our AT&T charges from YNAB — $135/month was the norm, plus that $172.66 Dublin trip.</figcaption>
 </figure>
 
-This isn't to say AT&T is a bad carrier - they're not. But on their unlimited plan, we were consistently paying **$135/month** for two lines. You'll notice the $172.66 charge in there - that was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. Now, to be fair - we didn't actually lose the full $645 per phone. That was the total remaining balance, but we'd already received most of the device value through credits. I went back and looked at our last AT&T bill - we were on payment 8 of 36 at $9.73/month per line. So the real loss was the 28 months of credits we forfeited: about $272 per phone, or roughly **$545 total** for both lines. Still not nothing, but a lot less painful than it looks at first glance.
+This isn't to say AT&T is a bad carrier; they're not at all. They are great. But on their unlimited plan, we were about to be consistently paying **$135/month** for two lines (after our discounts dropped). You'll notice the $172.66 charge in there. That was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. 
+
+NWe didn't actually lose the full $645 per phone. That was the total remaining balance. I went back and looked at our last AT&T bill. We were on payment 8 of 36 at $9.73/credit/month per line. So the real loss was the 28 months of credits we forfeited: about $272 per phone, or roughly **$545 total** for both lines. Still not nothing, but a lot less painful than it looks at first glance.
 
 
 Now here's what Mint Mobile looks like:
@@ -45,20 +47,20 @@ Now here's what Mint Mobile looks like:
 - **$62.98 (Oct 2024)** - This was our trial period to make sure we liked the service before committing.
 - **$529.02 (Jan 2025)** - Two lines, 15GB plan, paid for the full year. That's our annual cost for both of us.
 - **$65.94 (Jan 2026)** - My wife's 15GB plan renewal. They let you pay quarterly now, which is nice.
-- **$126.51 (Jan 2026)** - My renewal, and this one's lower because I had 2 referral credits applied (thanks mom and dad).
+- **$126.51 (Jan 2026)** - My renewal, and this one's lower because I had 2 referral credits applied (thanks mom and dad for using my referral link).
 
 So we went from ~$135/month to about $529/year for two lines. 
 
-Here's a chart that shows the full picture - including the upfront device payoff we had to eat to leave AT&T, and when the switch started actually saving us money:
+Here's a chart that shows the full picture, including the upfront device payoff we had to eat to leave AT&T, and when the switch started actually saving us money:
 
-<figure>
+<figure style="width: 126%; margin-left: -13%; margin-right: -13%;">
   <img src="/assets/images/mint-mobile/break-even-chart.svg" alt="Break-even chart: AT&T vs Mint Mobile cumulative costs">
   <figcaption>Cumulative costs over 24 months — the break-even hit around month 9.</figcaption>
 </figure>
 
-Even factoring in the credits we forfeited (~$545), we hit break-even at around 9 months. Everything after that is savings - roughly $97/month compared to what we would've been paying AT&T.
+Even factoring in the credits we forfeited (~$545), we hit break-even at around 9 months. Everything after that is savings, roughly $97/month compared to what we would've been paying AT&T. And yes, I did this math before leaving. I have a calculator below.
 
-**Here's how I got there:** The real cost to switch was $608 upfront (~$545 in forfeited credits + the $62.98 trial). Then in January we paid $529.02 for two lines for the full year - bringing our total Mint spend to $1,137. If we'd stayed on AT&T at $135/month, we would've hit that same $1,137 by about month 9. After that point, AT&T keeps going at $135/month while our Mint bill stays flat until renewal. That's where the savings really start to compound.
+**Here's how I got there:** The real cost to switch was $608 upfront (~$545 in forfeited credits + the $62.98 trial). Then in January we paid $529.02 for two lines for the full year, bringing our total Mint spend to $1,137. If we'd stayed on AT&T at $135/month, we would've hit that same $1,137 by about month 9. After that point, AT&T keeps going at $135/month while our Mint bill stays flat until renewal. That's where the savings really start to compound.
 
 ## Year 2, Year 3, and Beyond
 
@@ -72,39 +74,39 @@ The break-even story is nice, but the real payoff is what happens after that. He
 
 *\*Year 1 includes the ~$545 in forfeited AT&T credits and the trial.*
 
-And here's the thing - even if you went with Mint's **most expensive plan** (Unlimited at $30/line/month), you'd still save:
+And here's the thing: even if I went with Mint's **most expensive plan** (Unlimited at $30/line/month), I'd still save:
 
 | | AT&T Unlimited | Mint Unlimited | Saved |
 |---|---|---|---|
 | **Per year** | $1,620 | ~$720 | **~$900** |
 | **3 years** | $4,860 | ~$2,160 | **~$2,700** |
 
-So even in the worst-case scenario on Mint, you're still saving $900/year compared to what we were paying AT&T. We went with the 15GB plan because we're mostly on Wi-Fi, but it's worth knowing that the savings are there no matter which Mint plan you pick.
+So even in the worst-case scenario on Mint, I was saving $900/year compared to what we were paying AT&T. We went with the 15GB plan because we're mostly on Wi-Fi.
 
-After the switching costs are behind you, the annual savings are over $1,000 a year. By year 3, we'll have saved roughly **$2,500** compared to staying on AT&T. That's a vacation. That's a chunk of an emergency fund. It adds up.
+By year 3, we'll have saved roughly **$2,500** compared to staying on AT&T. That's a vacation to CB (Carolina Beach). 
 
-And honestly, year 2 is where it really clicks. No more switching costs, no more device payoff - just $580 vs. $1,620. That's it.
+And honestly, year 2 is where it really clicks. No more switching costs, no more device payoff. That's it.
 
 ## The Experience
 
-I'm on the 15GB plan, and honestly, it's been more than enough. I work from home and use Wi-Fi most of the day, so your mileage will vary depending on how much you're on mobile data. In a year and a half, I've only come close to running out once. I think I got down to about 1GB remaining. My wife is on Mint too and hasn't had any issues.
+I'm on the 15GB plan, and honestly, it's been more than enough. I work from home and use Wi-Fi most of the day, so your mileage will vary depending on how much you're on mobile data. In a year and a half, I've only come close to running out once. I think I got down to about 1GB remaining cause I was tethering. My wife is on Mint too and hasn't had any issues. She could likely be on the 5GB plan, but I want to make sure she always has enough.
 
 <figure>
   <img src="/assets/images/mint-mobile/state-game.jpg" alt="NC State football game at Carter-Finley Stadium">
   <figcaption>Carter-Finley Stadium — the one place I noticed a slight dip in service.</figcaption>
 </figure>
 
-Mint runs on T-Mobile's network, and I'd say the service is comparable to what we had on AT&T. The **one time** I noticed any kind of degradation was at the NC State football game. From what I've read, MVNOs like Mint Mobile can get deprioritized at large events. It wasn't terrible - my texts with images were just taking longer than usual to send. I was still able to make and receive phone calls without any problems. That's the only time I've noticed anything.
+Mint runs on T-Mobile's network, and I'd say the service is comparable to what we had on AT&T. The **one time** I noticed any kind of degradation was at the NC State football game in the fall. From what I've read, MVNOs like Mint Mobile can get deprioritized at large events. It wasn't terrible. My texts with images were just taking longer than usual to send. I was still able to make and receive phone calls without any problems (in fact, I was calling Matt; who recommended Mint). That's the only time I've noticed anything.
 
 ## My Parents Switched Too
 
-I liked Mint enough that I switched my parents over as well. They're on a fixed income, so keeping costs low matters. They got the unlimited plan for the year at $180 with the current promotion. That'll go up to $360 the following year, but they can always switch down to a smaller plan. They love it.
+I liked Mint enough that I switched my parents over as well. They're on a fixed income now that they are retired, so keeping costs low matters. They got the unlimited plan for the year at $180 with the current promotion. That'll go up to $360 the following year, but they can always switch down to a smaller plan. They like it so far. 
 
 ## Should You Switch? Run the Numbers
 
-I built a quick calculator so you can see what switching would look like for your situation. Plug in your current monthly bill, how many lines you have, and any switching costs - it'll show you the break-even point and 3-year savings.
+I built a quick calculator for myself to run the numbers. You can plug in your current monthly bill, how many lines you have, and any switching costs. It'll show you the break-even point and 3-year savings.
 
-**A quick note:** This is just a tool for running some rough numbers - not financial advice. Pricing from both carriers is subject to change, and your actual costs may vary based on taxes, fees, and plan availability at the time you switch.
+**A quick note:** This is just a tool for running some rough numbers, not financial advice. [Insert boring legal stuff cause I'm cautious] Pricing from both carriers is subject to change, and your actual costs may vary based on taxes, fees, and plan availability at the time you switch.
 
 <div id="mint-calculator" style="background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 12px; padding: 2em; margin: 2em 0; font-family: inherit;">
 
@@ -293,9 +295,9 @@ function calculateSavings() {
 
 ## Would I Recommend It?
 
-If you're looking to lower your phone bill and you're mostly on Wi-Fi during the day, Mint Mobile is worth a serious look. The savings have been meaningful for our family, and the service has been solid.
+If you're looking to lower your phone bill and you're mostly on Wi-Fi during the day (or even if you are not), Mint Mobile is worth a serious look. The savings have been meaningful for our family, and the service has been solid.
 
-This isn't a sponsored post - just a genuine recommendation from someone who's been using it for over a year and a half. That said, I do have a referral link, and I wanted to be upfront about that.
+This isn't a sponsored post, just a genuine recommendation from someone who's been using it for over a year and a half. That said, I do have a referral link, and I wanted to be upfront about that.
 
 <div style="background: linear-gradient(135deg, #f0faf5 0%, #e8f5ee 100%); border: 2px solid #0aad6e; border-radius: 12px; padding: 1.8em 2em; margin: 2em 0; text-align: center;">
   <p style="font-size: 1.2em; font-weight: 700; color: #1a1a1a; margin: 0 0 0.4em 0;">Want to give Mint Mobile a try?</p>
