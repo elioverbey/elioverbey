@@ -64,7 +64,7 @@ Even factoring in the credits we forfeited (~$545), we hit break-even at around 
 
 The break-even story is nice, but the real payoff is what happens after that. Here's how it looks over three years, assuming AT&T stays at $135/month and Mint renews on the annual plan:
 
-| | AT&T (2 lines) | Mint 15GB (2 lines) | Annual Savings | Cumulative Savings |
+| | AT&T | Mint 15GB | Saved | Total Saved |
 |---|---|---|---|---|
 | **Year 1** | $1,620 | $1,137* | $483 | $483 |
 | **Year 2** | $1,620 | ~$580 | ~$1,040 | ~$1,523 |
@@ -74,10 +74,10 @@ The break-even story is nice, but the real payoff is what happens after that. He
 
 And here's the thing - even if you went with Mint's **most expensive plan** (Unlimited at $30/line/month), you'd still save:
 
-| | AT&T Unlimited (2 lines) | Mint Unlimited (2 lines) | Annual Savings |
+| | AT&T Unlimited | Mint Unlimited | Saved |
 |---|---|---|---|
 | **Per year** | $1,620 | ~$720 | **~$900** |
-| **Over 3 years** | $4,860 | ~$2,160 | **~$2,700** |
+| **3 years** | $4,860 | ~$2,160 | **~$2,700** |
 
 So even in the worst-case scenario on Mint, you're still saving $900/year compared to what we were paying AT&T. We went with the 15GB plan because we're mostly on Wi-Fi, but it's worth knowing that the savings are there no matter which Mint plan you pick.
 
