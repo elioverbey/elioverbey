@@ -108,9 +108,9 @@ I built a quick calculator so you can see what switching would look like for you
 
 <div id="mint-calculator" style="background: #f8f9fa; border: 1px solid #e0e0e0; border-radius: 12px; padding: 2em; margin: 2em 0; font-family: inherit;">
 
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5em; margin-bottom: 1.5em;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5em 1.5em; margin-bottom: 1.5em;">
     <div>
-      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Your current monthly bill</label>
+      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Current monthly bill</label>
       <div style="position: relative;">
         <span style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: #888; font-size: 1em;">$</span>
         <input type="number" id="calc-current-bill" value="135" min="0" style="width: 100%; padding: 0.6em 0.6em 0.6em 1.8em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box;">
@@ -121,12 +121,12 @@ I built a quick calculator so you can see what switching would look like for you
       <input type="number" id="calc-lines" value="2" min="1" max="10" style="width: 100%; padding: 0.6em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box;">
     </div>
     <div>
-      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Mint Mobile plan (per line/month)</label>
+      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Mint Mobile plan</label>
       <select id="calc-mint-plan" style="width: 100%; padding: 0.6em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box; background: #fff;">
-        <option value="15">5GB - $15/mo</option>
-        <option value="20" selected>15GB - $20/mo</option>
-        <option value="25">20GB - $25/mo</option>
-        <option value="30">Unlimited - $30/mo</option>
+        <option value="15">5GB - $15/line/mo</option>
+        <option value="20" selected>15GB - $20/line/mo</option>
+        <option value="25">20GB - $25/line/mo</option>
+        <option value="30">Unlimited - $30/line/mo</option>
       </select>
     </div>
     <div>
@@ -134,7 +134,7 @@ I built a quick calculator so you can see what switching would look like for you
       <input type="number" id="calc-months-left" value="0" min="0" max="36" style="width: 100%; padding: 0.6em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box;">
     </div>
     <div>
-      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Monthly credit you'd forfeit (per line)</label>
+      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Forfeited credit per line/mo</label>
       <div style="position: relative;">
         <span style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: #888; font-size: 1em;">$</span>
         <input type="number" id="calc-credit" value="0" min="0" step="0.01" style="width: 100%; padding: 0.6em 0.6em 0.6em 1.8em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box;">
@@ -142,7 +142,7 @@ I built a quick calculator so you can see what switching would look like for you
       <span style="font-size: 0.8em; color: #888;">e.g. device promo credit per billing cycle</span>
     </div>
     <div>
-      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Any other one-time switching cost</label>
+      <label style="display: block; font-weight: 600; margin-bottom: 0.4em; font-size: 0.95em; color: #333;">Other one-time costs</label>
       <div style="position: relative;">
         <span style="position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: #888; font-size: 1em;">$</span>
         <input type="number" id="calc-other-cost" value="0" min="0" step="0.01" style="width: 100%; padding: 0.6em 0.6em 0.6em 1.8em; border: 1px solid #ccc; border-radius: 8px; font-size: 1em; box-sizing: border-box;">
@@ -299,7 +299,7 @@ This isn't a sponsored post - just a genuine recommendation from someone who's b
 
 <div style="background: linear-gradient(135deg, #f0faf5 0%, #e8f5ee 100%); border: 2px solid #0aad6e; border-radius: 12px; padding: 1.8em 2em; margin: 2em 0; text-align: center;">
   <p style="font-size: 1.2em; font-weight: 700; color: #1a1a1a; margin: 0 0 0.4em 0;">Want to give Mint Mobile a try?</p>
-  <p style="font-size: 0.95em; color: #555; margin: 0 0 1.2em 0;">If you sign up through my link below, I earn a small referral credit. No extra cost to you.</p>
+  <p style="font-size: 0.85em; color: #555; margin: 0 0 1.2em 0;">If you sign up through my link, I earn a small referral credit. No extra cost to you.</p>
   <a href="http://fbuy.me/u2x-3" style="display: inline-block; background: #0aad6e; color: #fff; padding: 0.75em 2em; border-radius: 8px; font-weight: 600; font-size: 1em; text-decoration: none; margin-bottom: 0.8em;">Try Mint Mobile (referral link)</a>
   <p style="font-size: 0.85em; color: #888; margin: 0;">Or go directly to <a href="https://www.mintmobile.com" style="color: #888;">mintmobile.com</a> — no hard feelings either way.</p>
 </div>
