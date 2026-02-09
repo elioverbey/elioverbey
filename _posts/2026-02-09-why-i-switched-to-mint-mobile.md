@@ -26,7 +26,7 @@ Here's where I'll let the numbers do the talking. Below are two screenshots from
   <figcaption>Our AT&T charges from YNAB — $135/month was the norm, plus that $172.66 Dublin trip.</figcaption>
 </figure>
 
-This isn't to say AT&T is a bad carrier - they're not. But on their unlimited plan, we were consistently paying **$135/month** for two lines. You'll notice the $172.66 charge in there - that was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our device balances so we could leave. That part stung, but it was worth it to move on.
+This isn't to say AT&T is a bad carrier - they're not. But on their unlimited plan, we were consistently paying **$135/month** for two lines. You'll notice the $172.66 charge in there - that was because I had to travel to Dublin for work and added AT&T's international plan for the trip. The two $645.51 charges at the end were us paying off our lines so we could leave. Now, to be fair - we didn't actually lose the full $645 per phone. That was the total payoff amount, but we'd already received most of the device value. What we really lost was about $300 each in future credits that AT&T would have applied to our bill - something like $13.45/month with about 14-16 months left on each agreement. So the real cost to leave was roughly $600 total, not $1,291. It still stung, but it was worth it to move on.
 
 
 Now here's what Mint Mobile looks like:
