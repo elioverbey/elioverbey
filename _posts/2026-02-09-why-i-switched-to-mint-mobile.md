@@ -3,11 +3,12 @@ title: "Why I Switched to Mint Mobile (And Why My Parents Did Too)"
 meta_description: I switched from AT&T to Mint Mobile and cut our phone bill from $135/mo to ~$48/mo. Real numbers, break-even analysis, and a savings calculator to run your own.
 permalink: why-i-switched-to-mint-mobile/
 layout: post
+excerpt: "A friend recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made."
 ---
 
-*Full transparency: this post contains a [referral link](http://fbuy.me/u2x-3) — if you sign up through it, I earn a small credit on my account. If you'd rather skip that, you can head straight to [mintmobile.com](https://www.mintmobile.com). Either way, I just want to share what's been working for us.*
-
 <!--more-->
+
+*Full transparency: this post contains a [referral link](http://fbuy.me/u2x-3) — if you sign up through it, I earn a small credit on my account. If you'd rather skip that, you can head straight to [mintmobile.com](https://www.mintmobile.com). Either way, I just want to share what's been working for us.*
 
 A friend (thanks Matt) recommended Mint Mobile to me about a year and a half ago, and it's genuinely been one of the best money moves we've made. I wanted to write this up because word of mouth is why I finally switched.
 
