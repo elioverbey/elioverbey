@@ -1,57 +1,25 @@
 ---
 layout: default
 title: Eli Overbey
-cover: false
-about: 'about.html'
-meta_description: A site of things I've written over the years. Currently, Revenue Operations at Circle (Previously at Help Scout).
+meta_description: Things I've written over the years. Revenue Operations at Help Scout.
 ---
 
-<header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
-    <nav class="main-nav overlay clearfix">
-            {% if page.logo %}
-                <a class="blog-logo" href="{{ site.baseurl }}">
-                    <img src="{{ page.logo }}" alt="Blog Logo" />
-                </a>
-            {% endif %}
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">{{ site.name }}</h1>
-            <h2 class="page-description">
-                {% if site.description %} {{ site.description }}. {% endif %}
-            
-            </h2>
-        </div>
-    </div>
-    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
-</header>
+<section class="hero">
+    <h1>Things I've written over the years.</h1>
+    <p class="tagline">I'm Eli Overbey. I don't write a ton these days because I'm busy being a dad and building great things with AI and automation at Help Scout and Circle. But when I do, it ends up here.</p>
+</section>
 
-
-<main id="content" class="content" role="main">
-
-
-    <div class="extra-pagination inner">
-        {% include pagination.html %}
-    </div>
-
-    {% for post in paginator.posts %}
-
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-        </header>
-        <section class="post-excerpt">
-            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
-        </section>
-        <footer class="post-meta">
-            <time class="post-date" datetime="{{ post.date | date:"%Y-%m-%d" }}">
-                {{ post.date | date_to_string }}
-            </time> 
-        </footer>
-    </article>
-
-    {% endfor %}
-
-    {% include pagination.html %}
-
-</main>
+<section class="recent-posts">
+    <h2>Recent Writing</h2>
+    <ul class="post-list">
+        {% for post in site.posts limit:5 %}
+        <li class="post-list-item">
+            <a href="{{ post.url }}">
+                <span>{{ post.title }}</span>
+                <span class="post-list-date">{{ post.date | date: "%b %Y" }}</span>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    <a class="view-all" href="/writing/">View all writing &rarr;</a>
+</section>

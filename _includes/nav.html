@@ -1,0 +1,13 @@
+<nav class="site-nav">
+  <div class="nav-left">
+    <a href="{{ site.baseurl }}/">
+      <img class="nav-avatar" src="/assets/images/profile.png" alt="{{ site.name }}">
+    </a>
+    <a class="nav-name" href="{{ site.baseurl }}/">{{ site.name }}</a>
+  </div>
+  <ul class="nav-links">
+    <li><a href="/about/" {% if page.url == '/about/' %}class="active"{% endif %}>About</a></li>
+    <li><a href="/writing/" {% if page.url == '/writing/' %}class="active"{% endif %}>Writing</a></li>
+    <li><a href="/contact/" {% if page.url == '/contact/' %}class="active"{% endif %}>Get in Touch</a></li>
+  </ul>
+</nav>

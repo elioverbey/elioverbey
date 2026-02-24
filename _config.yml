@@ -1,13 +1,21 @@
 name: Eli Overbey
 description: Things I've written over the years
+tagline: Revenue Operations at Help Scout
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: 
+baseurl:
 domain_name: 'https://www.elioverbey.com'
 gems: [jekyll-paginate]
+
+# Social links
+linkedin: https://www.linkedin.com/in/elioverbey/
+twitter: elioverbey
+
+# Contact
+formspree_id: mdalyaol
 
 # Details for the RSS feed generator
 url:            'https://www.elioverbey.com/'

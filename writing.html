@@ -1,0 +1,28 @@
+---
+layout: default
+title: Writing
+meta_description: All articles by Eli Overbey on marketing, SaaS, and revenue operations.
+permalink: /writing/
+---
+
+<section class="hero">
+    <h1>Writing</h1>
+    <p class="tagline">All the things I've put down on paper (well, screen) over the years.</p>
+</section>
+
+<section class="content-section">
+    {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+    <h3 class="post-list-year">{{ year.name }}</h3>
+    <ul class="post-list">
+        {% for post in year.items %}
+        <li class="post-list-item">
+            <a href="{{ post.url }}">
+                <span>{{ post.title }}</span>
+                <span class="post-list-date">{{ post.date | date: "%b %-d" }}</span>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+</section>
